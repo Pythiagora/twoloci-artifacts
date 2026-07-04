@@ -1,0 +1,10 @@
+=== informalisations (sauvées full) ===
+[Cauchy] La preuve emploie la méthode classique des polynômes cotangents (ou de l'identité trigonométrique d'Euler). Les idées clés sont le...
+[Parseval] La démonstration repose sur l’identité de Parseval appliquée à la fonction \(f(x)=x\) sur l’intervalle \((-π, π)\), développée en...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — BaselProblem_anon ===
+                Cauchy   Parseval
+    Cauchy        10.0        0.0
+  Parseval         0.0       10.0
+
+diag mean=10.00 | hors-diag mean=0.00 | MARGE=10.00  (off sd cellules=0.00)

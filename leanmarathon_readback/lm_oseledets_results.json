@@ -1,0 +1,1412 @@
+[
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Strict ultrametric equality] If $g$ is an ultrametric growth function and $g(v)\\neq g(w)$ (with $v,w,v+w$ nonzero), the"
+ },
+ {
+  "cond": "anon",
+  "mean": 6,
+  "gold": "[Strict ultrametric equality] If $g$ is an ultrametric growth function and $g(v)\\neq g(w)$ (with $v,w,v+w$ nonzero), the"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[A.e.\\ boundedness of Birkhoff averages] For a finite measure, a measure-preserving \\(T\\) and integrable \\(g\\), the Birk"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[A.e.\\ boundedness of Birkhoff averages] For a finite measure, a measure-preserving \\(T\\) and integrable \\(g\\), the Birk"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Counting bound] For all \\(a, b \\in \\R\\) with \\(a + b < 0\\), \\[ \\#\\{\\, j < d : \\mathrm{lam0}\\,j \\le a \\,\\} \\;+\\; \\#\\{\\, "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Counting bound] For all \\(a, b \\in \\R\\) with \\(a + b < 0\\), \\[ \\#\\{\\, j < d : \\mathrm{lam0}\\,j \\le a \\,\\} \\;+\\; \\#\\{\\, "
+ },
+ {
+  "cond": "named",
+  "mean": 1,
+  "gold": "[The a.e.\\ crux] For a.e.\\ \\(x\\), for every forward level \\(i\\) and backward level \\(s\\) with \\(\\mathrm{expEnum}\\,\\mathr"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[The a.e.\\ crux] For a.e.\\ \\(x\\), for every forward level \\(i\\) and backward level \\(s\\) with \\(\\mathrm{expEnum}\\,\\mathr"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Invariance from a one-sided orbital bound] For a finite measure, measure-preserving \\(T\\) and an a.e.\\ measurable \\(F\\)"
+ },
+ {
+  "cond": "anon",
+  "mean": null,
+  "gold": "[Invariance from a one-sided orbital bound] For a finite measure, measure-preserving \\(T\\) and an a.e.\\ measurable \\(F\\)"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Hard direction: \\(\\limsup \\le \\liminf\\) a.e.] Under the same hypotheses, for a.e.\\ \\(x\\) the \\texttt{EReal} limsup of t"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Hard direction: \\(\\limsup \\le \\liminf\\) a.e.] Under the same hypotheses, for a.e.\\ \\(x\\) the \\texttt{EReal} limsup of t"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Rank of the slow space] For a.e.\\ \\(x\\) and all \\(t \\in \\R\\), \\[ \\mathrm{finrank}\\,\\bigl(\\mathrm{vslow}\\,A\\,T\\,(\\exp t)"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Rank of the slow space] For a.e.\\ \\(x\\) and all \\(t \\in \\R\\), \\[ \\mathrm{finrank}\\,\\bigl(\\mathrm{vslow}\\,A\\,T\\,(\\exp t)"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Flow-equivariance of the filtration at every real time] Let \\( V \\) be the Oseledets filtration of the time-one data, a"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Flow-equivariance of the filtration at every real time] Let \\( V \\) be the Oseledets filtration of the time-one data, a"
+ },
+ {
+  "cond": "named",
+  "mean": null,
+  "gold": "[Per-term band-projector convergence] For \\(\\mu\\)-a.e.\\ \\(x\\) and every threshold index \\(k\\in[1,d)\\), the block term \\("
+ },
+ {
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "[Per-term band-projector convergence] For \\(\\mu\\)-a.e.\\ \\(x\\) and every threshold index \\(k\\in[1,d)\\), the block term \\("
+ },
+ {
+  "cond": "named",
+  "mean": 1,
+  "gold": "[Reverse slow-flag inclusion] For \\(\\mu\\)-a.e.\\ \\(x\\) and every \\(t\\), \\(\\mathrm{lambdaSublevel}(x,t) \\le \\mathrm{vslow}"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Reverse slow-flag inclusion] For \\(\\mu\\)-a.e.\\ \\(x\\) and every \\(t\\), \\(\\mathrm{lambdaSublevel}(x,t) \\le \\mathrm{vslow}"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Backward-orbit growth envelope] For a.e.\\ \\(x\\), \\[ \\limsup_{n} \\tfrac{1}{n}\\log\\bignorm{A^{(n)}(T^{-n}x)\\cdot P_{V_i(T"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Backward-orbit growth envelope] For a.e.\\ \\(x\\), \\[ \\limsup_{n} \\tfrac{1}{n}\\log\\bignorm{A^{(n)}(T^{-n}x)\\cdot P_{V_i(T"
+ },
+ {
+  "cond": "named",
+  "mean": 5,
+  "gold": "[Band projectors converge to the CFC indicator] For \\(\\mu\\)-a.e.\\ \\(x\\), every \\(c>0\\) that is not one of the limiting e"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Band projectors converge to the CFC indicator] For \\(\\mu\\)-a.e.\\ \\(x\\), every \\(c>0\\) that is not one of the limiting e"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Kingman core: a.e.\\ existence of an integrable limit] For a finite measure, measure-preserving measurable \\(T\\), an int"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Kingman core: a.e.\\ existence of an integrable limit] For a finite measure, measure-preserving measurable \\(T\\), an int"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Error sublinearity along the integer orbit] For integrable \\( g, g' \\) and a measure-preserving flow \\( \\varphi \\), for"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Error sublinearity along the integer orbit] For integrable \\( g, g' \\) and a measure-preserving flow \\( \\varphi \\), for"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Fixed-time log-norm is sublinear] Fix a real time \\( t_0 \\). For almost every \\( x \\), both \\( n^{-1}\\log\\norm{A(t_0, \\"
+ },
+ {
+  "cond": "anon",
+  "mean": 2,
+  "gold": "[Fixed-time log-norm is sublinear] Fix a real time \\( t_0 \\). For almost every \\( x \\), both \\( n^{-1}\\log\\norm{A(t_0, \\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Subexponential orbital tail] For a measure-preserving \\(T\\) and integrable \\(g\\), the orbital tail \\(n^{-1}\\, g(T^{[n]}"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Subexponential orbital tail] For a measure-preserving \\(T\\) and integrable \\(g\\), the orbital tail \\(n^{-1}\\, g(T^{[n]}"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Backward standing hypotheses] If \\(\\det A(x) \\neq 0\\) for all \\(x\\), \\(A\\) is measurable, \\(T\\) is measure-preserving, "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Backward standing hypotheses] If \\(\\det A(x) \\neq 0\\) for all \\(x\\), \\(A\\) is measurable, \\(T\\) is measure-preserving, "
+ },
+ {
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "[Lower semicontinuity of the bottom exponent] The bottom exponent $\\lambda_d = \\Gamma_d - \\Gamma_{d-1}$ is lower semicon"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Lower semicontinuity of the bottom exponent] The bottom exponent $\\lambda_d = \\Gamma_d - \\Gamma_{d-1}$ is lower semicon"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Functional calculus on an eigenvector] If \\(M\\) is self-adjoint and \\(M v = c\\,v\\) for \\(v \\neq 0\\), then \\((\\mathrm{cf"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Functional calculus on an eigenvector] If \\(M\\) is self-adjoint and \\(M v = c\\,v\\) for \\(v \\neq 0\\), then \\((\\mathrm{cf"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[The cocycle identity] For all \\(m, n \\in \\N\\) and \\(x \\in X\\), \\[ A^{(m+n)}(x) = A^{(m)}(T^{n}x)\\cdot A^{(n)}(x). \\]"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[The cocycle identity] For all \\(m, n \\in \\N\\) and \\(x \\in X\\), \\[ A^{(m+n)}(x) = A^{(m)}(T^{n}x)\\cdot A^{(n)}(x). \\]"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Band lower bound for the cocycle] For \\(c\\ge0\\) and \\(n\\ge1\\), \\[ c^{2n}\\,\\norm{P^{c}_n(x)\\,v}^2 \\;\\le\\; \\norm{A^{(n)}("
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Band lower bound for the cocycle] For \\(c\\ge0\\) and \\(n\\ge1\\), \\[ c^{2n}\\,\\norm{P^{c}_n(x)\\,v}^2 \\;\\le\\; \\norm{A^{(n)}("
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Backward cocycle identity] Writing \\(B = \\mathrm{backwardGen}\\,A\\,T\\), the cocycle of \\(B\\) over \\(T^{-1}\\) satisfies \\"
+ },
+ {
+  "cond": "anon",
+  "mean": null,
+  "gold": "[Backward cocycle identity] Writing \\(B = \\mathrm{backwardGen}\\,A\\,T\\), the cocycle of \\(B\\) over \\(T^{-1}\\) satisfies \\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Cocycle recursion, newest factor on the right] For any generator \\(A\\) and map \\(T\\), \\(A^{(n+1)}(x) = A(T^{[n]}x)\\cdot"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Cocycle recursion, newest factor on the right] For any generator \\(A\\) and map \\(T\\), \\(A^{(n+1)}(x) = A(T^{[n]}x)\\cdot"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Conditional expectation commutes with the dynamics] For a finite measure, a measure-preserving measurable \\(T\\) and int"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Conditional expectation commutes with the dynamics] For a finite measure, a measure-preserving measurable \\(T\\) and int"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Invertibility of the iterates] If \\(\\det A(x) \\neq 0\\) for every \\(x\\), then \\(\\det A^{(n)}(x) \\neq 0\\) for all \\(n, x\\"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Invertibility of the iterates] If \\(\\det A(x) \\neq 0\\) for every \\(x\\), then \\(\\det A^{(n)}(x) \\neq 0\\) for all \\(n, x\\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Ruelle reverse cofactor bound] Let \\(S\\) be orthogonal (\\(S S^{\\top}=1\\)) with the graded forward decay \\(\\abs{S_{ab}}\\"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Ruelle reverse cofactor bound] Let \\(S\\) be orthogonal (\\(S S^{\\top}=1\\)) with the graded forward decay \\(\\abs{S_{ab}}\\"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Splitting at a point] Define \\(E_i = V_i \\sqcap W_{\\mathrm{sidx}\\,i}\\). Then \\(\\mathrm{finrank}\\,E_i \\ge 1\\), the teles"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Splitting at a point] Define \\(E_i = V_i \\sqcap W_{\\mathrm{sidx}\\,i}\\). Then \\(\\mathrm{finrank}\\,E_i \\ge 1\\), the teles"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Biinvariant conull set] For \\(T\\) measure-preserving on a probability space and a conull measurable set \\(S\\), there is"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Biinvariant conull set] For \\(T\\) measure-preserving on a probability space and a conull measurable set \\(S\\), there is"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Non-ergodic exponents] For merely measure-preserving $T$ (no ergodicity) and invertible measurable $A$ with the standin"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Non-ergodic exponents] For merely measure-preserving $T$ (no ergodicity) and invertible measurable $A$ with the standin"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Fekete limit of the normalized integrals] For a measure-preserving \\(T\\), an integrable subadditive cocycle \\(g\\) whose"
+ },
+ {
+  "cond": "anon",
+  "mean": 3,
+  "gold": "[Fekete limit of the normalized integrals] For a measure-preserving \\(T\\), an integrable subadditive cocycle \\(g\\) whose"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Discrete filtration for the time-one data] Let \\( \\mu \\) be a probability measure, \\( \\varphi \\) a measure-preserving f"
+ },
+ {
+  "cond": "anon",
+  "mean": 8,
+  "gold": "[Discrete filtration for the time-one data] Let \\( \\mu \\) be a probability measure, \\( \\varphi \\) a measure-preserving f"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Deterministic singular-value exponents] There is an antitone sequence \\(\\lambda^0 : \\N\\to\\R\\) (antitone on \\([0,d)\\)) s"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Deterministic singular-value exponents] There is an antitone sequence \\(\\lambda^0 : \\N\\to\\R\\) (antitone on \\([0,d)\\)) s"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Non-ergodic positive-exponent sum] Summing the positive parts $\\max(\\lambda_i(x),0)$ over $i < d$ yields a single $T$-i"
+ },
+ {
+  "cond": "anon",
+  "mean": 9,
+  "gold": "[Non-ergodic positive-exponent sum] Summing the positive parts $\\max(\\lambda_i(x),0)$ over $i < d$ yields a single $T$-i"
+ },
+ {
+  "cond": "named",
+  "mean": 8,
+  "gold": "[Eigenvalue tie] $\\mu$-a.e., $\\exp(\\mathrm{exponents}_i)$ is the $i$-th sorted eigenvalue of the Oseledets limit matrix "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Eigenvalue tie] $\\mu$-a.e., $\\exp(\\mathrm{exponents}_i)$ is the $i$-th sorted eigenvalue of the Oseledets limit matrix "
+ },
+ {
+  "cond": "named",
+  "mean": 9,
+  "gold": "[Defining $\\sigma$-limit and order] For each sorted index $i$ and $\\mu$-a.e.\\ $x$, $\\tfrac1n\\log\\sigma_i(A^{(n)}(x)) \\to"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Defining $\\sigma$-limit and order] For each sorted index $i$ and $\\mu$-a.e.\\ $x$, $\\tfrac1n\\log\\sigma_i(A^{(n)}(x)) \\to"
+ },
+ {
+  "cond": "named",
+  "mean": 9,
+  "gold": "[Finiteness of the value set] If $E$ is finite-dimensional and $g$ is an ultrametric growth function, then $\\{g(v) : v\\n"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Finiteness of the value set] If $E$ is finite-dimensional and $g$ is an ultrametric growth function, then $\\{g(v) : v\\n"
+ },
+ {
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "[Furstenberg--Kesten, top exponent] Let \\(T\\) be ergodic for a probability measure \\(\\mu\\), let \\(A\\) be measurable and "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Furstenberg--Kesten, top exponent] Let \\(T\\) be ergodic for a probability measure \\(\\mu\\), let \\(A\\) be measurable and "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Furstenberg--Kesten, bottom exponent] Under the same hypotheses there is a constant \\(\\lambda \\in \\R\\) with \\[ \\frac{1}"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Furstenberg--Kesten, bottom exponent] Under the same hypotheses there is a constant \\(\\lambda \\in \\R\\) with \\[ \\frac{1}"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Fekete infimum representation] The partial-sum growth rate is the infimum over $n$ of the normalized integrals: \\[ \\Gam"
+ },
+ {
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "[Fekete infimum representation] The partial-sum growth rate is the infimum over $n$ of the normalized integrals: \\[ \\Gam"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Telescoping identity for partial sums] For $k \\le d$, the ergodic growth rate $\\Gamma_k$ of the product of the top-$k$ "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Telescoping identity for partial sums] For $k \\le d$, the ergodic growth rate $\\Gamma_k$ of the product of the top-$k$ "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Upper semicontinuity of partial sums and top exponent] Along a filter of generators $B_i \\to A$ for which each fixed-$n"
+ },
+ {
+  "cond": "anon",
+  "mean": 1.5,
+  "gold": "[Upper semicontinuity of partial sums and top exponent] Along a filter of generators $B_i \\to A$ for which each fixed-$n"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Shift-invariance of the growth limsup] Fix a real time \\( t_0 \\). For almost every \\( x \\) and every test vector \\( u \\"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Shift-invariance of the growth limsup] Fix a real time \\( t_0 \\). For almost every \\( x \\) and every test vector \\( u \\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Level sets exhaust the target set] The level sets \\(\\{x : 0 < \\texttt{maxBirkhoff}\\,T\\,g\\,N\\,x\\}\\) are monotone in \\(N\\"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Level sets exhaust the target set] The level sets \\(\\{x : 0 < \\texttt{maxBirkhoff}\\,T\\,g\\,N\\,x\\}\\) are monotone in \\(N\\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Sublevels of opposite sign are transverse] Fix \\(x\\). If the forward envelope for \\(V_x\\) holds at rate \\(a\\), \\(U_x\\) "
+ },
+ {
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "[Sublevels of opposite sign are transverse] Fix \\(x\\). If the forward envelope for \\(V_x\\) holds at rate \\(a\\), \\(U_x\\) "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Gram quadratic-form band bound] For self-adjoint \\(Q\\), a band indicator \\(\\chi=\\mathbf 1_{(c,\\infty)}\\), and a continu"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Gram quadratic-form band bound] For self-adjoint \\(Q\\), a band indicator \\(\\chi=\\mathbf 1_{(c,\\infty)}\\), and a continu"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Integrability of the limsup envelope] Under the same hypotheses, the limsup envelope \\(f_+\\) is integrable."
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Integrability of the limsup envelope] Under the same hypotheses, the limsup envelope \\(f_+\\) is integrable."
+ },
+ {
+  "cond": "named",
+  "mean": 1,
+  "gold": "[Integrability of the time-one log-norm] If \\( g \\in L^1(\\mu) \\) dominates \\( \\log^{+}\\norm{A(s,x)} \\) for all \\( s \\in "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Integrability of the time-one log-norm] If \\( g \\in L^1(\\mu) \\) dominates \\( \\log^{+}\\norm{A(s,x)} \\) for all \\( s \\in "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Integrability of the inverse time-one log-norm] If \\( g' \\in L^1(\\mu) \\) dominates \\( \\log^{+}\\norm{(A(s,x))^{-1}} \\) f"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Integrability of the inverse time-one log-norm] If \\( g' \\in L^1(\\mu) \\) dominates \\( \\log^{+}\\norm{(A(s,x))^{-1}} \\) f"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Integrability of the log-norm levels] Let \\(T\\) be measure-preserving for a finite measure \\(\\mu\\), \\(A\\) measurable an"
+ },
+ {
+  "cond": "anon",
+  "mean": 3,
+  "gold": "[Integrability of the log-norm levels] Let \\(T\\) be measure-preserving for a finite measure \\(\\mu\\), \\(A\\) measurable an"
+ },
+ {
+  "cond": "named",
+  "mean": 5,
+  "gold": "[Measurability and integrability of the maximal function] If \\(T\\) is measure-preserving and \\(g\\) is integrable, then e"
+ },
+ {
+  "cond": "anon",
+  "mean": 2,
+  "gold": "[Measurability and integrability of the maximal function] If \\(T\\) is measure-preserving and \\(g\\) is integrable, then e"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Integral of a Birkhoff sum] For measure-preserving \\(T\\) and integrable \\(f\\), \\(\\int \\sum_{k<n} f(T^{k}x)\\,d\\mu = n\\in"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Integral of a Birkhoff sum] For measure-preserving \\(T\\) and integrable \\(f\\), \\(\\int \\sum_{k<n} f(T^{k}x)\\,d\\mu = n\\in"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Subadditivity of the log-norm cocycle] Assume \\(\\det A \\neq 0\\) everywhere and \\(d \\neq 0\\). Then \\(g_n(x) = \\log\\norm{"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Subadditivity of the log-norm cocycle] Assume \\(\\det A \\neq 0\\) everywhere and \\(d \\neq 0\\). Then \\(g_n(x) = \\log\\norm{"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Subadditivity of the inverse log-norm cocycle] Under the same hypotheses, \\(g_n(x) = \\log\\norm{(A^{(n)}(x))^{-1}}\\) is "
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Subadditivity of the inverse log-norm cocycle] Under the same hypotheses, \\(g_n(x) = \\log\\norm{(A^{(n)}(x))^{-1}}\\) is "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Everywhere subadditivity] \\(\\mathrm{restLog}\\,A\\,V\\,T\\) is an everywhere subadditive cocycle: for all \\(m,n,x\\), \\(\\mat"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Everywhere subadditivity] \\(\\mathrm{restLog}\\,A\\,V\\,T\\) is an everywhere subadditive cocycle: for all \\(m,n,x\\), \\(\\mat"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[$\\bar\\lambda$ is an ultrametric growth function, a.e.] Under the hypotheses of \\ref{lambdaBar_mem_Icc}, for a.e.\\ $x$ t"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[$\\bar\\lambda$ is an ultrametric growth function, a.e.] Under the hypotheses of \\ref{lambdaBar_mem_Icc}, for a.e.\\ $x$ t"
+ },
+ {
+  "cond": "named",
+  "mean": 6,
+  "gold": "[Non-Archimedean inequality] For nonzero $v,w,v+w$, if the three growth sequences are bounded, then $\\bar\\lambda(v+w)\\le"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Non-Archimedean inequality] For nonzero $v,w,v+w$, if the three growth sequences are bounded, then $\\bar\\lambda(v+w)\\le"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Stratum exactness] On the good set, if $v\\in\\mathrm{vflag}(A,T,x)(i)$ but $v\\notin\\mathrm{vflag}(A,T,x)(i{+}1)$, then $"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Stratum exactness] On the good set, if $v\\in\\mathrm{vflag}(A,T,x)(i)$ but $v\\notin\\mathrm{vflag}(A,T,x)(i{+}1)$, then $"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[$A$-equivariance, a.e.] Under the same hypotheses, for a.e.\\ $x$ and every $v\\neq 0$, \\[ \\bar\\lambda_x(v) = \\bar\\lambda"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[$A$-equivariance, a.e.] Under the same hypotheses, for a.e.\\ $x$ and every $v\\neq 0$, \\[ \\bar\\lambda_x(v) = \\bar\\lambda"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Finiteness sandwich] Assume $T$ ergodic on a probability space, $A$ measurable and invertible, with $\\log\\norm{A}$ and "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Finiteness sandwich] Assume $T$ ergodic on a probability space, $A$ measurable and invertible, with $\\log\\norm{A}$ and "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Scaling invariance] For $c\\neq 0$ and $v\\neq 0$, $\\bar\\lambda(c\\cdot v)=\\bar\\lambda(v)$. By linearity $\\norm{A^{(n)}(x)"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Scaling invariance] For $c\\neq 0$ and $v\\neq 0$, $\\bar\\lambda(c\\cdot v)=\\bar\\lambda(v)$. By linearity $\\norm{A^{(n)}(x)"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Band-projector nesting, kernel propagation] For thresholds \\(c\\le c'\\) with limit band projectors \\(P,P'\\), if \\(Pv=0\\)"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Band-projector nesting, kernel propagation] For thresholds \\(c\\le c'\\) with limit band projectors \\(P,P'\\), if \\(Pv=0\\)"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Envelopes are a.e.\\ measurable and \\(T\\)-invariant] For a finite measure, measure-preserving \\(T\\), an integrable subad"
+ },
+ {
+  "cond": "anon",
+  "mean": 6.5,
+  "gold": "[Envelopes are a.e.\\ measurable and \\(T\\)-invariant] For a finite measure, measure-preserving \\(T\\), an integrable subad"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Sharp $\\limsup$ in the expanding case] There is a forward top value $\\lambda_1^+$ (the a.e.\\ limit of $\\tfrac1n\\log^+\\n"
+ },
+ {
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "[Sharp $\\limsup$ in the expanding case] There is a forward top value $\\lambda_1^+$ (the a.e.\\ limit of $\\tfrac1n\\log^+\\n"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Upper bound on the singular top exponent] Under the same singular hypotheses there is $\\lambda_1^+$ with, $\\mu$-a.e., \\"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Upper bound on the singular top exponent] Under the same singular hypotheses there is $\\lambda_1^+$ with, $\\mu$-a.e., \\"
+ },
+ {
+  "cond": "named",
+  "mean": 5.5,
+  "gold": "[Singular top-$k$ volume upper bound] For ergodic $T$ and a possibly-singular generator with $\\log^+\\norm{A} \\in L^1$, t"
+ },
+ {
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "[Singular top-$k$ volume upper bound] For ergodic $T$ and a possibly-singular generator with $\\log^+\\norm{A} \\in L^1$, t"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Slow-volume exponent squeeze] Given a volume cocycle whose top, slow and remaining log-exponent sequences satisfy a sum"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Slow-volume exponent squeeze] Given a volume cocycle whose top, slow and remaining log-exponent sequences satisfy a sum"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Distinct values are independent] If $g$ is an ultrametric growth function and $v\\colon \\iota\\to E$ is a family of nonze"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Distinct values are independent] If $g$ is an ultrametric growth function and $v\\colon \\iota\\to E$ is a family of nonze"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Upper Fekete bound] For \\(\\det A \\neq 0\\) everywhere and \\(d \\neq 0\\), \\[ \\log\\norm{A^{(n)}(x)} \\le \\sum_{k<n}\\log^{+}\\"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Upper Fekete bound] For \\(\\det A \\neq 0\\) everywhere and \\(d \\neq 0\\), \\[ \\log\\norm{A^{(n)}(x)} \\le \\sum_{k<n}\\log^{+}\\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Upper Fekete bound for the inverse cocycle] Under the same hypotheses, \\[ \\log\\norm{(A^{(n)}(x))^{-1}} \\le \\sum_{k<n}\\l"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Upper Fekete bound for the inverse cocycle] Under the same hypotheses, \\[ \\log\\norm{(A^{(n)}(x))^{-1}} \\le \\sum_{k<n}\\l"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Per-vector liminf lower bound] If \\(P^{c}_n(x)\\to P\\) with \\(c>0\\) and \\(Pv\\neq0\\), and the cocycle growth sequence is "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Per-vector liminf lower bound] If \\(P^{c}_n(x)\\to P\\) with \\(c>0\\) and \\(Pv\\neq0\\), and the cocycle growth sequence is "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Ergodic constancy of the spectrum] Given a.e.\\ that every realized value of the upper growth function is a deterministi"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Ergodic constancy of the spectrum] Given a.e.\\ that every realized value of the upper growth function is a deterministi"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Spectrum identity from two inclusions] If at \\(x\\) every realized exponent is a deterministic one and every determinist"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Spectrum identity from two inclusions] If at \\(x\\) every realized exponent is a deterministic one and every determinist"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Garsia's pointwise inequality] On the set where the maximal function is positive, for every \\(x\\) with \\(0 < \\texttt{ma"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Garsia's pointwise inequality] On the set where the maximal function is positive, for every \\(x\\) with \\(0 < \\texttt{ma"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Nonnegativity of the maximal function] For all \\(g, N, x\\) one has \\(0 \\le \\texttt{maxBirkhoff}\\,T\\,g\\,N\\,x\\)."
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Nonnegativity of the maximal function] For all \\(g, N, x\\) one has \\(0 \\le \\texttt{maxBirkhoff}\\,T\\,g\\,N\\,x\\)."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Recursion for the maximal function] For all \\(g, N, x\\), \\[ \\texttt{maxBirkhoff}\\,T\\,g\\,(N+1)\\,x = \\texttt{birkhoffSum}"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Recursion for the maximal function] For all \\(g, N, x\\), \\[ \\texttt{maxBirkhoff}\\,T\\,g\\,(N+1)\\,x = \\texttt{birkhoffSum}"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Polynomial in a measurable matrix] For a fixed real polynomial $q$, the map $a\\mapsto q(a)$ on $\\mathrm{Mat}_{d\\times d"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Polynomial in a measurable matrix] For a fixed real polynomial $q$, the map $a\\mapsto q(a)$ on $\\mathrm{Mat}_{d\\times d"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[CFC measurability for continuous functions] Let $M$ be measurable with each $M x$ self-adjoint, and $f\\colon\\R\\to\\R$ co"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[CFC measurability for continuous functions] Let $M$ be measurable with each $M x$ self-adjoint, and $f\\colon\\R\\to\\R$ co"
+ },
+ {
+  "cond": "named",
+  "mean": 2.5,
+  "gold": "[CFC measurability via interpolating polynomial] Let $M\\colon X\\to\\mathrm{Mat}_{d\\times d}(\\R)$ be measurable with each "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[CFC measurability via interpolating polynomial] Let $M\\colon X\\to\\mathrm{Mat}_{d\\times d}(\\R)$ be measurable with each "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Measurability of the cocycle iterates] If \\(A\\) and \\(T\\) are measurable then for each \\(n\\) the iterate \\(x \\mapsto A^"
+ },
+ {
+  "cond": "anon",
+  "mean": 1,
+  "gold": "[Measurability of the cocycle iterates] If \\(A\\) and \\(T\\) are measurable then for each \\(n\\) the iterate \\(x \\mapsto A^"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Measurability of the determinant] The determinant \\(M \\mapsto \\det M\\) is measurable."
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Measurability of the determinant] The determinant \\(M \\mapsto \\det M\\) is measurable."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Measurability of the matrix inverse] The inverse \\(M \\mapsto M^{-1}\\) is measurable on the entrywise structure."
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Measurability of the matrix inverse] The inverse \\(M \\mapsto M^{-1}\\) is measurable on the entrywise structure."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Measurability of the L2 operator norm] The map \\(M \\mapsto \\norm{M}\\) on \\(\\Matrix(\\Fin d)(\\Fin d)\\,\\R\\) is measurable."
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Measurability of the L2 operator norm] The map \\(M \\mapsto \\norm{M}\\) on \\(\\Matrix(\\Fin d)(\\Fin d)\\,\\R\\) is measurable."
+ },
+ {
+  "cond": "named",
+  "mean": 5,
+  "gold": "[Scalar growth is measurable] For fixed $v$, the map $x\\mapsto\\bar\\lambda_x(v)$ is measurable. It is the $\\limsup$ of th"
+ },
+ {
+  "cond": "anon",
+  "mean": 1,
+  "gold": "[Scalar growth is measurable] For fixed $v$, the map $x\\mapsto\\bar\\lambda_x(v)$ is measurable. It is the $\\limsup$ of th"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[The core maximal-inequality step] For a finite measure, measure-preserving \\(T\\), integrable \\(g\\) and \\(\\varepsilon > "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[The core maximal-inequality step] For a finite measure, measure-preserving \\(T\\), integrable \\(g\\) and \\(\\varepsilon > "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Multi-source geometric envelope] If a nonnegative sequence \\(a\\) obeys a one-step recursion fed by finitely many source"
+ },
+ {
+  "cond": "anon",
+  "mean": null,
+  "gold": "[Multi-source geometric envelope] If a nonnegative sequence \\(a\\) obeys a one-step recursion fed by finitely many source"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Integer times are iterates of the time-one map] For a measure-preserving flow \\( \\varphi \\) and \\( n \\in \\N \\), the int"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Integer times are iterates of the time-one map] For a measure-preserving flow \\( \\varphi \\) and \\( n \\in \\N \\), the int"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Lower bound via the inverse Birkhoff sum] Under the same hypotheses, \\[ -\\sum_{k<n}\\log^{+}\\norm{(A(T^{k}x))^{-1}} \\le "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Lower bound via the inverse Birkhoff sum] Under the same hypotheses, \\[ -\\sum_{k<n}\\log^{+}\\norm{(A(T^{k}x))^{-1}} \\le "
+ },
+ {
+  "cond": "named",
+  "mean": 9,
+  "gold": "[Positivity of the iterate norms] Assume \\(\\det A(x) \\neq 0\\) for all \\(x\\) and \\(d \\neq 0\\). Then \\(0 < \\norm{A^{(n)}(x"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Positivity of the iterate norms] Assume \\(\\det A(x) \\neq 0\\) for all \\(x\\) and \\(d \\neq 0\\). Then \\(0 < \\norm{A^{(n)}(x"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[The unit matrix has norm one] When \\(d \\neq 0\\), \\(\\norm{(1 : \\Matrix(\\Fin d)(\\Fin d)\\,\\R)} = 1\\) for the L2 operator n"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[The unit matrix has norm one] When \\(d \\neq 0\\), \\(\\norm{(1 : \\Matrix(\\Fin d)(\\Fin d)\\,\\R)} = 1\\) for the L2 operator n"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Spectral deviation bound] For a self-adjoint matrix \\(M\\) and any function \\(g\\), \\[ \\norm{M - g(M)} \\;\\le\\; \\sum_j \\ab"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Spectral deviation bound] For a self-adjoint matrix \\(M\\) and any function \\(g\\), \\[ \\norm{M - g(M)} \\;\\le\\; \\sum_j \\ab"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[The intersection fixes exactly \\(K \\sqcap L\\)] \\((P_K\\,P_L\\,P_K)\\,v = v\\) if and only if \\(v \\in K \\sqcap L\\)."
+ },
+ {
+  "cond": "anon",
+  "mean": 6,
+  "gold": "[The intersection fixes exactly \\(K \\sqcap L\\)] \\((P_K\\,P_L\\,P_K)\\,v = v\\) if and only if \\(v \\in K \\sqcap L\\)."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Structure of the limit] For \\(\\mu\\)-a.e.\\ \\(x\\), \\(\\Lambda(x)\\) is self-adjoint and positive semidefinite."
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Structure of the limit] For \\(\\mu\\)-a.e.\\ \\(x\\), \\(\\Lambda(x)\\) is self-adjoint and positive semidefinite."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[One-sided Oseledets multiplicative ergodic theorem] Let \\(\\mu\\) be a probability measure, \\(T:X\\to X\\) ergodic measure-"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[One-sided Oseledets multiplicative ergodic theorem] Let \\(\\mu\\) be a probability measure, \\(T:X\\to X\\) ergodic measure-"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Repackaged existence] Under the standing hypotheses (ergodic $T$, invertible measurable $A$ with $\\log^+\\norm{A}, \\log^"
+ },
+ {
+  "cond": "anon",
+  "mean": 6,
+  "gold": "[Repackaged existence] Under the standing hypotheses (ergodic $T$, invertible measurable $A$ with $\\log^+\\norm{A}, \\log^"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Strong one-sided export] Under the one-sided hypotheses (with \\([\\mathrm{NeZero}\\,d]\\)) there exist a decreasing expone"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Strong one-sided export] Under the one-sided hypotheses (with \\([\\mathrm{NeZero}\\,d]\\)) there exist a decreasing expone"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Filtration from the top-gap envelope] Under the standing ergodic, invertible, log-integrable hypotheses, and assuming t"
+ },
+ {
+  "cond": "anon",
+  "mean": 1,
+  "gold": "[Filtration from the top-gap envelope] Under the standing ergodic, invertible, log-integrable hypotheses, and assuming t"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[MET with multiplicities] Under the standing hypotheses there exist $k, \\lambda, V$ and a strictly decreasing $m$ with $"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[MET with multiplicities] Under the standing hypotheses there exist $k, \\lambda, V$ and a strictly decreasing $m$ with $"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Continuous-flow multiplicative ergodic theorem] Let \\( \\mu \\) be a probability measure on \\( X \\), let \\( \\varphi \\) be"
+ },
+ {
+  "cond": "anon",
+  "mean": 1.5,
+  "gold": "[Continuous-flow multiplicative ergodic theorem] Let \\( \\mu \\) be a probability measure on \\( X \\), let \\( \\varphi \\) be"
+ },
+ {
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "[The two-sided Oseledets splitting] Let \\(T : X \\simeq_m X\\) be an invertible ergodic measure-preserving transformation "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[The two-sided Oseledets splitting] Let \\(T : X \\simeq_m X\\) be an invertible ergodic measure-preserving transformation "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Identification of the Furstenberg--Kesten constant] Any constant $c$ to which $\\tfrac1n\\log\\norm{A^{(n)}(x)}$ converges"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Identification of the Furstenberg--Kesten constant] Any constant $c$ to which $\\tfrac1n\\log\\norm{A^{(n)}(x)}$ converges"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Per-stratum envelope step] At a fixed cut strictly inside a gap of width \\(\\ge G\\), the one-step band-mass increment is"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Per-stratum envelope step] At a fixed cut strictly inside a gap of width \\(\\ge G\\), the one-step band-mass increment is"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Reflection lemma] Let \\(p, q : \\N \\to \\R\\) be antitone on \\([0,d)\\). If \\(\\#\\{p \\le a\\} + \\#\\{q \\le b\\} \\le d\\) wheneve"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Reflection lemma] Let \\(p, q : \\N \\to \\R\\) be antitone on \\([0,d)\\). If \\(\\#\\{p \\le a\\} + \\#\\{q \\le b\\} \\le d\\) wheneve"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Restricted Kingman, both directions of time] Kingman applied to \\(\\mathrm{restLog}\\) over \\(T\\) yields a constant \\(\\ch"
+ },
+ {
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "[Restricted Kingman, both directions of time] Kingman applied to \\(\\mathrm{restLog}\\) over \\(T\\) yields a constant \\(\\ch"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Restricted exponent equals \\(\\lambda_i\\)] For the forward level \\(V_i\\), the restricted Kingman constant equals the \\(i"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Restricted exponent equals \\(\\lambda_i\\)] For the forward level \\(V_i\\), the restricted Kingman constant equals the \\(i"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Dimension interlacing] At each ambient flag level, the dimension captured by the subbundle is bounded by the ambient di"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Dimension interlacing] At each ambient flag level, the dimension captured by the subbundle is bounded by the ambient di"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Restricted strict Oseledets filtration] For ergodic $T$, invertible $A$, and an invariant subbundle $W$, collapsing the"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Restricted strict Oseledets filtration] For ergodic $T$, invertible $A$, and an invariant subbundle $W$, collapsing the"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Maximal ergodic inequality (Hopf--Garsia)] For a measure-preserving \\(T\\) and an integrable \\(f : X \\to \\R\\), \\[ 0 \\le "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Maximal ergodic inequality (Hopf--Garsia)] For a measure-preserving \\(T\\) and an integrable \\(f : X \\to \\R\\), \\[ 0 \\le "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Garsia's inequality at a fixed level] For a measure-preserving \\(T\\) and a measurable integrable \\(g\\), and every \\(N :"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Garsia's inequality at a fixed level] For a measure-preserving \\(T\\) and a measurable integrable \\(g\\), and every \\(N :"
+ },
+ {
+  "cond": "named",
+  "mean": 7,
+  "gold": "[Aligned backward index] Under the reflection \\(\\mathrm{mu0}\\,j = -\\mathrm{lam0}\\,(d-1-j)\\), the backward count of disti"
+ },
+ {
+  "cond": "anon",
+  "mean": 7.5,
+  "gold": "[Aligned backward index] Under the reflection \\(\\mathrm{mu0}\\,j = -\\mathrm{lam0}\\,(d-1-j)\\), the backward count of disti"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Spectral upper bound via the determinant squeeze] Let \\(v\\neq0\\) lie in the slow subspace. Given the slow restricted-no"
+ },
+ {
+  "cond": "anon",
+  "mean": 6.5,
+  "gold": "[Spectral upper bound via the determinant squeeze] Let \\(v\\neq0\\) lie in the slow subspace. Given the slow restricted-no"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Product of singular values is the absolute determinant] For every $n$, $x$: $\\mathrm{sprod}\\,A\\,T\\,d\\,n\\,x = \\abs{\\det "
+ },
+ {
+  "cond": "anon",
+  "mean": 1,
+  "gold": "[Product of singular values is the absolute determinant] For every $n$, $x$: $\\mathrm{sprod}\\,A\\,T\\,d\\,n\\,x = \\abs{\\det "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Block-value step function reproduces the spectrum] Let \\(\\mathrm{stepVal}\\,\\lambda^0\\,D\\) be the step function \\(e^{\\la"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Block-value step function reproduces the spectrum] Let \\(\\mathrm{stepVal}\\,\\lambda^0\\,D\\) be the step function \\(e^{\\la"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Determinant identity] The sum of all Lyapunov exponents equals the integral of $\\log\\abs{\\det}$ of the generator: \\[ \\s"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Determinant identity] The sum of all Lyapunov exponents equals the integral of $\\log\\abs{\\det}$ of the generator: \\[ \\s"
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Positive sum as a maximal partial sum] Writing $k_+ = \\#\\{i : 0 < \\mathrm{exponents}_i\\}$, the positive-exponent sum eq"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Positive sum as a maximal partial sum] Writing $k_+ = \\#\\{i : 0 < \\mathrm{exponents}_i\\}$, the positive-exponent sum eq"
+ },
+ {
+  "cond": "named",
+  "mean": 7.5,
+  "gold": "[Sign characterizations of exponent sums] The sum $\\mathrm{sumPosExp}$ of the strictly positive exponents is nonnegative"
+ },
+ {
+  "cond": "anon",
+  "mean": 6,
+  "gold": "[Sign characterizations of exponent sums] The sum $\\mathrm{sumPosExp}$ of the strictly positive exponents is nonnegative"
+ },
+ {
+  "cond": "named",
+  "mean": 9,
+  "gold": "[Forward determinant sum] Any exponent sequence \\(\\mathrm{lam0}\\) realizing the a.e.\\ singular-value limits satisfies \\("
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Forward determinant sum] Any exponent sequence \\(\\mathrm{lam0}\\) realizing the a.e.\\ singular-value limits satisfies \\("
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Backward sum is the negated forward sum] For a backward exponent sequence \\(\\mathrm{mu0}\\), \\(\\sum_{j<d}\\mathrm{mu0}\\,j"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Backward sum is the negated forward sum] For a backward exponent sequence \\(\\mathrm{mu0}\\), \\(\\sum_{j<d}\\mathrm{mu0}\\,j"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Sum of distinct-value vectors] Let $g$ be an ultrametric growth function, $s$ a nonempty finite index set, and $v\\colon"
+ },
+ {
+  "cond": "anon",
+  "mean": 1,
+  "gold": "[Sum of distinct-value vectors] Let $g$ be an ultrametric growth function, $s$ a nonempty finite index set, and $v\\colon"
+ },
+ {
+  "cond": "named",
+  "mean": 6,
+  "gold": "[Tempering] If \\(T\\) is measure-preserving and \\(g\\ge0\\) with \\(g\\in L^1(\\mu)\\), then for \\(\\mu\\)-a.e.\\ \\(x\\), \\(\\tfrac1"
+ },
+ {
+  "cond": "anon",
+  "mean": 5,
+  "gold": "[Tempering] If \\(T\\) is measure-preserving and \\(g\\ge0\\) with \\(g\\in L^1(\\mu)\\), then for \\(\\mu\\)-a.e.\\ \\(x\\), \\(\\tfrac1"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Volume contraction] If $\\sum_i \\mathrm{exponents}_i < 0$ then $\\mu$-a.e.\\ $\\abs{\\det A^{(n)}(x)} \\to 0$."
+ },
+ {
+  "cond": "anon",
+  "mean": 6,
+  "gold": "[Volume contraction] If $\\sum_i \\mathrm{exponents}_i < 0$ then $\\mu$-a.e.\\ $\\abs{\\det A^{(n)}(x)} \\to 0$."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Pointwise (Birkhoff) ergodic theorem] For a finite measure, a measure-preserving \\(T\\) and an integrable \\(g\\), the Bir"
+ },
+ {
+  "cond": "anon",
+  "mean": 9,
+  "gold": "[Pointwise (Birkhoff) ergodic theorem] For a finite measure, a measure-preserving \\(T\\) and an integrable \\(g\\), the Bir"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Ergodic case of Birkhoff] For an ergodic \\(T\\) on a probability space and integrable \\(g\\), the Birkhoff averages conve"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Ergodic case of Birkhoff] For an ergodic \\(T\\) on a probability space and integrable \\(g\\), the Birkhoff averages conve"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[The band correction vanishes] If \\(P^{c}_n(x)\\to P\\) with \\(Pv\\neq0\\), then \\(\\tfrac1n\\log\\norm{P^{c}_n(x)\\,v}\\to 0\\)."
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[The band correction vanishes] If \\(P^{c}_n(x)\\to P\\) with \\(Pv\\neq0\\), then \\(\\tfrac1n\\log\\norm{P^{c}_n(x)\\,v}\\to 0\\)."
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Kingman's subadditive ergodic theorem] For a finite measure, a measure-preserving \\(T\\), an integrable subadditive cocy"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Kingman's subadditive ergodic theorem] For a finite measure, a measure-preserving \\(T\\), an integrable subadditive cocy"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Kingman, ergodic case] For an ergodic \\(T\\) on a probability space, an integrable subadditive cocycle with normalized i"
+ },
+ {
+  "cond": "anon",
+  "mean": 4.5,
+  "gold": "[Kingman, ergodic case] For an ergodic \\(T\\) on a probability space, an integrable subadditive cocycle with normalized i"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Kingman constant as the limit of integral means] Under the hypotheses of the ergodic Kingman theorem, there is a consta"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Kingman constant as the limit of integral means] Under the hypotheses of the ergodic Kingman theorem, there is a consta"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Between-times sandwich: continuous growth equals integer-time growth] Fix a flow \\( \\varphi \\), a flow cocycle \\( A \\) "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Between-times sandwich: continuous growth equals integer-time growth] Fix a flow \\( \\varphi \\), a flow cocycle \\( A \\) "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[$k$-volume growth rate] For $k \\le d$ and $\\mu$-a.e.\\ $x$, the operator-norm growth of the compound cocycle converges t"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[$k$-volume growth rate] For $k \\le d$ and $\\mu$-a.e.\\ $x$, the operator-norm growth of the compound cocycle converges t"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Inverse cocycle exponents] For each sorted index $i$ and $\\mu$-a.e.\\ $x$, the singular-value exponents of the inverse-m"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Inverse cocycle exponents] For each sorted index $i$ and $\\mu$-a.e.\\ $x$, the singular-value exponents of the inverse-m"
+ },
+ {
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "[The limit is the a.e.\\ limit of the approximants] For \\(\\mu\\)-a.e.\\ \\(x\\), \\(q_n(x)\\to \\Lambda(x)\\) in the matrix metri"
+ },
+ {
+  "cond": "anon",
+  "mean": 2.5,
+  "gold": "[The limit is the a.e.\\ limit of the approximants] For \\(\\mu\\)-a.e.\\ \\(x\\), \\(q_n(x)\\to \\Lambda(x)\\) in the matrix metri"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Powers of the projector triple converge to the intersection projector] For subspaces \\(K, L\\) of \\(\\R^d\\), with \\(P_K, "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Powers of the projector triple converge to the intersection projector] For subspaces \\(K, L\\) of \\(\\R^d\\), with \\(P_K, "
+ },
+ {
+  "cond": "named",
+  "mean": 0,
+  "gold": "[Existence of the Oseledets limit] For \\(\\mu\\)-a.e.\\ \\(x\\) the approximants \\(q_n(x)\\) converge in the matrix metric to "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Existence of the Oseledets limit] For \\(\\mu\\)-a.e.\\ \\(x\\) the approximants \\(q_n(x)\\) converge in the matrix metric to "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Forward top value] For ergodic $T$ and a possibly-singular measurable generator with only $\\log^+\\norm{A} \\in L^1$ (no "
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Forward top value] For ergodic $T$ and a possibly-singular measurable generator with only $\\log^+\\norm{A} \\in L^1$ (no "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Reduction identity at integer times] For a flow cocycle \\( A \\) over \\( \\varphi \\), every \\( n \\in \\N \\) and every \\( x"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Reduction identity at integer times] For a flow cocycle \\( A \\) over \\( \\varphi \\), every \\( n \\in \\N \\) and every \\( x"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Top of the reversed spectrum is minus the bottom] $\\mu$-a.e.\\ the largest exponent of the inverse cocycle is $-\\,\\mathr"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Top of the reversed spectrum is minus the bottom] $\\mu$-a.e.\\ the largest exponent of the inverse cocycle is $-\\,\\mathr"
+ },
+ {
+  "cond": "named",
+  "mean": 5,
+  "gold": "[The top-gap envelope, a.e.] For \\(\\mu\\)-a.e.\\ \\(x\\), the top-gap fast-band-mass envelope \\(\\mathrm{TopGapMassEnvelope}\\"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[The top-gap envelope, a.e.] For \\(\\mu\\)-a.e.\\ \\(x\\), the top-gap fast-band-mass envelope \\(\\mathrm{TopGapMassEnvelope}\\"
+ },
+ {
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "[$A$-equivariance of spectrum and flag, a.e.] Under the standing hypotheses, for a.e.\\ $x$ the spectrum is invariant, $\\"
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[$A$-equivariance of spectrum and flag, a.e.] Under the standing hypotheses, for a.e.\\ $x$ the spectrum is invariant, $\\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Strict decrease] On the good set, $\\mathrm{vflag}(A,T,x)(i{+}1) \\subsetneq \\mathrm{vflag}(A,T,x)(i)$ for each interior "
+ },
+ {
+  "cond": "anon",
+  "mean": 0,
+  "gold": "[Strict decrease] On the good set, $\\mathrm{vflag}(A,T,x)(i{+}1) \\subsetneq \\mathrm{vflag}(A,T,x)(i)$ for each interior "
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Extremal levels] On the good set, $\\mathrm{vflag}(A,T,x)(0)=\\top$; and unconditionally $\\mathrm{vflag}(A,T,x)(\\mathrm{l"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Extremal levels] On the good set, $\\mathrm{vflag}(A,T,x)(0)=\\top$; and unconditionally $\\mathrm{vflag}(A,T,x)(\\mathrm{l"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[The slow flag equals the limsup sublevel] Under the spectral upper bound and the reverse inclusion, for \\(\\mu\\)-a.e.\\ \\"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[The slow flag equals the limsup sublevel] Under the spectral upper bound and the reverse inclusion, for \\(\\mu\\)-a.e.\\ \\"
+ },
+ {
+  "cond": "named",
+  "mean": 10,
+  "gold": "[Upper bound on the slow space] On the ultrametric-growth good set, every vector \\(v\\) of the \\(\\Lambda\\)-slow band \\(\\m"
+ },
+ {
+  "cond": "anon",
+  "mean": 10,
+  "gold": "[Upper bound on the slow space] On the ultrametric-growth good set, every vector \\(v\\) of the \\(\\Lambda\\)-slow band \\(\\m"
+ }
+]

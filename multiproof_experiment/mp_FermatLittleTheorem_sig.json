@@ -1,0 +1,30 @@
+[
+ {
+  "method": "Alkauskas",
+  "gold": "Apply the integer formal product expansion to frac{1-(d+1)x}{1-dx}. Comparing the coefficient of x^p in the negated logarithmic derivative gives p mid (d+1)^p - d^p - 1. Telescoping these congruences over d proves the natural-number form, then the reduction gives the integer form.",
+  "script": "\ndef F1 : Prop := ∀ F2 : ℕ, ∀ F3 : ℤ, F4 → F3 ^ F2 ≡ F3 [F5 F2]\n\n\ndef F6 : Prop := ∀ F2 : ℕ, ∀ F3 : ℕ, F4 → F3 ^ F2 ≡ F3 [F7 F2]\n\n\ntheorem F8 :\n    F6 → F1 := by sorry\n\nlemma F9 {F10 : ℤ⟦F11⟧} (F12 : F13 F10 = 1)\n    (F14 : F15 1 F10 = -1) (F16 : ℕ) :\n    ∃ F3 : ℕ → ℤ, F3 1 = 1 ∧\n      ∀ F17 ≤ F16, F15 F17 F10 = F15 F17 (∏ F18 ∈ F19 1 F16, (1 - F20 (F3 F18) * F11 ^ F18)) := by sorry\n\ntheorem F21 : F1 := by sorry\n",
+  "stmt": "Fermat's Little Theorem, in integer form, says that for any prime p and integer a, one has a^p equiv a mod p.",
+  "nmask": 21
+ },
+ {
+  "method": "Binomial",
+  "gold": "In characteristic p, Freshman's dream gives (x + 1)^p = x^p + 1. Applying this in ZMod p and inducting over natural representatives proves the congruence.",
+  "script": "\ndef F1 : Prop := ∀ F2 : ℕ, ∀ F3 : ℤ, F4 → F3 ^ F2 ≡ F3 [F5 F2]\n\n\ndef F6 : Prop := ∀ F2 : ℕ, ∀ F3 : ℕ, F4 → F3 ^ F2 ≡ F3 [F7 F2]\n\n\ntheorem F8 : F1 := by sorry\n",
+  "stmt": "Fermat's Little Theorem, in integer form, says that for any prime p and integer a, one has a^p equiv a mod p.",
+  "nmask": 8
+ },
+ {
+  "method": "Dynamical",
+  "gold": "By , it suffices to prove the natural-number form. It suffices to prove the natural-number form. For a ge 2, consider the fixed points of T_{a^p} that are not fixed by T_a. Their cardinality is a^p-a, and the action of T_a partitions this set into orbits of size p, so p divides a^p-a.",
+  "script": "\ndef F1 : Prop := ∀ F2 : ℕ, ∀ F3 : ℤ, F4 → F3 ^ F2 ≡ F3 [F5 F2]\n\n\ndef F6 : Prop := ∀ F2 : ℕ, ∀ F3 : ℕ, F4 → F3 ^ F2 ≡ F3 [F7 F2]\n\n\ntheorem F8 :\n    F6 → F1 := by sorry\n\nlemma F9 (F10 F11 : ℕ) : F12 F10 ∘ F12 F11 = F12 (F10 * F11) := by sorry\n\nlemma F13 (F11 : ℕ) (F14 : 2 ≤ F11) : F15 {F16 : F17 | F12 F11 F16 = F16} = F11 := by sorry\n\ntheorem F18 : F1 := by sorry\n",
+  "stmt": "Fermat's Little Theorem, in integer form, says that for any prime p and integer a, one has a^p equiv a mod p.",
+  "nmask": 18
+ },
+ {
+  "method": "Lagrange",
+  "gold": "If a is zero modulo p, the claim is immediate. Otherwise a is a unit in mathbb{Z}/pmathbb{Z}; by Lagrange's theorem its order divides p - 1, so a^{p-1} = 1, and multiplying by a gives the result.",
+  "script": "\ndef F1 : Prop := ∀ F2 : ℕ, ∀ F3 : ℤ, F4 → F3 ^ F2 ≡ F3 [F5 F2]\n\n\ndef F6 : Prop := ∀ F2 : ℕ, ∀ F3 : ℕ, F4 → F3 ^ F2 ≡ F3 [F7 F2]\n\n\ntheorem F8 : F1 := by sorry\n",
+  "stmt": "Fermat's Little Theorem, in integer form, says that for any prime p and integer a, one has a^p equiv a mod p.",
+  "nmask": 8
+ }
+]

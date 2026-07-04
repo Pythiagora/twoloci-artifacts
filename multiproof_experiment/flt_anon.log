@@ -1,0 +1,15 @@
+Installed 7 packages in 6ms
+=== informalisations (sauvées full) ===
+[Alkauskas] La preuve utilise le calcul formel sur les séries entières à coefficients dans ℤ. Elle définit, pour toute série inversible \(g\)...
+[Binomial] La preuve se place dans l’anneau ℤ/pℤ. Elle exploite le fait que l’élévation à la puissance p est un endomorphisme de Frobenius en...
+[Dynamical] La preuve présentée repose sur une interprétation dynamique et combinatoire du petit théorème de Fermat. L'idée maîtresse est de m...
+[Lagrange] La preuve utilise la structure de corps fini ℤ/pℤ. Elle sépare le cas où a est divisible par p (trivial) et le cas où a est invers...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — flt_anon ===
+             Alkauskas   Binomial  Dynamical   Lagrange
+ Alkauskas        10.0        0.0        0.0        0.0
+  Binomial         0.4       10.0        0.0        0.0
+ Dynamical         0.0        0.0       10.0        0.0
+  Lagrange         0.0        0.0        0.0       10.0
+
+diag mean=10.00 | hors-diag mean=0.03 | MARGE=9.97  (off sd cellules=0.11)

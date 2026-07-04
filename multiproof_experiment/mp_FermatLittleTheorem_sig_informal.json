@@ -1,0 +1,18 @@
+[
+ {
+  "method": "Alkauskas",
+  "informal": ""
+ },
+ {
+  "method": "Binomial",
+  "informal": "Le code fourni ne contient **aucune preuve**. Il se limite à définir deux énoncés (pour les entiers naturels et relatifs) et à déclarer un théorème avec `by sorry`, ce qui signifie que la démonstration est absente/laissée vide. Aucune méthode mathématique n’est donc employée ici."
+ },
+ {
+  "method": "Dynamical",
+  "informal": "La preuve exploite le point de vue des corps finis et le comptage des points fixes de l’endomorphisme de Frobenius. Voici les idées-clés :\n\n1. **Réduction modulo un nombre premier \\(p\\).** On interprète la congruence modulo \\(p\\) dans le corps \\(\\mathbb{Z}/p\\mathbb{Z}\\) ; le théorème pour les entiers naturels (\\(F6\\)) se traduit par le fait que tout élément \\(x\\) de ce corps vérifie \\(x^p = x\\).\n\n2. **Morphisme de Frobenius et composition.** L’application \\(x \\mapsto x^p\\) (le Frobenius) possède la propriété de composition fonctionnelle donnée par le lemme \\(F9\\) : itérer le Frobenius \\(a\\) fois puis \\(b\\) fois équivaut à l’itérer \\(a \\cdot b\\) fois.\n\n3. **Lemme de comptage des points fixes (F13).** Dans \\(\\mathbb{Z}/p\\mathbb{Z}\\) (avec \\(p \\ge 2\\)), on montre que l’équation \\(x^p = x\\) possède exactement \\(p\\) solutions. Comme le corps possède lui-même \\(p\\) éléments, ce décompte force l’égalité \\(x^p = x\\) pour tout \\(x\\). Ce point central peut être obtenu en utilisant le théorème de Lagrange sur le groupe multiplicatif (d’ordre \\(p-1\\)) ou par une étude du polynôme \\(X^p - X\\).\n\n4. **Extension aux entiers relatifs.** Le lemme \\(F8\\) permet de passer des entiers naturels (\\(\\mathbb{N}\\)) aux entiers relatifs (\\(\\mathbb{Z}\\)) en traitant séparément le cas des nombres négatifs (par exemple en utilisant \\((-a)^p \\equiv -a \\bmod p\\) pour \\(p\\) impair).\n\nEn résumé, la méthode algébrique employée combine la structure de corps fini, le comptage des points fixes du Frobenius et une extension triviale aux entiers relatifs."
+ },
+ {
+  "method": "Lagrange",
+  "informal": "La preuve Lean fournie est un simple squelette : la démonstration du théorème F8 est laissée avec `sorry`, ce qui signifie qu’**aucune preuve n’est présente**. Il n’y a donc aucune méthode mathématique ni idée-clé spécifique à analyser ici. Les définitions de `F1` et `F6` ne font qu’énoncer le théorème sous deux formes (entière et naturelle), sans révéler d’approche démonstrative."
+ }
+]

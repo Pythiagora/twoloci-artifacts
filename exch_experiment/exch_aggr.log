@@ -1,0 +1,12 @@
+=== informalisations (sauvées full) ===
+[Martingale] La preuve repose sur la méthode classique du théorème de de Finetti pour les suites échangeables (ici appelées « contractables »). Les idées...
+[L2] La preuve s'appuie sur la **convergence en moyenne quadratique des moyennes empiriques d'une suite contractable** et une **construction dire...
+[Koopman] La preuve s’appuie sur une approche ergodique. On munit l’espace des suites de la topologie produit et on considère l’opérateur de décalage...
+
+=== MATRICE moyenne sur K=5 (ligne=script lu, col=gold) ===
+            Martingale         L2    Koopman
+Martingale        10.0        0.6        0.6
+        L2         9.2       10.0        8.4
+   Koopman         0.4        8.2       10.0
+
+diag mean=10.00  |  hors-diag mean=4.57 (sd des 6 cellules=4.05; sd brut K·6=4.51; min..max cellules=0.4..9.2)

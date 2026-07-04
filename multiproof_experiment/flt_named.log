@@ -1,0 +1,14 @@
+=== informalisations (sauvées full) ===
+[Alkauskas] La preuve repose sur une méthode algébrique utilisant les séries formelles en une variable sur ℤ. L'idée centrale est d'exploiter...
+[Binomial] La preuve repose sur l'**endomorphisme de Frobenius** dans l'anneau ℤ/pℤ. On se ramène à travailler modulo p en interprétant a dan...
+[Dynamical] La preuve utilise une approche **dynamique et combinatoire**, basée sur l'étude des points périodiques d'une transformation du cer...
+[Lagrange] La preuve repose sur une réduction modulo \(p\) et l’emploi du **théorème de Lagrange** pour les groupes finis. Voici la démarche...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — flt_named ===
+             Alkauskas   Binomial  Dynamical   Lagrange
+ Alkauskas        10.0        0.2        0.0        0.0
+  Binomial         0.0       10.0        0.0        0.0
+ Dynamical         0.0        0.0       10.0        0.2
+  Lagrange         0.0        0.0        0.0       10.0
+
+diag mean=10.00 | hors-diag mean=0.03 | MARGE=9.97  (off sd cellules=0.07)

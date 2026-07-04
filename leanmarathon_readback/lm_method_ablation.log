@@ -1,0 +1,6 @@
+Installed 7 packages in 8ms
+### METHOD-READBACK ABLATION  n=80  K=2
+ named: n=80 mean recovery=9.97 (sd 0.13)
+  anon: n=80 mean recovery=9.40 (sd 1.83)
+  aggr: n=80 mean recovery=7.73 (sd 3.62)
+  skel: n=80 mean recovery=7.21 (sd 3.96)

@@ -1,0 +1,14 @@
+=== informalisations (sauvées full) ===
+[Alkauskas] ...
+[Binomial] Le code fourni ne contient **aucune preuve**. Il se limite à définir deux énoncés (pour les entiers naturels et relatifs) et à déc...
+[Dynamical] La preuve exploite le point de vue des corps finis et le comptage des points fixes de l’endomorphisme de Frobenius. Voici les idée...
+[Lagrange] La preuve Lean fournie est un simple squelette : la démonstration du théorème F8 est laissée avec `sorry`, ce qui signifie qu’**au...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — FermatLittleTheorem_sig ===
+             Alkauskas   Binomial  Dynamical   Lagrange
+ Alkauskas         4.0        0.0        2.0        0.0
+  Binomial         0.0        0.0        0.0        0.0
+ Dynamical         0.0        0.4        0.0        7.8
+  Lagrange         0.0        0.0        0.0        0.0
+
+diag mean=1.00 | hors-diag mean=0.85 | MARGE=0.15  (off sd cellules=2.17)

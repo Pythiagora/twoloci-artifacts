@@ -1,0 +1,14 @@
+=== informalisations (sauvées full) ===
+[Martingale] La preuve formelle emploie la méthode classique de **limite de martingale inverse** pour établir le théorème de de Finetti.
+
+Les idées-clés...
+[L2] La preuve repose sur la construction explicite de la mesure aléatoire conditionnelle à l’aide de la tribu asymptotique (ou queue) de la suit...
+[Koopman] La preuve utilise une méthode d’approximation par **moyennes mobiles et décorrélation** fondée sur une propriété de contraction du shift. Le...
+
+=== MATRICE moyenne sur K=5 (ligne=script lu, col=gold) ===
+            Martingale         L2    Koopman
+Martingale        10.0        2.0        0.0
+        L2        10.0        4.4        0.6
+   Koopman         2.8        9.8        9.8
+
+diag mean=8.07  |  hors-diag mean=4.20 (sd des 6 cellules=4.13; sd brut K·6=4.70; min..max cellules=0.0..10.0)

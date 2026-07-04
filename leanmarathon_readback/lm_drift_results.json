@@ -1,0 +1,302 @@
+[
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 5,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 1,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 2,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 9.5,
+  "corrupt": 1,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 5,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 0,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 1,
+  "corrupt": null,
+  "changed": false
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 0,
+  "corrupt": 0.5,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 6,
+  "corrupt": 4,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": null,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": null,
+  "changed": true
+ },
+ {
+  "clean": 0,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 1,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": null,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 0,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 9.5,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 10,
+  "changed": true
+ },
+ {
+  "clean": 0,
+  "corrupt": 5,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ },
+ {
+  "clean": 10,
+  "corrupt": 0,
+  "changed": true
+ }
+]

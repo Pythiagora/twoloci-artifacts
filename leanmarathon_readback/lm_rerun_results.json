@@ -1,0 +1,1506 @@
+{
+ "method": [
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 0,
+   "anon": 10,
+   "anon_strict": 7,
+   "sig(no-body)": 8
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 6,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 0,
+   "anon": 0,
+   "anon_strict": 0,
+   "sig(no-body)": 5.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 9.5,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 9.5,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1.5
+  },
+  {
+   "named": 10,
+   "anon": 2,
+   "anon_strict": 1,
+   "sig(no-body)": 5
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 9,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 0.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 9.5,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 5.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 4.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 9.5,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9
+  },
+  {
+   "named": 9,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 8,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 1,
+   "anon_strict": 2.5,
+   "sig(no-body)": 5.5
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 3,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 6
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 6.5,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 6,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 8.5
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 9,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 5,
+   "anon_strict": 4.5,
+   "sig(no-body)": 3
+  },
+  {
+   "named": 10,
+   "anon": 9,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 10,
+   "sig(no-body)": 6
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 2,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 1.5,
+   "sig(no-body)": 1.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 1,
+   "anon_strict": 0.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 7,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 1,
+   "sig(no-body)": 0.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 6
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 6,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 6,
+   "anon_strict": 5.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 6.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 8.5
+  },
+  {
+   "named": 10,
+   "anon": 0,
+   "anon_strict": 0,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 1,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 2
+  },
+  {
+   "named": 10,
+   "anon": 1,
+   "anon_strict": 0,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 6,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 0,
+   "anon": 3,
+   "anon_strict": 0,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 5.5,
+   "sig(no-body)": 5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 9,
+   "anon_strict": 6.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 0,
+   "sig(no-body)": 2
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9,
+   "sig(no-body)": 4.5
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 4,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 2.5,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 5,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 6,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 2.5
+  },
+  {
+   "named": 10,
+   "anon": 0,
+   "anon_strict": 6,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 1,
+   "anon_strict": 1.5,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 0,
+   "anon_strict": 0,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 4.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 0,
+   "anon_strict": 0,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 7,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 6
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 6.5
+  },
+  {
+   "named": 10,
+   "anon": 9.5,
+   "anon_strict": 2,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 6,
+   "anon": 10,
+   "anon_strict": 8.5,
+   "sig(no-body)": 5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 6
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 6.5,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 1,
+   "sig(no-body)": 9
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 2
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 1.5,
+   "sig(no-body)": 1.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 6.5,
+   "anon_strict": 9.5,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9,
+   "sig(no-body)": 10
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 6
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9.5
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 9
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 9.5,
+   "sig(no-body)": 1
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 10,
+   "sig(no-body)": 0
+  },
+  {
+   "named": 10,
+   "anon": 10,
+   "anon_strict": 2.5,
+   "sig(no-body)": 6.5
+  }
+ ],
+ "statement": [
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 9,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 0,
+   "anon_strict": 6
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 6,
+   "anon_strict": 10
+  },
+  {
+   "named": 4,
+   "anon_strict": 0
+  },
+  {
+   "named": 5.5,
+   "anon_strict": 0.5
+  },
+  {
+   "named": 5.5,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 9.5,
+   "anon_strict": 2.5
+  },
+  {
+   "named": 1,
+   "anon_strict": 6
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 7,
+   "anon_strict": 3
+  },
+  {
+   "named": 10,
+   "anon_strict": 2
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 2,
+   "anon_strict": 0
+  },
+  {
+   "named": 7.5,
+   "anon_strict": 1
+  },
+  {
+   "named": 9,
+   "anon_strict": 9.5
+  },
+  {
+   "named": 1,
+   "anon_strict": 0
+  },
+  {
+   "named": 5,
+   "anon_strict": 0
+  },
+  {
+   "named": 1,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 5.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 6.5,
+   "anon_strict": 5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 7
+  },
+  {
+   "named": 10,
+   "anon_strict": 6
+  },
+  {
+   "named": 9,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 4
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 9.5,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 9,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 2.5,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 2
+  },
+  {
+   "named": 10,
+   "anon_strict": 0.5
+  },
+  {
+   "named": 0,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0.5
+  },
+  {
+   "named": 5.5,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 0,
+   "anon_strict": 8
+  },
+  {
+   "named": 10,
+   "anon_strict": 8.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 5,
+   "anon_strict": 0.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 2.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 2
+  },
+  {
+   "named": 10,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 0,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 0,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 2
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 7,
+   "anon_strict": 0
+  },
+  {
+   "named": 9,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 6
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 2.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 3.5
+  },
+  {
+   "named": 0,
+   "anon_strict": 9
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 5,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 9
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 9.5,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 4.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 2
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 4
+  },
+  {
+   "named": 9.5,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 2,
+   "anon_strict": 0.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 1.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 8
+  },
+  {
+   "named": 10,
+   "anon_strict": null
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 6
+  },
+  {
+   "named": 5.5,
+   "anon_strict": 0.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 4.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 9
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 9.5,
+   "anon_strict": 2
+  },
+  {
+   "named": 10,
+   "anon_strict": 9.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 4
+  },
+  {
+   "named": 10,
+   "anon_strict": 9
+  },
+  {
+   "named": 6.5,
+   "anon_strict": 3
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 9,
+   "anon_strict": 8
+  },
+  {
+   "named": 10,
+   "anon_strict": 5.5
+  },
+  {
+   "named": 10,
+   "anon_strict": null
+  },
+  {
+   "named": 10,
+   "anon_strict": 1
+  },
+  {
+   "named": 10,
+   "anon_strict": 6.5
+  },
+  {
+   "named": 10,
+   "anon_strict": 8
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 9.5,
+   "anon_strict": 5
+  },
+  {
+   "named": 10,
+   "anon_strict": 5
+  },
+  {
+   "named": 9,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  },
+  {
+   "named": 10,
+   "anon_strict": 0
+  },
+  {
+   "named": 10,
+   "anon_strict": 10
+  }
+ ]
+}

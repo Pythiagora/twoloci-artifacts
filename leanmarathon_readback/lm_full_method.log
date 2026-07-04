@@ -1,0 +1,4 @@
+### MODE=method  n=302 nodes  K=2
+ named: n=301 mean=9.80 (sd 1.15)
+  anon: n=299 mean=9.04 (sd 2.52)
+Δ(named-anon) mean=+0.77 | struct(Δ≤0)=239 mild(0<Δ≤2)=21 name-dep(Δ>2)=37 of 297

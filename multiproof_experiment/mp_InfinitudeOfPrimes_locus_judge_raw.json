@@ -1,0 +1,177 @@
+{
+ "Euclid__Euclid": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euclid__Euler": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euclid__Goldbach": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euclid__Saidak": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euclid__Wunderlich": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euler__Euclid": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euler__Euler": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Euler__Goldbach": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Euler__Saidak": [
+  0,
+  0,
+  10,
+  0,
+  0
+ ],
+ "Euler__Wunderlich": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Goldbach__Euclid": [
+  9,
+  10,
+  0,
+  1,
+  2
+ ],
+ "Goldbach__Euler": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Goldbach__Goldbach": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Goldbach__Saidak": [
+  10,
+  10,
+  2,
+  10,
+  10
+ ],
+ "Goldbach__Wunderlich": [
+  9,
+  10,
+  7,
+  10,
+  9
+ ],
+ "Saidak__Euclid": [
+  2,
+  0,
+  0,
+  2,
+  8
+ ],
+ "Saidak__Euler": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Saidak__Goldbach": [
+  10,
+  2,
+  3,
+  2,
+  8
+ ],
+ "Saidak__Saidak": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Saidak__Wunderlich": [
+  10,
+  10,
+  10,
+  10,
+  2
+ ],
+ "Wunderlich__Euclid": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Wunderlich__Euler": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Wunderlich__Goldbach": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Wunderlich__Saidak": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Wunderlich__Wunderlich": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ]
+}

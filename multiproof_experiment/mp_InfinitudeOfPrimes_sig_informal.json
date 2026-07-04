@@ -1,0 +1,22 @@
+[
+ {
+  "method": "Euclid",
+  "informal": "Le code Lean présenté définit deux formulations de l'infinité des nombres premiers :\n- `F1` exprime que l'ensemble des naturels vérifiant la propriété `F3` (être premier) est infini.\n- `F5` exprime que pour tout entier `F6`, il existe un entier `F2` premier et strictement supérieur à `F6`.\n\nLa méthode employée pour prouver `F1` (théorèmes `F7` et `F8`) est la preuve classique d'Euclide, structurée en deux temps :\n\n1. **Étape constructive** : On démontre `F5` en utilisant l'argument euclidien. Pour un entier `N` donné, on considère le produit de tous les nombres premiers inférieurs ou égaux à `N`, auquel on ajoute 1. Ce nouveau nombre n'est divisible par aucun des premiers ≤ `N` ; il possède donc un facteur premier `p` qui n'appartient pas à cet ensemble fini, de sorte que `p > N`.\n\n2. **Équivalence logique** : On s'appuie sur le fait que dans `ℕ`, un sous-ensemble est infini si et seulement s'il contient des éléments arbitrairement grands. Grâce à `F5`, on en déduit `F1`.\n\nLes idées clés sont donc la **construction d'un entier forcément non divisible par les premiers connus** (produit + 1) et l'**exploitation de la caractérisation des ensembles infinis de ℕ par l'existence d'éléments arbitrairement grands**."
+ },
+ {
+  "method": "Euler",
+  "informal": "La preuve repose sur la méthode d'Euler. Au lieu d'une construction directe comme celle d'Euclide, elle exploite la divergence de la **série harmonique** et l'identité du **produit eulérien** :  \n`∏_{p premier ≤ N} (1 / (1 - 1/p)) ≥ ∑_{k=1}^N 1/k`.  \n\nLe membre de gauche est un produit fini sur les nombres premiers, le membre de droite la somme partielle harmonique `H_N`. Comme `H_N` tend vers l'infini (théorème F8, `F10` jouant ce rôle), le produit doit lui aussi diverger. Cela impose l'existence d'une infinité de facteurs dans ce produit, donc d'une **infinité de nombres premiers**. L'argument clé est que tout entier `k ≤ N` se décompose en facteurs premiers tous inférieurs ou égaux à `N`, ce qui permet de majorer la somme harmonique par le développement en série géométrique de chaque facteur premier."
+ },
+ {
+  "method": "Goldbach",
+  "informal": "La preuve s'appuie sur la suite des **nombres de Fermat**, définie par F_n = 2^(2^n) + 1.  \nL'idée centrale est de démontrer que ces nombres sont **deux à deux premiers entre eux** via une identité de récurrence :  \nF_{n+1} = (∏_{i=0}^n F_i) + 2.  \nAinsi, tout diviseur commun éventuel de deux nombres de Fermat distincts diviserait leur différence (qui vaut 2 ou un multiple de 2), mais comme chaque F_n est impair, ce diviseur ne peut être que 1.  \nPar conséquent, chaque F_n possède au moins un facteur premier, et ces facteurs premiers sont **tous distincts**. Comme la suite est infinie, on obtient une **infinité de nombres premiers**."
+ },
+ {
+  "method": "Saidak",
+  "informal": "Cette preuve repose sur une variante de la méthode d’Euclide, utilisant une suite définie par récurrence :  \n- \\(a_0 = 2\\)  \n- \\(a_{n+1} = a_n \\cdot (a_n + 1)\\)  \n\nL’idée centrale est que \\(a_n\\) et \\(a_n + 1\\) sont toujours premiers entre eux. Par conséquent, chaque nouveau terme \\(a_{n+1}\\) est le produit de deux entiers consécutifs sans facteur commun, ce qui force l’apparition d’au moins un nouveau facteur premier distinct à chaque étape. On montre ainsi que le nombre de facteurs premiers distincts de \\(a_n\\) est au moins \\(n+1\\). Comme \\(n\\) peut être arbitrairement grand, il existe nécessairement une infinité de nombres premiers."
+ },
+ {
+  "method": "Wunderlich",
+  "informal": ""
+ }
+]

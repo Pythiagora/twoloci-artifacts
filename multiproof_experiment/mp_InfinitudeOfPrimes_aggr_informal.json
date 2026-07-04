@@ -1,0 +1,22 @@
+[
+ {
+  "method": "Euclid",
+  "informal": ""
+ },
+ {
+  "method": "Euler",
+  "informal": "La preuve utilise la **méthode d’Euler** fondée sur l’identité du produit eulérien.  \n\n**Idées clés :**  \n- La série harmonique partielle \\(H_n = \\sum_{k=1}^n \\frac{1}{k}\\) diverge (i.e. dépasse tout réel arbitrairement grand).  \n- Pour tout entier \\(n\\), le produit fini \\(\\prod_{p \\le n,\\;p\\text{ premier}} \\frac{p}{p-1}\\) est supérieur ou égal à \\(H_n\\). Cette minoration s’obtient en développant chaque terme \\(\\frac{1}{k+1}\\) comme un produit de puissances de nombres premiers, grâce à la décomposition en facteurs premiers.  \n- Si l’ensemble des nombres premiers était fini, ce produit serait une constante finie, ce qui contredirait la divergence de la série harmonique. Ainsi, il existe une infinité de nombres premiers."
+ },
+ {
+  "method": "Goldbach",
+  "informal": "La preuve repose sur la suite des nombres de Fermat \\(F_n = 2^{2^n} + 1\\). L'idée centrale est que ces entiers sont deux à deux premiers entre eux : pour tout \\(n\\), \\(F_{n+1} = \\bigl(\\prod_{k=0}^n F_k\\bigr) + 2\\), ce qui entraîne que tout diviseur premier de \\(F_{n+1}\\) ne peut diviser aucun des \\(F_k\\) précédents. Chaque \\(F_n\\) possède au moins un facteur premier, et la coprimalité mutuelle force ces facteurs à être tous distincts. On obtient ainsi une famille infinie de nombres premiers distincts, ce qui établit l'infinitude de l'ensemble des nombres premiers."
+ },
+ {
+  "method": "Saidak",
+  "informal": "La preuve construit une suite d’entiers strictement croissante définie par \\(a_0 = 2\\) et \\(a_{k+1} = a_k(a_k + 1)\\). L’idée centrale est qu’un terme et son successeur sont toujours premiers entre eux (car tout diviseur commun diviserait leur différence 1). Ainsi, chaque \\(a_k\\) possède au moins un facteur premier qui n’apparaît dans aucun des termes précédents. On démontre plus précisément que le plus petit facteur premier de \\(a_k\\) est au moins \\(k+1\\). Pour tout entier \\(n\\), le facteur premier minimal de \\(a_n\\) fournit donc un nombre premier strictement supérieur à \\(n\\), ce qui prouve l’infinitude des nombres premiers par un argument de borne inférieure, sans avoir besoin de supposer une liste finie exhaustive de tous les premiers. La construction est une variante de la preuve d’Euclide, où l’ensemble fini supposé est remplacé par une suite infinie explicite d’entiers copremiers."
+ },
+ {
+  "method": "Wunderlich",
+  "informal": "La preuve repose sur un argument combinatoire par contradiction. Pour un entier \\(N\\) arbitraire, on suppose que tous les nombres premiers sont inférieurs ou égaux à \\(N\\). On introduit une fonction \\(F\\) définie sur les nombres premiers, à valeurs entières, telle que :\n\n- Pour deux nombres premiers distincts \\(p\\) et \\(q\\), les entiers \\(F(p)\\) et \\(F(q)\\) sont premiers entre eux.\n- \\(F(37)\\) possède au moins trois facteurs premiers distincts (ici 73, 149, 2221).\n\nSi \\(N \\ge 37\\), l’ensemble \\(P\\) des nombres premiers \\(\\le N\\) contient 2 et 37. On considère alors l’ensemble \\(Q\\) de tous les facteurs premiers des entiers \\(F(p)\\) pour \\(p \\in P\\). Grâce à la coprimalité, ces facteurs sont disjoints d’un \\(p\\) à l’autre. On obtient alors une minoration de la taille de \\(Q\\) :\n\n\\[\n|Q| \\;\\ge\\; \\underbrace{1}_{F(2)} \\;+\\; \\underbrace{3}_{F(37)} \\;+\\; (|P|-2) \\;=\\; |P| + 2 .\n\\]\n\nPar ailleurs, un argument de borne montre que tout élément de \\(Q\\) est lui aussi \\(\\le N\\), donc \\(Q \\subseteq P\\) et \\(|Q| \\le |P|\\). Cette contradiction \\(|P|+2 \\le |P|\\) prouve que l’hypothèse de finitude est absurde (le cas \\(N < 37\\) étant immédiat car 37 est un nombre premier \\(> N\\)). L’idée force de la preuve est ainsi de produire, via la fonction \\(F\\) et le choix du nombre 37, strictement plus de facteurs premiers distincts qu’il n’y a de nombres premiers dans l’ensemble initial, contredisant l’inclusion."
+ }
+]

@@ -1,0 +1,20 @@
+=== informalisations (sauvées full) ===
+[Euclid] Le code Lean présenté définit deux formulations de l'infinité des nombres premiers :
+- `F1` exprime que l'ensemble des naturels vé...
+[Euler] La preuve repose sur la méthode d'Euler. Au lieu d'une construction directe comme celle d'Euclide, elle exploite la divergence de...
+[Goldbach] La preuve s'appuie sur la suite des **nombres de Fermat**, définie par F_n = 2^(2^n) + 1.  
+L'idée centrale est de démontrer que c...
+[Saidak] Cette preuve repose sur une variante de la méthode d’Euclide, utilisant une suite définie par récurrence :  
+- \(a_0 = 2\)  
+- \(a...
+[Wunderlich] ...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — InfinitudeOfPrimes_sig ===
+                Euclid      Euler   Goldbach     Saidak  Wunderlic
+    Euclid        10.0        0.0        0.0        2.0        0.0
+     Euler         0.0       10.0        0.0        0.0        0.0
+  Goldbach         5.6        0.0       10.0        8.6        5.8
+    Saidak         6.2        0.0        4.2       10.0        3.2
+Wunderlich         0.0        0.0        0.0        2.0        2.0
+
+diag mean=8.40 | hors-diag mean=1.88 | MARGE=6.52  (off sd cellules=2.67)

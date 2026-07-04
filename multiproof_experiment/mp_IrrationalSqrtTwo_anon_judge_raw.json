@@ -1,0 +1,65 @@
+{
+ "Descent__Descent": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Descent__FermatLastTheorem": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Descent__Valuation": [
+  3,
+  2,
+  2,
+  2,
+  0
+ ],
+ "FermatLastTheorem__Descent": [
+  0,
+  10,
+  0,
+  0,
+  0
+ ],
+ "FermatLastTheorem__FermatLastTheorem": [
+  10,
+  0,
+  0,
+  0,
+  0
+ ],
+ "FermatLastTheorem__Valuation": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Valuation__Descent": [
+  2,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Valuation__FermatLastTheorem": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Valuation__Valuation": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ]
+}

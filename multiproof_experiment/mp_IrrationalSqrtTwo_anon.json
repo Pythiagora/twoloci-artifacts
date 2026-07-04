@@ -1,0 +1,23 @@
+[
+ {
+  "method": "Descent",
+  "gold": "Use to reduce to the natural-number form. Suppose p^2 = 2q^2 with q > 0. Then 2 mid p^2, so 2 mid p since 2 is prime; write p = 2r. Substituting gives q^2 = 2r^2, a new solution whose first component q is strictly smaller than p. By strong induction no solution with q neq 0 exists.",
+  "script": "def F1 : Prop := F2 (Real.sqrt 2)\n\ndef F3 : Prop := ∀ p q : ℕ, p ^ 2 = 2 * q ^ 2 → q = 0\n\ntheorem F4 :\n    F3 → F1 := by\n  rintro h ⟨r, hr⟩\n  have hr2 : r ^ 2 = 2 := by\n    exact_mod_cast show (r : ℝ) ^ 2 = 2 by rw [hr, Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 2)]\n  have hz : r.num ^ 2 = (r.den : ℤ) ^ 2 * 2 := by\n    rw [← Rat.num_div_den r] at hr2\n    field_simp at hr2\n    exact_mod_cast hr2\n  have hn : r.num.natAbs ^ 2 = 2 * r.den ^ 2 := by\n    F5 [Int.natAbs_mul, Int.natAbs_pow, F6] using F7 Int.natAbs hz\n  exact r.den_nz (h _ _ hn)\n\nlemma F8 : F3 := by\n  intro p\n  induction p using Nat.strong_induction_on with\n  | _ p ih =>\n    intro q hpq\n    rcases Nat.eq_zero_or_pos q with hq | hq\n    · exact hq\n    obtain ⟨r, rfl⟩ : 2 ∣ p :=\n      Nat.prime_two.dvd_of_dvd_pow (hpq ▸ F9 _ rfl)\n    have hqr : q ^ 2 = 2 * r ^ 2 := by ring_nf at hpq ⊢; F10\n    have hlt : q < 2 * r := (F11₀ (Nat.zero_le _) (Nat.zero_le _)\n      F12).mp (by have := F13 hq 2; F10)\n    F5 [ih q hlt r hqr] using hqr\n\ntheorem F14 : F1 :=\n  F4 F8",
+  "stmt": "The real number sqrt{2} is irrational: it is not the image of any rational number under the canonical embedding mathbb{Q} hookrightarrow mathbb{R}.",
+  "nmask": 14
+ },
+ {
+  "method": "FermatLastTheorem",
+  "gold": "This proof establishes the irrationality of sqrt{2} directly, without the natural-number reduction. One has the identity (18+17sqrt{2})^3 + (18-17sqrt{2})^3 = 42^3, due to Jarvis and Meekin. If sqrt{2} were a rational r, then 18+17r, 18-17r, and 42 would be nonzero rationals (nonzero because (pm 18/17)^2 neq 2) solving x^3 + y^3 = z^3, contradicting Fermat's Last Theorem for exponent 3. See [this Math StackExchange answer](https://math.stackexchange.com/a/4438248).",
+  "script": "def F1 : Prop := F2 (Real.sqrt 2)\n\ndef F3 : Prop := ∀ p q : ℕ, p ^ 2 = 2 * q ^ 2 → q = 0\n\ntheorem F4 : F1 := by\n  rintro ⟨r, hr⟩\n  have hr2 : r ^ 2 = 2 := by\n    exact_mod_cast show (r : ℝ) ^ 2 = 2 by rw [hr, Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 2)]\n  have hx : (18 : ℚ) + 17 * r ≠ 0 := fun h => by\n    rw [show r = -(18 / 17) by F5 h / 17] at hr2\n    norm_num at hr2\n  have hy : (18 : ℚ) - 17 * r ≠ 0 := fun h => by\n    rw [show r = 18 / 17 by F5 -h / 17] at hr2\n    norm_num at hr2\n  exact F6 F7 _ _ _ hx hy\n    (by norm_num : (42 : ℚ) ≠ 0) (by F5 (31212 : ℚ) * hr2)",
+  "stmt": "The real number sqrt{2} is irrational: it is not the image of any rational number under the canonical embedding mathbb{Q} hookrightarrow mathbb{R}.",
+  "nmask": 7
+ },
+ {
+  "method": "Valuation",
+  "gold": "Use to reduce to the natural-number form. Apply the exponent of 2 in the prime factorization to both sides of p^2 = 2q^2. The left side has even 2-adic valuation 2v_2(p), while the right side has odd valuation 1 + 2v_2(q), a contradiction.",
+  "script": "def F1 : Prop := F2 (Real.sqrt 2)\n\ndef F3 : Prop := ∀ p q : ℕ, p ^ 2 = 2 * q ^ 2 → q = 0\n\ntheorem F4 :\n    F3 → F1 := by\n  rintro h ⟨r, hr⟩\n  have hr2 : r ^ 2 = 2 := by\n    exact_mod_cast show (r : ℝ) ^ 2 = 2 by rw [hr, Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 2)]\n  have hz : r.num ^ 2 = (r.den : ℤ) ^ 2 * 2 := by\n    rw [← Rat.num_div_den r] at hr2\n    field_simp at hr2\n    exact_mod_cast hr2\n  have hn : r.num.natAbs ^ 2 = 2 * r.den ^ 2 := by\n    F5 [Int.natAbs_mul, Int.natAbs_pow, F6] using F7 Int.natAbs hz\n  exact r.den_nz (h _ _ hn)\n\nlemma F8 : F3 := by\n  intro p q hpq\n  by_contra hq\n  have := F7 (fun n => n.factorization 2) hpq\n  simp [Nat.factorization_mul F9 (F10 2 hq), Nat.factorization_pow,\n    Nat.Prime.factorization_self Nat.prime_two] at this\n  F11\n\ntheorem F12 : F1 :=\n  F4 F8",
+  "stmt": "The real number sqrt{2} is irrational: it is not the image of any rational number under the canonical embedding mathbb{Q} hookrightarrow mathbb{R}.",
+  "nmask": 12
+ }
+]

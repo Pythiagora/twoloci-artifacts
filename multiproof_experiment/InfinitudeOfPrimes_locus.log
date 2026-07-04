@@ -1,0 +1,19 @@
+=== informalisations (sauvées full) ===
+[Euclid] ...
+[Euler] La preuve utilise la méthode d'Euler basée sur la divergence de la série harmonique.  
+L'idée centrale est de comparer une somme h...
+[Goldbach] La preuve repose sur la suite des **nombres de Fermat** \(F_n = 2^{2^n} + 1\).  
+L’idée centrale consiste à établir qu’ils sont **...
+[Saidak] La preuve s’appuie sur une construction explicite d’une suite infinie d’entiers \(u_n\) définie par  
+\(u_{n+1} = u_n(u_n + 1)\) (...
+[Wunderlich] ...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — InfinitudeOfPrimes_locus ===
+                Euclid      Euler   Goldbach     Saidak  Wunderlic
+    Euclid         0.0        0.0        0.0        0.0        0.0
+     Euler         0.0       10.0        0.0        2.0        0.0
+  Goldbach         4.4        0.0       10.0        8.4        9.0
+    Saidak         2.4        0.0        5.0       10.0        8.4
+Wunderlich         0.0        0.0        0.0        0.0        0.0
+
+diag mean=6.00 | hors-diag mean=1.98 | MARGE=4.02  (off sd cellules=3.15)

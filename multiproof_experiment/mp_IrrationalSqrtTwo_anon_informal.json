@@ -1,0 +1,14 @@
+[
+ {
+  "method": "Descent",
+  "informal": "La preuve utilise la **méthode de descente infinie** (ou preuve par minimalité) sur les entiers naturels, via une induction forte sur le numérateur \\(p\\) d’une éventuelle fraction représentant \\(\\sqrt{2}\\).\n\n**Idées-clés :**  \n1. **Réduction à une équation diophantienne** : si \\(\\sqrt{2}\\) était rationnel, il existerait des entiers naturels \\(p,q\\) avec \\(q \\neq 0\\) tels que \\(p^2 = 2q^2\\).  \n2. **Minimalité** : on suppose l’existence d’une telle solution et on prend un \\(p\\) **minimal** (induction forte). Si \\(q > 0\\), on montre que 2 divise \\(p\\) (car \\(2 \\mid p^2\\) et 2 est premier), donc \\(p = 2r\\).  \n3. **Construction d’une solution plus petite** : en substituant, on obtient \\(q^2 = 2r^2\\) et surtout \\(q < p\\). Ainsi \\((q,r)\\) est une nouvelle solution entière avec un numérateur strictement plus petit.  \n4. **Contradiction** : l’hypothèse de minimalité est violée, donc toute solution doit avoir \\(q = 0\\) (et donc \\(p = 0\\)), ce qui entraîne que \\(\\sqrt{2}\\) n’est pas rationnel."
+ },
+ {
+  "method": "FermatLastTheorem",
+  "informal": ""
+ },
+ {
+  "method": "Valuation",
+  "informal": "La preuve utilise une **réduction à une équation diophantienne** puis un **argument de valuation 2‑adique fondé sur l’unicité de la factorisation en nombres premiers**.  \n\n1. **Réduction du rationnel à l’entier** : si \\(\\sqrt{2}\\) était l’image d’un rationnel \\(r\\), on aurait \\(r^2 = 2\\). En écrivant \\(r\\) sous forme réduite \\(\\frac{a}{b}\\), on obtient \\(a^2 = 2b^2\\) avec \\(a,b\\) entiers non nuls. L’irrationalité se ramène donc à montrer qu’il n’existe aucun couple d’entiers naturels \\((p,q)\\) avec \\(q \\neq 0\\) tel que \\(p^2 = 2 q^2\\).\n\n2. **Preuve par l’exposant du facteur premier 2** : on considère la décomposition en facteurs premiers de chaque membre. Pour tout entier \\(n\\) non nul, on note \\(v_2(n)\\) l’exposant de 2 dans cette décomposition.  \n   - À gauche, \\(v_2(p^2) = 2 v_2(p)\\) est **pair**.  \n   - À droite, \\(v_2(2 q^2) = v_2(2) + v_2(q^2) = 1 + 2 v_2(q)\\) est **impair**.  \n   L’égalité \\(p^2 = 2 q^2\\) imposerait l’égalité des valuations, ce qui est impossible car un nombre pair ne peut égaler un nombre impair. Cela contredit l’unicité de la factorisation première, d’où la conclusion que \\(\\sqrt{2}\\) n’est pas rationnel.\n\nCette preuve évite toute descente infinie explicite et se concentre sur une simple congruence modulo 2 des exposants (parité de la valuation 2‑adique)."
+ }
+]

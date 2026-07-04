@@ -1,0 +1,21 @@
+=== informalisations (sauvées full) ===
+[Alkauskas] La preuve utilise les **séries formelles** et leur **dérivée logarithmique** (précisément l’opérateur \(-X\frac{d}{dX}\log f\)) po...
+[Binomial] La preuve se ramène d’abord au corps fini \({\mathbb{Z}}/p{\mathbb{Z}}\) en traduisant la congruence modulo \(p\) sur les entiers...
+[Dynamical] La preuve repose sur une action de groupe sur un ensemble fini lié à la partie fractionnaire. On considère l'application  
+
+\[
+T_a...
+[Lagrange] Cette preuve repose sur la **théorie des groupes finis**, en exploitant la structure du corps ℤ/pℤ.
+
+Les idées clés :
+
+1. **Réduct...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — FermatLittleTheorem_aggr ===
+             Alkauskas   Binomial  Dynamical   Lagrange
+ Alkauskas        10.0        0.0        0.0        0.0
+  Binomial         0.0       10.0        0.0        0.0
+ Dynamical         0.0        0.0       10.0        0.0
+  Lagrange         0.0        0.0        0.0       10.0
+
+diag mean=10.00 | hors-diag mean=0.00 | MARGE=10.00  (off sd cellules=0.00)

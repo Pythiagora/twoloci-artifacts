@@ -1,0 +1,5 @@
+ named: n=30 mean recovery=8.87 (sd 2.60)
+  anon: n=30 mean recovery=6.68 (sd 3.36)
+
+Δ(named-anon) mean=+2.19  → >0 means NAMES carry the claim; ≈0 means STRUCTURE does
+sample size: 30 nodes, K=3

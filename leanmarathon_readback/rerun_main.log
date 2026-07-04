@@ -1,0 +1,10 @@
+Installed 7 packages in 7ms
+### RE-RUN (random seed=7, strict anon + sig-on-readback)  method n=150 statement n=150 K=2
+METHOD readback:
+  named          mean=9.73 (sd 1.47)
+  anon           mean=9.15 (sd 2.48)
+  anon_strict    mean=7.69 (sd 3.63)
+  sig(no-body)   mean=3.99 (sd 4.30)
+STATEMENT readback:
+  named          mean=8.81 (sd 2.68)
+  anon_strict    mean=3.43 (sd 3.83)

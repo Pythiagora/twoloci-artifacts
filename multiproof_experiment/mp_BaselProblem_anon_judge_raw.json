@@ -1,0 +1,30 @@
+{
+ "Cauchy__Cauchy": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Cauchy__Parseval": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Parseval__Cauchy": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Parseval__Parseval": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ]
+}

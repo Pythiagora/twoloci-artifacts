@@ -1,0 +1,6 @@
+Installed 7 packages in 11ms
+### NEGATIVE CONTROL (method, anon)  n=40  K=2
+correct-gold mean = 9.44
+wrong-gold   mean = 0.16
+discrimination margin (correct-wrong) = +9.28
+% nodes correct>wrong = 100%

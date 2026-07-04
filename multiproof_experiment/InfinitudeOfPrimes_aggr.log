@@ -1,0 +1,19 @@
+=== informalisations (sauvées full) ===
+[Euclid] ...
+[Euler] La preuve utilise la **méthode d’Euler** fondée sur l’identité du produit eulérien.  
+
+**Idées clés :**  
+- La série harmonique pa...
+[Goldbach] La preuve repose sur la suite des nombres de Fermat \(F_n = 2^{2^n} + 1\). L'idée centrale est que ces entiers sont deux à deux pr...
+[Saidak] La preuve construit une suite d’entiers strictement croissante définie par \(a_0 = 2\) et \(a_{k+1} = a_k(a_k + 1)\). L’idée centr...
+[Wunderlich] La preuve repose sur un argument combinatoire par contradiction. Pour un entier \(N\) arbitraire, on suppose que tous les nombres...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — InfinitudeOfPrimes_aggr ===
+                Euclid      Euler   Goldbach     Saidak  Wunderlic
+    Euclid         2.0        0.0        0.0        0.0        0.0
+     Euler         0.0       10.0        0.0        0.0        0.0
+  Goldbach         1.2        0.0       10.0        6.0        7.0
+    Saidak         5.4        0.0        5.2        8.0        1.8
+Wunderlich         0.2        0.0        7.0        9.8       10.0
+
+diag mean=8.00 | hors-diag mean=2.18 | MARGE=5.82  (off sd cellules=3.13)

@@ -1,0 +1,3626 @@
+[
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then for every interval $n\\leq q<k$ with $n\\geq 2"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then for every interval $n\\leq q<k$ with $n\\geq 2"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then, for every $m\\geq 1$, $y\\geq 2$, and cutoff "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then, for every $m\\geq 1$, $y\\geq 2$, and cutoff "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "At a natural cutoff $n$, the real-variable reciprocal von\n  Mangoldt partial sum is exactly the finite sum\n  $\\sum_{1\\le"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "At a natural cutoff $n$, the real-variable reciprocal von\n  Mangoldt partial sum is exactly the finite sum\n  $\\sum_{1\\le"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma distribut"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma distribut"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma law of sh"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma law of sh"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 9,
+  "gold": "For every $n\\in\\mathbb{N}$, the sum of the von Mangoldt\n  function over the finite divisor set $\\operatorname{divisors}("
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "For every $n\\in\\mathbb{N}$, the sum of the von Mangoldt\n  function over the finite divisor set $\\operatorname{divisors}("
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 4,
+  "gold": "For every $x\\geq 2$ and every real $X$, the finite cut\n  capacity is bounded above by the reindexed tail majorant depend"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every $x\\geq 2$ and every real $X$, the finite cut\n  capacity is bounded above by the reindexed tail majorant depend"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every $x\\geq2$ and every real $X$, the total finite\n  initial mass $\\sum_n b_{x,X}(n)$ from\n  \\cref{def:finite-chain"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every $x\\geq2$ and every real $X$, the total finite\n  initial mass $\\sum_n b_{x,X}(n)$ from\n  \\cref{def:finite-chain"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural $r\\geq 1$, the logarithmic increments\n  from $2$ through $r$ telescope:\n  $\\sum_{2\\leq q<r+1}(\\log q-\\"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural $r\\geq 1$, the logarithmic increments\n  from $2$ through $r$ telescope:\n  $\\sum_{2\\leq q<r+1}(\\log q-\\"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural $r\\geq 1$, the sum of\n  $\\Lambda(q)/q$ over $2\\leq q<r+1$ is the reciprocal von Mangoldt partial sum\n "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every natural $r\\geq 1$, the sum of\n  $\\Lambda(q)/q$ over $2\\leq q<r+1$ is the reciprocal von Mangoldt partial sum\n "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 5,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "For every natural number $n$ with $n\\geq 2$,\n  $\\log n\\sum_{q\\in\\mathbb{N},\\ q\\geq 2}\n  \\Lambda(q)/(q\\log^2(nq))\\leq 1$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq 2$,\n  $\\log n\\sum_{q\\in\\mathbb{N},\\ q\\geq 2}\n  \\Lambda(q)/(q\\log^2(nq))\\leq 1$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n\\geq 2$ and every natural\n  cutoff $N$, the finite thresholded von Mangoldt tail sum up to $N"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "For every natural number $n\\geq 2$ and every natural\n  cutoff $N$, the finite thresholded von Mangoldt tail sum up to $N"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the eta value of\n  \\cref{def:dirichlet-eta-real} is the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ ag"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real $s>1$, the eta value of\n  \\cref{def:dirichlet-eta-real} is the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ ag"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ under `ProbabilityTheory.gammaMeasure s 1` is the\n  no"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "For every real $s>1$, the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ under `ProbabilityTheory.gammaMeasure s 1` is the\n  no"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the logarithmic derivative of the\n  real Dirichlet eta function is non-negative:\n  $0\\leq \\eta'(s)"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real $s>1$, the logarithmic derivative of the\n  real Dirichlet eta function is non-negative:\n  $0\\leq \\eta'(s)"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the real Dirichlet eta value\n  $\\eta(s)$ of \\cref{def:dirichlet-eta-real} is strictly positive."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 8.5,
+  "gold": "For every real $s>1$, the real Dirichlet eta value\n  $\\eta(s)$ of \\cref{def:dirichlet-eta-real} is strictly positive."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the real Dirichlet eta value of\n  \\cref{def:dirichlet-eta-real} is the normalized Mellin transform"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real $s>1$, the real Dirichlet eta value of\n  \\cref{def:dirichlet-eta-real} is the normalized Mellin transform"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $r>0$,\n  $\\int_0^\\infty t e^{-rt}\\,dt=1/r^2$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $r>0$,\n  $\\int_0^\\infty t e^{-rt}\\,dt=1/r^2$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $r>0$, the function\n  $t\\mapsto t e^{-rt}$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $r>0$, the function\n  $t\\mapsto t e^{-rt}$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the complex number\n  obtained from the real von Mangoldt Dirichlet series equals t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the complex number\n  obtained from the real von Mangoldt Dirichlet series equals t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the elementary\n  geometric factor satisfies\n  $$\n    \\frac{\\log 2}{2^u-1}\\leq \\fra"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the elementary\n  geometric factor satisfies\n  $$\n    \\frac{\\log 2}{2^u-1}\\leq \\fra"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the logarithmic\n  derivative of the real Dirichlet eta function at $1+u$ is the re"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the logarithmic\n  derivative of the real Dirichlet eta function at $1+u$ is the re"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For every real number $u$ with $u>0$, the von Mangoldt\n  Dirichlet series\n  $\\sum_{q\\in\\mathbb{N}} \\Lambda(q)q^{-1-u}$ i"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real number $u$ with $u>0$, the von Mangoldt\n  Dirichlet series\n  $\\sum_{q\\in\\mathbb{N}} \\Lambda(q)q^{-1-u}$ i"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$ and every natural cutoff $N$,\n  the finite sum of $\\Lambda(q)q^{-1-u}$ over natural $q<N$ wi"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real number $u>0$ and every natural cutoff $N$,\n  the finite sum of $\\Lambda(q)q^{-1-u}$ over natural $q<N$ wi"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the real part of the negative\n  logarithmic derivative of the Riemann zeta function at the "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real number $u>0$, the real part of the negative\n  logarithmic derivative of the Riemann zeta function at the "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the real von Mangoldt\n  Dirichlet series defining $\\sum_q\\Lambda(q)q^{-1-u}$ is summable."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the real von Mangoldt\n  Dirichlet series defining $\\sum_q\\Lambda(q)q^{-1-u}$ is summable."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the sum of the real part of\n  the logarithmic derivative of the Riemann zeta function at th"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real number $u>0$, the sum of the real part of\n  the logarithmic derivative of the Riemann zeta function at th"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $0<a\\leq b$, then\n  $(b-a)/b^2\\leq 1/a-1/b$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $0<a\\leq b$, then\n  $(b-a)/b^2\\leq 1/a-1/b$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $q\\geq 2$, then the von Mangoldt tail\n  summand is the integral of the Laplace kernel\n  $(\\Lambda(q)/q)"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $q\\geq 2$, then the von Mangoldt tail\n  summand is the integral of the Laplace kernel\n  $(\\Lambda(q)/q)"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $r\\geq 2$, then the weighted logarithmic\n  increment from $r$ to $r+1$ is bounded by the corresponding "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $r\\geq 2$, then the weighted logarithmic\n  increment from $r$ to $r+1$ is bounded by the corresponding "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 8,
+  "gold": "If there is a real constant $C\\geq 0$ such that every\n  primitive set supported in a finite interval $[x,X]$ with $2\\leq"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "If there is a real constant $C\\geq 0$ such that every\n  primitive set supported in a finite interval $[x,X]$ with $2\\leq"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $m$ be a natural number with $m\\geq 1$, let $y$ be a\n  real number with $y\\geq 2$, and let $S$ be a finite set of na"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Let $m$ be a natural number with $m\\geq 1$, let $y$ be a\n  real number with $y\\geq 2$, and let $S$ be a finite set of na"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $m\\geq 1$, $y\\geq 2$, and $N$ be natural.  With\n  $n=\\lceil y\\rceil$, the weighted logarithmic-increment sum over\n  "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $m\\geq 1$, $y\\geq 2$, and $N$ be natural.  With\n  $n=\\lceil y\\rceil$, the weighted logarithmic-increment sum over\n  "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $n\\geq 2$, let $N$ be a natural cutoff, and let $t$ be\n  real.  The finite integral-side von Mangoldt tail integrand"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $n\\geq 2$, let $N$ be a natural cutoff, and let $t$ be\n  real.  The finite integral-side von Mangoldt tail integrand"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $x,X\\in\\mathbb{R}$ with $2\\leq x$, and let\n  $A\\subseteq\\mathbb{N}$ be a primitive set supported in $[x,X]$. Then $f"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $x,X\\in\\mathbb{R}$ with $2\\leq x$, and let\n  $A\\subseteq\\mathbb{N}$ be a primitive set supported in $[x,X]$. Then $f"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $x\\geq2$, let $X$ be real, and let $A\\subseteq\\mathbb N$\n  be primitive and supported in $[x,X]$. Then the Erd\\H{o}s"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $x\\geq2$, let $X$ be real, and let $A\\subseteq\\mathbb N$\n  be primitive and supported in $[x,X]$. Then the Erd\\H{o}s"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The real Dirichlet eta function of\n  \\cref{def:dirichlet-eta-real} is non-decreasing on the open half-line\n  $(1,\\infty)"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "The real Dirichlet eta function of\n  \\cref{def:dirichlet-eta-real} is non-decreasing on the open half-line\n  $(1,\\infty)"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 0,
+  "gold": "There exists a nonnegative real constant $C$ such that, for\n  every real number $x$ with $2\\leq x$ and every primitive s"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There exists a nonnegative real constant $C$ such that, for\n  every real number $x$ with $2\\leq x$ and every primitive s"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 2.5,
+  "gold": "There exists a real constant $C\\geq 0$ such that, for all\n  real numbers $x$ and $X$ with $2\\leq x\\leq X$, every primiti"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There exists a real constant $C\\geq 0$ such that, for all\n  real numbers $x$ and $X$ with $2\\leq x\\leq X$, every primiti"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  natural $m\\geq 1$, every real $y\\geq 2$, and every natural cut"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  natural $m\\geq 1$, every real $y\\geq 2$, and every natural cut"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $t\\geq 1$, the reciprocal von Mangoldt partial sum"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $t\\geq 1$, the reciprocal von Mangoldt partial sum"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $x\\geq 2$, the reindexed tail majorant is at most\n"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $x\\geq 2$, the reindexed tail majorant is at most\n"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 1.5,
+  "gold": "There is a real constant $C\\geq 0$, independent of $m$ and\n  $y$, such that, for every natural $m\\geq 1$ and every real "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There is a real constant $C\\geq 0$, independent of $m$ and\n  $y$, such that, for every natural $m\\geq 1$ and every real "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 6,
+  "gold": "A dyadic exponential estimate for $a_k$ makes the shifted tail $\\sum_{m\\ge0} b_{n+m}/a_{n+m+d-1}$ summable and bounds it"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "A dyadic exponential estimate for $a_k$ makes the shifted tail $\\sum_{m\\ge0} b_{n+m}/a_{n+m+d-1}$ summable and bounds it"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "A finite product of weighted factors $(A C^{P_j})^{w_j}$ equals $A^{\\sum w_j}C^{\\sum w_jP_j}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "A finite product of weighted factors $(A C^{P_j})^{w_j}$ equals $A^{\\sum w_j}C^{\\sum w_jP_j}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "A local peak $Q$ relative to $[P,Q]$ gives the shifted first deterministic bound when the terminal height at $Q+1$ is la"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "A local peak $Q$ relative to $[P,Q]$ gives the shifted first deterministic bound when the terminal height at $Q+1$ is la"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "After applying the construction root equation, the explicit exponent in the construction-limit lower bound eventually do"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1.5,
+  "gold": "After applying the construction root equation, the explicit exponent in the construction-limit lower bound eventually do"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Assume \\cref{def:construction-bounds} for $d,w,\\beta,\\gamma$. Then there is an index $M$ such that, for every $N\\ge M$ a"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:construction-bounds} for $d,w,\\beta,\\gamma$. Then there is an index $M$ such that, for every $N\\ge M$ a"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:weighted-irrationality-hypotheses} for $d,w,W,c,a,b,\\eta,\\tau$. If the exponential lower bound $e^n\\le "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:weighted-irrationality-hypotheses} for $d,w,W,c,a,b,\\eta,\\tau$. If the exponential lower bound $e^n\\le "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:weighted-irrationality-hypotheses} for the data $d,\\mathbf w,W,c,a,b,\\eta,\\tau$, and assume the mixed c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:weighted-irrationality-hypotheses} for the data $d,\\mathbf w,W,c,a,b,\\eta,\\tau$, and assume the mixed c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9,
+  "gold": "Assume the weighted irrationality hypotheses and the mixed case. For every $\\varepsilon>0$, there are frequently, with r"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume the weighted irrationality hypotheses and the mixed case. For every $\\varepsilon>0$, there are frequently, with r"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "Assume the weighted irrationality hypotheses and the mixed sequence case for $d,w,W,c,a,b,\\eta,\\tau$. Then there is a co"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume the weighted irrationality hypotheses and the mixed sequence case for $d,w,W,c,a,b,\\eta,\\tau$. Then there is a co"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9,
+  "gold": "Assume the weighted irrationality hypotheses for\n  $d,w,W,c,a,b,\\eta,\\tau$ and the mixed sequence case. For every\n  $C_{"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume the weighted irrationality hypotheses for\n  $d,w,W,c,a,b,\\eta,\\tau$ and the mixed sequence case. For every\n  $C_{"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the weighted irrationality hypotheses for $d,\\mathbf w,W,c,a,b,\\eta,\\tau$ and the mixed sequence case. For any po"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume the weighted irrationality hypotheses for $d,\\mathbf w,W,c,a,b,\\eta,\\tau$ and the mixed sequence case. For any po"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 2.5,
+  "gold": "Assume the weighted irrationality hypotheses for $d,w,W,c,a,b,\\eta,\\tau$ and the mixed sequence case. For every $C_{\\exp"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "Assume the weighted irrationality hypotheses for $d,w,W,c,a,b,\\eta,\\tau$ and the mixed sequence case. For every $C_{\\exp"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "Assume the weighted irrationality hypotheses for $d,w,W,c,a,b,\\eta,\\tau$: $d>0$, $w_{d-1}\\ge1$, $W$ is the maximum of th"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Assume the weighted irrationality hypotheses for $d,w,W,c,a,b,\\eta,\\tau$: $d>0$, $w_{d-1}\\ge1$, $W$ is the maximum of th"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 3,
+  "gold": "At a peak index $Q$ with $d\\le Q+1$, the clearing factor ending at $Q$ divided by the first tail window beginning at $Q+"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "At a peak index $Q$ with $d\\le Q+1$, the clearing factor ending at $Q$ divided by the first tail window beginning at $Q+"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1.5,
+  "gold": "At a sufficiently late peak $Q$ with $1\\le\\mu_{Q+1}$, the shifted first deterministic expression is smaller than $\\varep"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "At a sufficiently late peak $Q$ with $1\\le\\mu_{Q+1}$, the shifted first deterministic expression is smaller than $\\varep"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Every finite subsum of $(n+1)^m e^{-n}$ is bounded above by the full infinite sum."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Every finite subsum of $(n+1)^m e^{-n}$ is bounded above by the full infinite sum."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $\\eta\\ge0$ and $C>0$. Along indices for which $D_Q^2\\le c^{Q+1}\\le L$, with $D_Q=((Q+1)^2+1)$, the quantity $C L^{1+"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Fix $\\eta\\ge0$ and $C>0$. Along indices for which $D_Q^2\\le c^{Q+1}\\le L$, with $D_Q=((Q+1)^2+1)$, the quantity $C L^{1+"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1,
+  "gold": "Fix $d\\ge 1$ and a sequence of non-negative integer weights $w_0,w_1,\\ldots$ with $w_{d-1}\\ge 1$. Let $c$ be the largest"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $d\\ge 1$ and a sequence of non-negative integer weights $w_0,w_1,\\ldots$ with $w_{d-1}\\ge 1$. Let $c$ be the largest"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $d\\ge1$ and let $\\psi>1$ be the unique positive real solution of $\\psi^d=\\psi^{d-1}+1$. For every $C>1$ there exists"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 4,
+  "gold": "Fix $d\\ge1$ and let $\\psi>1$ be the unique positive real solution of $\\psi^d=\\psi^{d-1}+1$. For every $C>1$ there exists"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a prefix level $N$. Suppose the adjacent-overlap inequality from \\cref{def:admissible-adjacent-overlap-eventually} h"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a prefix level $N$. Suppose the adjacent-overlap inequality from \\cref{def:admissible-adjacent-overlap-eventually} h"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 2,
+  "gold": "Fix an eventual mixed-case growth exponent $M>0$. Then there is a constant $B\\ge1$ such that, for every sufficiently lat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 7,
+  "gold": "Fix an eventual mixed-case growth exponent $M>0$. Then there is a constant $B\\ge1$ such that, for every sufficiently lat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For $A>0$ and $1+\\tau>0$, if $T=A^{1/(1+\\tau)}$, then $T T^\\eta/A=1/A^{(\\tau-\\eta)/(1+\\tau)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "For $A>0$ and $1+\\tau>0$, if $T=A^{1/(1+\\tau)}$, then $T T^\\eta/A=1/A^{(\\tau-\\eta)/(1+\\tau)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For $A>0$ and $1+\\tau>0$, if $T=A^{1/(1+\\tau)}$, then $T^{\\tau-\\eta}=A^{(\\tau-\\eta)/(1+\\tau)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For $A>0$ and $1+\\tau>0$, if $T=A^{1/(1+\\tau)}$, then $T^{\\tau-\\eta}=A^{(\\tau-\\eta)/(1+\\tau)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $C>0$, the $m$th power of $A C^p$ is $A^m C^{mp}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For $C>0$, the $m$th power of $A C^p$ is $A^m C^{mp}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $d>0$, the ratio $\\beta_{n+d-1}/\\beta_{n+d}$ is bounded below by $(1-C^{-1})C^{-(c-1)c^{n+d}-(2(n+d)+2)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For $d>0$, the ratio $\\beta_{n+d-1}/\\beta_{n+d}$ is bounded below by $(1-C^{-1})C^{-(c-1)c^{n+d}-(2(n+d)+2)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "For any natural numbers $d$ and $N$, and any positive sequence $a:\\mathbb N\\to\\mathbb N$, the finite prefix $\\sum_{n<N}1"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For any natural numbers $d$ and $N$, and any positive sequence $a:\\mathbb N\\to\\mathbb N$, the finite prefix $\\sum_{n<N}1"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every $\\beta>0$ there is a constant $C>0$ such that, for all natural numbers $1\\le Q\\le R$, one has $\\sum_{k=Q}^R (k"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every $\\beta>0$ there is a constant $C>0$ such that, for all natural numbers $1\\le Q\\le R$, one has $\\sum_{k=Q}^R (k"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1,
+  "gold": "For every natural number $d$ and every sequence $a:\\mathbb N\\to\\mathbb N$, the weighted reciprocal series with weights $"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every natural number $d$ and every sequence $a:\\mathbb N\\to\\mathbb N$, the weighted reciprocal series with weights $"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $m$, the series $\\sum_{n\\ge0}(n+1)^m e^{-n}$ converges."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every natural number $m$, the series $\\sum_{n\\ge0}(n+1)^m e^{-n}$ converges."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every positive integer $d$ and real number $\\psi$, if $\\psi^d=\\psi^{d-1}+1$, then $\\psi$ satisfies the construction "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "For every positive integer $d$ and real number $\\psi$, if $\\psi^d=\\psi^{d-1}+1$, then $\\psi$ satisfies the construction "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every positive integer $d$ and real number $\\psi$, if $\\psi^d=\\psi^{d-1}+1$, then $\\psi$ satisfies the weighted root"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "For every positive integer $d$ and real number $\\psi$, if $\\psi^d=\\psi^{d-1}+1$, then $\\psi$ satisfies the weighted root"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "For every positive length $d$, the maximum of the all-ones weights among the first $d$ indices is $1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every positive length $d$, the maximum of the all-ones weights among the first $d$ indices is $1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $\\eta\\ge 0$ there is a constant $C>0$, depending only on $\\eta$, such that the following holds. Fo"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "For every real number $\\eta\\ge 0$ there is a constant $C>0$, depending only on $\\eta$, such that the following holds. Fo"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For every sequence $(a_n)_{n\\ge 0}$ of positive integers, if $(a_n)$ is strictly increasing and there exists a real numb"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every sequence $(a_n)_{n\\ge 0}$ of positive integers, if $(a_n)$ is strictly increasing and there exists a real numb"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 3,
+  "gold": "For real numbers $0\\le\\eta<\\tau$ there is a constant $C>0$, depending only on $\\eta$ and $\\tau$, such that the following"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For real numbers $0\\le\\eta<\\tau$ there is a constant $C>0$, depending only on $\\eta$ and $\\tau$, such that the following"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $0\\le\\eta$, $1\\le L$, and $M+1\\le 2L$, then $(M+1)(M+1)^\\eta\\le 2\\,2^\\eta L^{1+\\eta}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $0\\le\\eta$, $1\\le L$, and $M+1\\le 2L$, then $(M+1)(M+1)^\\eta\\le 2\\,2^\\eta L^{1+\\eta}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $1\\le t$, then $t^\\eta\\le t^{\\lceil\\eta\\rceil}$, where the exponent on the right is a natural-number power."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $1\\le t$, then $t^\\eta\\le t^{\\lceil\\eta\\rceil}$, where the exponent on the right is a natural-number power."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then $(1-C^{-1})C^{c^{k+1}+(k+1)^2}$ is a lower bound for the lower construction endpoint $\\beta_k$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "If $C>1$ and $c>1$, then $(1-C^{-1})C^{c^{k+1}+(k+1)^2}$ is a lower bound for the lower construction endpoint $\\beta_k$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the floor-defined lower and upper endpoints are positive, monotone, and satisfy $\\beta_n\\le\\gam"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the floor-defined lower and upper endpoints are positive, monotone, and satisfy $\\beta_n\\le\\gam"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the lower construction endpoint satisfies $(1-C^{-1})C^k\\le \\beta_k$ for every $k$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the lower construction endpoint satisfies $(1-C^{-1})C^k\\le \\beta_k$ for every $k$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the ratio of the lower endpoint to the upper endpoint tends to $0$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the ratio of the lower endpoint to the upper endpoint tends to $0$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the upper construction endpoint satisfies $(1-C^{-1})C^{c^{k+1}+(k+1)^2+k}\\le \\gamma_k$ for eve"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $C>1$ and $c>1$, then the upper construction endpoint satisfies $(1-C^{-1})C^{c^{k+1}+(k+1)^2+k}\\le \\gamma_k$ for eve"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 2.5,
+  "gold": "If $P<Q\\le R$, $d\\le Q+1$, and $a_n\\ge e^n$ for every $P<n\\le R+1$, then every start-indexed weighted window with $Q+2-d"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "If $P<Q\\le R$, $d\\le Q+1$, and $a_n\\ge e^n$ for every $P<n\\le R+1$, then every start-indexed weighted window with $Q+2-d"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $T\\ge2$, then $T/2\\le \\lfloor T\\rfloor$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $T\\ge2$, then $T/2\\le \\lfloor T\\rfloor$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "If $\\beta\\ge0$ and $T\\ge2$, then $1/\\lfloor T\\rfloor^\\beta\\le 2^\\beta/T^\\beta$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $\\beta\\ge0$ and $T\\ge2$, then $1/\\lfloor T\\rfloor^\\beta\\le 2^\\beta/T^\\beta$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": null,
+  "gold": "If $a$ is positive and non-decreasing and $w_{d-1}\\ge1$, then shifting a weighted window forward by $m$ decreases the qu"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": null,
+  "gold": "If $a$ is positive and non-decreasing and $w_{d-1}\\ge1$, then shifting a weighted window forward by $m$ decreases the qu"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $c$ satisfies the construction root equation, then multiplying the weighted root sum by $c^{n+1}$ gives $(c-1)\\sum_{j"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $c$ satisfies the construction root equation, then multiplying the weighted root sum by $c^{n+1}$ gives $(c-1)\\sum_{j"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "If $c>1$, $a$ is positive, and the root-scale limsup of $a$ at $c$ is infinite, then for every real $M$ the scaled logar"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $c>1$, $a$ is positive, and the root-scale limsup of $a$ at $c$ is infinite, then for every real $M$ the scaled logar"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $c>1$, then $((Q+1)^2+1)^2\\le c^{Q+1}$ for all sufficiently large $Q$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $c>1$, then $((Q+1)^2+1)^2\\le c^{Q+1}$ for all sufficiently large $Q$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $d>0$, $w_{d-1}\\ge1$, and $d\\le P+1$, then the weighted window beginning at $P+2-d$ dominates the factor $a_{P+1}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 4,
+  "gold": "If $d>0$, $w_{d-1}\\ge1$, and $d\\le P+1$, then the weighted window beginning at $P+2-d$ dominates the factor $a_{P+1}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1,
+  "gold": "If $d>0$, the sequence $a$ is positive, and the last weight satisfies $w_{d-1}\\ge1$, then the last weighted factor in a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "If $d>0$, the sequence $a$ is positive, and the last weight satisfies $w_{d-1}\\ge1$, then the last weighted factor in a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $d\\le P+1$, $a$ is non-decreasing, and $a_P<e^P$, then the clearing factor at $P+1-d$ is at most $(e^P)^W$ raised to "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $d\\le P+1$, $a$ is non-decreasing, and $a_P<e^P$, then the clearing factor at $P+1-d$ is at most $(e^P)^W$ raised to "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If a clearing factor $K$ divided by the first weighted window at $n$ is at most $A$, then each later scaled weighted sum"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If a clearing factor $K$ divided by the first weighted window at $n$ is at most $A$, then each later scaled weighted sum"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "If a strictly increasing positive-integer sequence satisfies $\\liminf a_n^{1/2^n}>1$, then $a_n^{1/\\varphi^n}\\to+\\infty$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "If a strictly increasing positive-integer sequence satisfies $\\liminf a_n^{1/2^n}>1$, then $a_n^{1/\\varphi^n}\\to+\\infty$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If every element of a finite set of natural numbers is at most $M$, then the sum of $(k+1)^\\eta$ over the set is at most"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If every element of a finite set of natural numbers is at most $M$, then the sum of $(k+1)^\\eta$ over the set is at most"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If every element of a finite set of natural numbers is strictly larger than $M$, then the finite tail sum of $(k+1)^m e^"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If every element of a finite set of natural numbers is strictly larger than $M$, then the finite tail sum of $(k+1)^m e^"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "If the scaled logarithmic heights $\\mu_n=\\log(a_n)/c^n$ exceed every real bound arbitrarily far out, then there are arbi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "If the scaled logarithmic heights $\\mu_n=\\log(a_n)/c^n$ exceed every real bound arbitrarily far out, then there are arbi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $A,B,x,y,z$ be positive real numbers and let $m,k\\in\\mathbb N$. If the denominator $(x/(x+1))^k-(y/z)^m$ is positive"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $A,B,x,y,z$ be positive real numbers and let $m,k\\in\\mathbb N$. If the denominator $(x/(x+1))^k-(y/z)^m$ is positive"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $B,c\\in\\mathbb R$ satisfy $B>1$ and $c>1$, and let $a:\\mathbb N\\to\\mathbb N$ lie in the corresponding floor construc"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Let $B,c\\in\\mathbb R$ satisfy $B>1$ and $c>1$, and let $a:\\mathbb N\\to\\mathbb N$ lie in the corresponding floor construc"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $B,c\\in\\mathbb R$ satisfy $B>1$ and $c>1$. Then the upper floor endpoint at index $n$ is eventually strictly smaller"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $B,c\\in\\mathbb R$ satisfy $B>1$ and $c>1$. Then the upper floor endpoint at index $n$ is eventually strictly smaller"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "Let $C,c\\in\\mathbb R$ satisfy $C>1$ and $c>1$, and let $a:\\mathbb N\\to\\mathbb N$. If, for every $n\\in\\mathbb N$,\n  \\[\n  "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Let $C,c\\in\\mathbb R$ satisfy $C>1$ and $c>1$, and let $a:\\mathbb N\\to\\mathbb N$. If, for every $n\\in\\mathbb N$,\n  \\[\n  "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $C>1$ and $x\\ge 0$. Then $\\lfloor C^x\\rfloor\\ge (1-C^{-1})C^{x-1}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $C>1$ and $x\\ge 0$. Then $\\lfloor C^x\\rfloor\\ge (1-C^{-1})C^{x-1}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 6,
+  "gold": "Let $\\mu,\\delta:\\mathbb N\\to\\mathbb R$. Assume that $\\delta_n>0$ for every $n$, that $\\sum_{n=0}^{\\infty}\\delta_n$ conve"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $\\mu,\\delta:\\mathbb N\\to\\mathbb R$. Assume that $\\delta_n>0$ for every $n$, that $\\sum_{n=0}^{\\infty}\\delta_n$ conve"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4,
+  "gold": "Let $\\mu:\\mathbb N\\to\\mathbb R$. Suppose $P<s\\le R$, the values of $\\mu$ on $[P,s]$ are bounded by $B\\ge1$, the partial "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Let $\\mu:\\mathbb N\\to\\mathbb R$. Suppose $P<s\\le R$, the values of $\\mu$ on $[P,s]$ are bounded by $B\\ge1$, the partial "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 8.5,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$ be a real number satisfying $\\psi^d=\\psi^{d-1}+1$, and assume that ev"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$ be a real number satisfying $\\psi^d=\\psi^{d-1}+1$, and assume that ev"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$ be a real number satisfying $\\psi^d=\\psi^{d-1}+1$, and suppose that $"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$ be a real number satisfying $\\psi^d=\\psi^{d-1}+1$, and suppose that $"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$, and let $a:\\mathbb N\\to\\mathbb N$ satisfy $a_n>0$ for every $n$ and "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 2.5,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$, and let $a:\\mathbb N\\to\\mathbb N$ satisfy $a_n>0$ for every $n$ and "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d$ be a positive natural number, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, and let $C,c\\in\\mathbb R$ sa"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d$ be a positive natural number, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, and let $C,c\\in\\mathbb R$ sa"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d$ be a positive natural number, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, let $c,C\\in\\mathbb R$ satisf"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Let $d$ be a positive natural number, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, let $c,C\\in\\mathbb R$ satisf"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d$ be a positive natural number, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge1$, and let $C,c\\in\\mathbb R$ sat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $d$ be a positive natural number, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge1$, and let $C,c\\in\\mathbb R$ sat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "Let $d$ be positive, let $\\psi>1$ satisfy $\\psi^d=\\psi^{d-1}+1$ and be the unique positive solution of this equation, an"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Let $d$ be positive, let $\\psi>1$ satisfy $\\psi^d=\\psi^{d-1}+1$ and be the unique positive solution of this equation, an"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Let $d,N\\in\\mathbb N$ and let $a:\\mathbb N\\to\\mathbb N$ be positive. If the shifted tail series attached to $n\\mapsto a_"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 2.5,
+  "gold": "Let $d,N\\in\\mathbb N$ and let $a:\\mathbb N\\to\\mathbb N$ be positive. If the shifted tail series attached to $n\\mapsto a_"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d,N\\in\\mathbb N$ and let $w,\\beta,\\gamma,a:\\mathbb N\\to\\mathbb N$. Assume \\cref{def:construction-bounds} for $(d,w,"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d,N\\in\\mathbb N$ and let $w,\\beta,\\gamma,a:\\mathbb N\\to\\mathbb N$. Assume \\cref{def:construction-bounds} for $(d,w,"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. Assume $0<d$, $w_{d-1}\\ge1$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. Assume $0<d$, $w_{d-1}\\ge1$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. Assume the weighted irratio"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. Assume the weighted irratio"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. Assume the weighted irratio"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. Assume the weighted irratio"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. If \\cref{def:weighted-irrat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. If \\cref{def:weighted-irrat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Let $d\\ge 1$, let $\\mathbf w=(w_j)$ have $w_{d-1}\\ge 1$ and maximum $W$ on $0\\le j<d$, let $c>1$ be the unique positive "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $d\\ge 1$, let $\\mathbf w=(w_j)$ have $w_{d-1}\\ge 1$ and maximum $W$ on $0\\le j<d$, let $c>1$ be the unique positive "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\ge 1$, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, and let $c\\in\\mathbb R$. If $c$ is the largest posit"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Let $d\\ge 1$, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, and let $c\\in\\mathbb R$. If $c$ is the largest posit"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 6.5,
+  "gold": "Let $d\\ge 1$, let $w:\\mathbb N\\to\\mathbb N$, and let $W$ be the maximum of $w_0,\\ldots,w_{d-1}$, with $w_{d-1}\\ge 1$. Le"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "Let $d\\ge 1$, let $w:\\mathbb N\\to\\mathbb N$, and let $W$ be the maximum of $w_0,\\ldots,w_{d-1}$, with $w_{d-1}\\ge 1$. Le"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "Let $d\\ge1$, let $a,b:\\mathbb N\\to\\mathbb N$, and let $\\eta,C\\in\\mathbb R$. If $a$ is positive and non-decreasing, $b_s\\"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "Let $d\\ge1$, let $a,b:\\mathbb N\\to\\mathbb N$, and let $\\eta,C\\in\\mathbb R$. If $a$ is positive and non-decreasing, $b_s\\"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Let $d\\in\\mathbb N$ and $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. If $c,t:\\mathbb N"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Let $d\\in\\mathbb N$ and $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. If $c,t:\\mathbb N"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there exist "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Let $d\\in\\mathbb N$ and $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there exist "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there exists"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there exists"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there ex"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there ex"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there ex"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy \\cref{def:construction-bounds}. Then there ex"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy the construction bounds. Then there exists a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 4,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy the construction bounds. Then there exists a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy the construction bounds. Then there exists a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy the construction bounds. Then there exists a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 7.5,
+  "gold": "Let $d\\in\\mathbb N$ be positive, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, and let $c,C\\in\\mathbb R$ satisfy"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Let $d\\in\\mathbb N$ be positive, let $w:\\mathbb N\\to\\mathbb N$ satisfy $w_{d-1}\\ge 1$, and let $c,C\\in\\mathbb R$ satisfy"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $f,g:\\mathbb N\\to\\mathbb R$ be non-negative sequences, and assume that $g$ is summable. If $f_n\\le g_n$ away from tw"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $f,g:\\mathbb N\\to\\mathbb R$ be non-negative sequences, and assume that $g$ is summable. If $f_n\\le g_n$ away from tw"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "Let $m=\\lceil\\eta\\rceil$. If $1\\le L$, $0<X$, $0\\le B$, $M+2\\le 3L$, and $e^{-M}\\le e/X$, then $(M+2)^m e^{-M}B$ is boun"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 3.5,
+  "gold": "Let $m=\\lceil\\eta\\rceil$. If $1\\le L$, $0<X$, $0\\le B$, $M+2\\le 3L$, and $e^{-M}\\le e/X$, then $(M+2)^m e^{-M}B$ is boun"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $s,t:\\mathbb N\\to\\mathbb R$ have sums $S$ and $T$, respectively. If $s_n=t_n$ for all sufficiently large $n$, if $S-"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $s,t:\\mathbb N\\to\\mathbb R$ have sums $S$ and $T$, respectively. If $s_n=t_n$ for all sufficiently large $n$, if $S-"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $z_n$ be a non-negative real series with sum $S$, with positive terms arbitrarily far out. Suppose $D_N$ are positiv"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Let $z_n$ be a non-negative real series with sum $S$, with positive terms arbitrarily far out. Suppose $D_N$ are positiv"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Suppose $P\\le Q$, $a_P<e^P$, and $\\mu_k\\le A$ for every $P\\le k\\le Q$. If $(Q+1)^2\\le c^{Q+1}$, then the shifted clearin"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Suppose $P\\le Q$, $a_P<e^P$, and $\\mu_k\\le A$ for every $P\\le k\\le Q$. If $(Q+1)^2\\le c^{Q+1}$, then the shifted clearin"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1,
+  "gold": "The auxiliary sequence $\\delta_n=1/(n+1)^2$ is summable."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "The auxiliary sequence $\\delta_n=1/(n+1)^2$ is summable."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "The lower construction endpoint is bounded above by the real power appearing in its defining floor."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "The lower construction endpoint is bounded above by the real power appearing in its defining floor."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The partial products $\\prod_{i<n}(1+\\delta_i)$ are bounded above by a constant at least $1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 8.5,
+  "gold": "The partial products $\\prod_{i<n}(1+\\delta_i)$ are bounded above by a constant at least $1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "The ratio $\\beta_{n+d-1}/\\beta_{n+d}$ is bounded below by the quotient of the corresponding explicit lower and upper rea"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The ratio $\\beta_{n+d-1}/\\beta_{n+d}$ is bounded below by the quotient of the corresponding explicit lower and upper rea"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The ratio $\\beta_{n+j}/\\gamma_{n+j+1}$ is bounded below by $(1-C^{-1})C^{-(c-1)c^{n+j+1}-(3(n+j+1)+2)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The ratio $\\beta_{n+j}/\\gamma_{n+j+1}$ is bounded below by $(1-C^{-1})C^{-(c-1)c^{n+j+1}-(3(n+j+1)+2)}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The ratio $\\beta_{n+j}/\\gamma_{n+j+1}$ is bounded below by the quotient of the corresponding explicit real-power lower a"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The ratio $\\beta_{n+j}/\\gamma_{n+j+1}$ is bounded below by the quotient of the corresponding explicit real-power lower a"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "The shifted construction-root identity may be split into the range $j<d-1$ and the last index $d-1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "The shifted construction-root identity may be split into the range $j<d-1$ and the last index $d-1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 5,
+  "gold": "The upper construction endpoint is bounded above by the real power appearing in its defining floor."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "The upper construction endpoint is bounded above by the real power appearing in its defining floor."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Under $d>0$, $w_{d-1}\\ge1$, $C>1$, and $c>1$, the reciprocal series of the lower endpoint weighted-window products is su"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Under $d>0$, $w_{d-1}\\ge1$, $C>1$, and $c>1$, the reciprocal series of the lower endpoint weighted-window products is su"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1.5,
+  "gold": "Under a first-window bound $K/X_n\\le A$ and exponential lower bounds $e^k\\le a_k$ for all $k\\ge n+d-1$, the infinite $K$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Under a first-window bound $K/X_n\\le A$ and exponential lower bounds $e^k\\le a_k$ for all $k\\ge n+d-1$, the infinite $K$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Under the eventual mixed-case growth inequality at $P+1-d$, a failure $a_P<e^P$ bounds the next scaled logarithm $\\mu_{P"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Under the eventual mixed-case growth inequality at $P+1-d$, a failure $a_P<e^P$ bounds the next scaled logarithm $\\mu_{P"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 2,
+  "gold": "Under the first-window bound $K/W_n\\le A$, the infinite scaled tail beginning at $n$ is bounded by $A a_{n+d-1}$ times t"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 3,
+  "gold": "Under the first-window bound $K/W_n\\le A$, the infinite scaled tail beginning at $n$ is bounded by $A a_{n+d-1}$ times t"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1,
+  "gold": "Under the hypotheses $d>0$, $w_{d-1}\\ge 1$, $C>1$, and $c>1$, the floor-defined lower and upper construction endpoints s"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Under the hypotheses $d>0$, $w_{d-1}\\ge 1$, $C>1$, and $c>1$, the floor-defined lower and upper construction endpoints s"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 1,
+  "gold": "Under the mixed-case local data, if the terminal height $H\\le\\mu_{R+1}$ is large enough that\n  \\[\n    W\\left(1+{A\\over c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "Under the mixed-case local data, if the terminal height $H\\le\\mu_{R+1}$ is large enough that\n  \\[\n    W\\left(1+{A\\over c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Under the weighted irrationality hypotheses and the mixed case, for arbitrarily large natural numbers $R$, the index $R$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Under the weighted irrationality hypotheses and the mixed case, for arbitrarily large natural numbers $R$, the index $R$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 2.5,
+  "gold": "Under the weighted irrationality hypotheses and the mixed case, for every $H>0$ and every lower bound $N$, there are nat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Under the weighted irrationality hypotheses and the mixed case, for every $H>0$ and every lower bound $N$, there are nat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Under the weighted irrationality hypotheses, the sequence of weighted reciprocal terms is summable."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Under the weighted irrationality hypotheses, the sequence of weighted reciprocal terms is summable."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Along a strictly increasing divisibility chain\n  $n_0,n_1,\\ldots$, the index $k$ is bounded by the total number of prime"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Along a strictly increasing divisibility chain\n  $n_0,n_1,\\ldots$, the index $k$ is bounded by the total number of prime"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then for every interval $n\\leq q<k$ with $n\\geq 2"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then for every interval $n\\leq q<k$ with $n\\geq 2"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then, for every $m\\geq 1$, $y\\geq 2$, and cutoff "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then, for every $m\\geq 1$, $y\\geq 2$, and cutoff "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "At a natural cutoff $n$, the logarithmically weighted\n  reciprocal von Mangoldt partial sum is the finite sum over\n  $2\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "At a natural cutoff $n$, the logarithmically weighted\n  reciprocal von Mangoldt partial sum is the finite sum over\n  $2\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "At a natural cutoff $n$, the real-variable reciprocal von\n  Mangoldt partial sum is exactly the finite sum\n  $\\sum_{1\\le"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "At a natural cutoff $n$, the real-variable reciprocal von\n  Mangoldt partial sum is exactly the finite sum\n  $\\sum_{1\\le"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 5,
+  "gold": "At every natural cutoff $N$, the terminal Erd\\H{o}s sum\n  weighted by $\\Omega(n)+1$ is bounded by four times the product"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "At every natural cutoff $N$, the terminal Erd\\H{o}s sum\n  weighted by $\\Omega(n)+1$ is bounded by four times the product"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Every term of a strictly increasing divisibility chain of\n  natural numbers is positive."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Every term of a strictly increasing divisibility chain of\n  natural numbers is positive."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $q\\ge2$, the Erd\\H{o}s-weight sum over multiples of\n  $q$ up to a natural cutoff $N$ is bounded by $q^{-1}$ times th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For $q\\ge2$, the Erd\\H{o}s-weight sum over multiples of\n  $q$ up to a natural cutoff $N$ is bounded by $q^{-1}$ times th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For a finite set of indices $F$, a decidable predicate $p$,\n  and a weight $c\\in[0,\\infty]$, the square of the weighted "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For a finite set of indices $F$, a decidable predicate $p$,\n  and a weight $c\\in[0,\\infty]$, the square of the weighted "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For a non-negative real cutoff $t$, the logarithmically\n  weighted reciprocal von Mangoldt partial sum is the finite sum"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For a non-negative real cutoff $t$, the logarithmically\n  weighted reciprocal von Mangoldt partial sum is the finite sum"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For a path satisfying the construction-stage path clauses,\n  the time-index-weighted one-hit sum up to height $x$ is bou"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For a path satisfying the construction-stage path clauses,\n  the time-index-weighted one-hit sum up to height $x$ is bou"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma distribut"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma distribut"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma law of sh"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For all real numbers $a$ and $b$ with $0<a\\leq b$, the\n  expectation of $h(x)=(1+e^{-x})^{-1}$ under the gamma law of sh"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For an extended nonnegative real number $a$, the series\n  which is equal to $a$ on the indices $i\\leq k$ and zero afterw"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 6.5,
+  "gold": "For an extended nonnegative real number $a$, the series\n  which is equal to $a$ on the indices $i\\leq k$ and zero afterw"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For any sequence of events $E_k$ in a measurable space,\n  the double series of the measures of $E_i\\cap E_j$ is bounded "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For any sequence of events $E_k$ in a measurable space,\n  the double series of the measures of $E_i\\cap E_j$ is bounded "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 6.5,
+  "gold": "For every $n\\in\\mathbb{N}$, the sum of the von Mangoldt\n  function over the finite divisor set $\\operatorname{divisors}("
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every $n\\in\\mathbb{N}$, the sum of the von Mangoldt\n  function over the finite divisor set $\\operatorname{divisors}("
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every $x\\geq 2$ and every real $X$, the finite cut\n  capacity is bounded above by the reindexed tail majorant depend"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every $x\\geq 2$ and every real $X$, the finite cut\n  capacity is bounded above by the reindexed tail majorant depend"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every $x\\geq2$ and every real $X$, the total finite\n  initial mass $\\sum_n b_{x,X}(n)$ from\n  \\cref{def:finite-chain"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every $x\\geq2$ and every real $X$, the total finite\n  initial mass $\\sum_n b_{x,X}(n)$ from\n  \\cref{def:finite-chain"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every downward kernel\n  $P:\\mathbb{N}\\to\\mathbb{N}\\to\\mathbb{R}$ and every upward kernel\n  $U:\\operatorname{Option}\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "For every downward kernel\n  $P:\\mathbb{N}\\to\\mathbb{N}\\to\\mathbb{R}$ and every upward kernel\n  $U:\\operatorname{Option}\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every downward kernel\n  $P:\\mathbb{N}\\to\\mathbb{N}\\to\\mathbb{R}$, every upward kernel\n  $U:\\operatorname{Option}\\mat"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "For every downward kernel\n  $P:\\mathbb{N}\\to\\mathbb{N}\\to\\mathbb{R}$, every upward kernel\n  $U:\\operatorname{Option}\\mat"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1.5,
+  "gold": "For every kernel $P : \\mathbb{N} \\times \\mathbb{N} \\to\n  \\mathbb{R}$ satisfying\n  \\cref{def:eps-modified-chain-kernel-su"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every kernel $P : \\mathbb{N} \\times \\mathbb{N} \\to\n  \\mathbb{R}$ satisfying\n  \\cref{def:eps-modified-chain-kernel-su"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, kernels\n  $P,U:\\mathbb N\\to\\mathbb N\\to\\mathbb R$, measure $\\mu$ on $\\Omega$, and p"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "For every measurable space $\\Omega$, kernels\n  $P,U:\\mathbb N\\to\\mathbb N\\to\\mathbb R$, measure $\\mu$ on $\\Omega$, and p"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 3,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 2.5,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural $p\\geq2$ and every natural cutoff $N$,\n  the finite ordinary Mangoldt tail at $p$ is bounded by\n  $1/("
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "For every natural $p\\geq2$ and every natural cutoff $N$,\n  the finite ordinary Mangoldt tail at $p$ is bounded by\n  $1/("
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural $r\\geq 1$, the logarithmic increments\n  from $2$ through $r$ telescope:\n  $\\sum_{2\\leq q<r+1}(\\log q-\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural $r\\geq 1$, the logarithmic increments\n  from $2$ through $r$ telescope:\n  $\\sum_{2\\leq q<r+1}(\\log q-\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural $r\\geq 1$, the sum of\n  $\\Lambda(q)/q$ over $2\\leq q<r+1$ is the reciprocal von Mangoldt partial sum\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every natural $r\\geq 1$, the sum of\n  $\\Lambda(q)/q$ over $2\\leq q<r+1$ is the reciprocal von Mangoldt partial sum\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 5,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, the finite sum of\n  $p^{-j}$ over primes $p\\le N$ and exponents $1\\le j\\le N$ is at most t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every natural cutoff $N$, the finite sum of\n  $p^{-j}$ over primes $p\\le N$ and exponents $1\\le j\\le N$ is at most t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $1\\le n$,\n  $$\\int_1^\\infty\n      {\\frac{d}{ds}\\bigl((\\operatorname{Re}\\zeta(s))^{-1}\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $1\\le n$,\n  $$\\int_1^\\infty\n      {\\frac{d}{ds}\\bigl((\\operatorname{Re}\\zeta(s))^{-1}\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $2\\leq n$, on the real\n  half-line $(1,\\infty)$ one has\n  $$\\int_1^\\infty {\\operatorna"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $2\\leq n$, on the real\n  half-line $(1,\\infty)$ one has\n  $$\\int_1^\\infty {\\operatorna"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1,
+  "gold": "For every natural number $n$ with $n\\geq 2$,\n  $\\log n\\sum_{q\\in\\mathbb{N},\\ q\\geq 2}\n  \\Lambda(q)/(q\\log^2(nq))\\leq 1$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every natural number $n$ with $n\\geq 2$,\n  $\\log n\\sum_{q\\in\\mathbb{N},\\ q\\geq 2}\n  \\Lambda(q)/(q\\log^2(nq))\\leq 1$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq 2$, the\n  discrepancy between the invariant von Mangoldt weight and the Erd\\H{o"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq 2$, the\n  discrepancy between the invariant von Mangoldt weight and the Erd\\H{o"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq2$, the Erd\\H{o}s\n  weight is\n  \\[\n    \\nu_0(n)={1\\over n}\\int_0^\\infty u\\log n\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq2$, the Erd\\H{o}s\n  weight is\n  \\[\n    \\nu_0(n)={1\\over n}\\int_0^\\infty u\\log n\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq2$, the invariant\n  von Mangoldt weight satisfies\n  \\[\n    \\nu_\\Lambda(n)={1\\ove"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq2$, the invariant\n  von Mangoldt weight satisfies\n  \\[\n    \\nu_\\Lambda(n)={1\\ove"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq2$, the kernel\n  $u\\mapsto \\log n\\,n^{-u}/\\operatorname{Re}\\zeta(1+u)$ is integr"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every natural number $n$ with $n\\geq2$, the kernel\n  $u\\mapsto \\log n\\,n^{-u}/\\operatorname{Re}\\zeta(1+u)$ is integr"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $n$ with $n\\geq2$, the kernel\n  $u\\mapsto \\log n\\,n^{-u}u$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "For every natural number $n$ with $n\\geq2$, the kernel\n  $u\\mapsto \\log n\\,n^{-u}u$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": null,
+  "gold": "For every natural number $n\\ge2$, the Erd\\H{o}s weight\n  $1/(n\\log n)$ is bounded by the adjacent logarithmic increment\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every natural number $n\\ge2$, the Erd\\H{o}s weight\n  $1/(n\\log n)$ is bounded by the adjacent logarithmic increment\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 2,
+  "gold": "For every natural number $n\\geq 2$ and every natural\n  cutoff $N$, the finite thresholded von Mangoldt tail sum up to $N"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 7.5,
+  "gold": "For every natural number $n\\geq 2$ and every natural\n  cutoff $N$, the finite thresholded von Mangoldt tail sum up to $N"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $p$ in the prime layer,\n  $$\n  \\log p\\sum_{q\\geq2}\\frac{\\Lambda(q)}{q\\log^2(pq)}+\n  \\sum_{k\\geq"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $p$ in the prime layer,\n  $$\n  \\log p\\sum_{q\\geq2}\\frac{\\Lambda(q)}{q\\log^2(pq)}+\n  \\sum_{k\\geq"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every natural number $r\\ge2$, the difference between\n  the logarithmic increment of $\\log\\log$ from $r$ to $r+1$ and"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every natural number $r\\ge2$, the difference between\n  the logarithmic increment of $\\log\\log$ from $r$ to $r+1$ and"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": null,
+  "gold": "For every positive integer $n$ and every real $u>0$, the\n  inner sum of the Laplace integrand over $q>1$ is the constant"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": null,
+  "gold": "For every positive integer $n$ and every real $u>0$, the\n  inner sum of the Laplace integrand over $q>1$ is the constant"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every positive integer $n$, the absolute values of the\n  incoming von Mangoldt-weight summands from states $nq$ form"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every positive integer $n$, the absolute values of the\n  incoming von Mangoldt-weight summands from states $nq$ form"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every positive integer $n$, the incoming\n  von Mangoldt-weight mass for the ordinary downward transition is the\n  im"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "For every positive integer $n$, the incoming\n  von Mangoldt-weight mass for the ordinary downward transition is the\n  im"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For every positive integer $n$, the incoming\n  von Mangoldt-weight mass is the Laplace integral obtained by expanding\n  "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every positive integer $n$, the incoming\n  von Mangoldt-weight mass is the Laplace integral obtained by expanding\n  "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 6,
+  "gold": "For every positive integer $n$, the reciprocal-zeta\n  derivative integral over $s>1$ is the translated Laplace integral "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every positive integer $n$, the reciprocal-zeta\n  derivative integral over $s>1$ is the translated Laplace integral "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every positive integer $n$, the von Mangoldt weight\n  \\cref{def:mangoldt-weight} satisfies the exact incoming-mass r"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every positive integer $n$, the von Mangoldt weight\n  \\cref{def:mangoldt-weight} satisfies the exact incoming-mass r"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every positive natural number $n$, the invariant weight\n  $\\nu_\\Lambda(n)=\\texttt{mangoldt\\_weight}\\,n$ is strictly "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every positive natural number $n$, the invariant weight\n  $\\nu_\\Lambda(n)=\\texttt{mangoldt\\_weight}\\,n$ is strictly "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 2,
+  "gold": "For every prime $p$, the ordinary normalized von Mangoldt\n  incoming tail at $p$ is bounded by the sharp slack term from"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every prime $p$, the ordinary normalized von Mangoldt\n  incoming tail at $p$ is bounded by the sharp slack term from"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every prime natural number $p$, set\n  $x=\\log p/\\log 2$.  The redirected prime-power mass satisfies\n  $$\\sum_{k\\ge2}"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every prime natural number $p$, set\n  $x=\\log p/\\log 2$.  The redirected prime-power mass satisfies\n  $$\\sum_{k\\ge2}"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the eta value of\n  \\cref{def:dirichlet-eta-real} is the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ ag"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real $s>1$, the eta value of\n  \\cref{def:dirichlet-eta-real} is the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ ag"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ under `ProbabilityTheory.gammaMeasure s 1` is the\n  no"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 7,
+  "gold": "For every real $s>1$, the expectation of\n  $h(x)=(1+e^{-x})^{-1}$ under `ProbabilityTheory.gammaMeasure s 1` is the\n  no"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the logarithmic derivative of the\n  real Dirichlet eta function is non-negative:\n  $0\\leq \\eta'(s)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real $s>1$, the logarithmic derivative of the\n  real Dirichlet eta function is non-negative:\n  $0\\leq \\eta'(s)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the real Dirichlet eta value\n  $\\eta(s)$ of \\cref{def:dirichlet-eta-real} is strictly positive."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real $s>1$, the real Dirichlet eta value\n  $\\eta(s)$ of \\cref{def:dirichlet-eta-real} is strictly positive."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $s>1$, the real Dirichlet eta value of\n  \\cref{def:dirichlet-eta-real} is the normalized Mellin transform"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real $s>1$, the real Dirichlet eta value of\n  \\cref{def:dirichlet-eta-real} is the normalized Mellin transform"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real $t\\ge2$, replacing $t$ by\n  $\\lfloor t\\rfloor$ changes $\\log\\log t$ by at most $\\log 2$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real $t\\ge2$, replacing $t$ by\n  $\\lfloor t\\rfloor$ changes $\\log\\log t$ by at most $\\log 2$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $r>0$,\n  $\\int_0^\\infty t e^{-rt}\\,dt=1/r^2$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $r>0$,\n  $\\int_0^\\infty t e^{-rt}\\,dt=1/r^2$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $r>0$, the function\n  $t\\mapsto t e^{-rt}$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real number $r>0$, the function\n  $t\\mapsto t e^{-rt}$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $s>1$, the derivative on the real\n  axis of the reciprocal real zeta factor is the reciprocal real"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $s>1$, the derivative on the real\n  axis of the reciprocal real zeta factor is the reciprocal real"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $t>0$, the elementary kernel\n  satisfies\n  $$ {t\\log 2\\over 2^t-1}\\leq 2^{-t/2}. $$"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $t>0$, the elementary kernel\n  satisfies\n  $$ {t\\log 2\\over 2^t-1}\\leq 2^{-t/2}. $$"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the complex number\n  obtained from the real von Mangoldt Dirichlet series equals t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the complex number\n  obtained from the real von Mangoldt Dirichlet series equals t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the elementary\n  geometric factor satisfies\n  $$\n    \\frac{\\log 2}{2^u-1}\\leq \\fra"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the elementary\n  geometric factor satisfies\n  $$\n    \\frac{\\log 2}{2^u-1}\\leq \\fra"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u$ with $u>0$, the logarithmic\n  derivative of the real Dirichlet eta function at $1+u$ is the re"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "For every real number $u$ with $u>0$, the logarithmic\n  derivative of the real Dirichlet eta function at $1+u$ is the re"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For every real number $u$ with $u>0$, the von Mangoldt\n  Dirichlet series\n  $\\sum_{q\\in\\mathbb{N}} \\Lambda(q)q^{-1-u}$ i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real number $u$ with $u>0$, the von Mangoldt\n  Dirichlet series\n  $\\sum_{q\\in\\mathbb{N}} \\Lambda(q)q^{-1-u}$ i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$ and every natural cutoff $N$,\n  the finite sum of $\\Lambda(q)q^{-1-u}$ over natural $q<N$ wi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real number $u>0$ and every natural cutoff $N$,\n  the finite sum of $\\Lambda(q)q^{-1-u}$ over natural $q<N$ wi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$ and every natural cutoff $N$,\n  the finite sum of $\\Lambda(q)q^{-1-u}$ over natural $q<N$ wi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real number $u>0$ and every natural cutoff $N$,\n  the finite sum of $\\Lambda(q)q^{-1-u}$ over natural $q<N$ wi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the real part of the negative\n  logarithmic derivative of the Riemann zeta function at the "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real number $u>0$, the real part of the negative\n  logarithmic derivative of the Riemann zeta function at the "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the real von Mangoldt\n  Dirichlet series defining $\\sum_q\\Lambda(q)q^{-1-u}$ is summable."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "For every real number $u>0$, the real von Mangoldt\n  Dirichlet series defining $\\sum_q\\Lambda(q)q^{-1-u}$ is summable."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real number $u>0$, the sum of the real part of\n  the logarithmic derivative of the Riemann zeta function at th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every real number $u>0$, the sum of the real part of\n  the logarithmic derivative of the Riemann zeta function at th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every real-valued function $F$ on the real line,\n  translating by $s=u+1$ carries the integral of $F$ over $(1,\\inft"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every real-valued function $F$ on the real line,\n  translating by $s=u+1$ carries the integral of $F$ over $(1,\\inft"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1,
+  "gold": "For every sampled path that is a strictly increasing\n  divisibility chain, and with the displayed hit predicate regarded"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every sampled path that is a strictly increasing\n  divisibility chain, and with the displayed hit predicate regarded"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "For every sampled path that is a strictly increasing\n  divisibility chain, the set of indices hitting $A$ below any real"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "For every sampled path that is a strictly increasing\n  divisibility chain, the set of indices hitting $A$ below any real"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 2,
+  "gold": "For every set $A\\subseteq\\mathbb N$ and every sequence\n  $m:\\mathbb N\\to\\mathbb N$, if $A$ has positive upper doubly log"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every set $A\\subseteq\\mathbb N$ and every sequence\n  $m:\\mathbb N\\to\\mathbb N$, if $A$ has positive upper doubly log"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every set $A\\subseteq\\mathbb N$, the limit superior,\n  as the real variable $x$ tends to infinity, of the truncated "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For every set $A\\subseteq\\mathbb N$, the limit superior,\n  as the real variable $x$ tends to infinity, of the truncated "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every set $A\\subseteq\\mathbb N$, there is a constant\n  $K\\ge0$ such that, for all sufficiently large real $x$, the t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For every set $A\\subseteq\\mathbb N$, there is a constant\n  $K\\ge0$ such that, for all sufficiently large real $x$, the t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For every type $\\Omega$ equipped with a measurable-space\n  structure, kernels $P,U:\\mathbb N\\to\\mathbb N\\to\\mathbb R$, m"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 3,
+  "gold": "For every type $\\Omega$ equipped with a measurable-space\n  structure, kernels $P,U:\\mathbb N\\to\\mathbb N\\to\\mathbb R$, m"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1,
+  "gold": "For positive integers $n$ and $q$ with $q>1$, the single\n  incoming summand obtained from $nq$ is the corresponding Lapl"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "For positive integers $n$ and $q$ with $q>1$, the single\n  incoming summand obtained from $nq$ is the corresponding Lapl"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If\n  \\cref{def:eps-modified-chain-subinvariant-package} holds, then the\n  prime-layer Erd\\H{o}s series is summable.  Mor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "If\n  \\cref{def:eps-modified-chain-subinvariant-package} holds, then the\n  prime-layer Erd\\H{o}s series is summable.  Mor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $0<a\\le b$, then the error made by replacing\n  $\\log b-\\log a$ with $(b-a)/b$ is non-negative and is at most\n  $(b-a)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $0<a\\le b$, then the error made by replacing\n  $\\log b-\\log a$ with $(b-a)/b$ is non-negative and is at most\n  $(b-a)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $0<a\\leq b$, then\n  $(b-a)/b^2\\leq 1/a-1/b$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $0<a\\leq b$, then\n  $(b-a)/b^2\\leq 1/a-1/b$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $2\\le n\\le N$, then $\\Omega(n)$ is bounded by the\n  number of pairs $(p,j)$ with $p$ prime, $2\\le p\\le N$, $1\\le j\\le"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "If $2\\le n\\le N$, then $\\Omega(n)$ is bounded by the\n  number of pairs $(p,j)$ with $p$ prime, $2\\le p\\le N$, $1\\le j\\le"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $A\\subseteq\\mathbb N$ has positive upper doubly\n  logarithmic density, then there exists a strictly increasing divisi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "If $A\\subseteq\\mathbb N$ has positive upper doubly\n  logarithmic density, then there exists a strictly increasing divisi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $C\\ge0$ and $L>0$, then multiplying the second-moment\n  scale $C L^2$ by the square of $(\\operatorname{ofReal} L)^{-1"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "If $C\\ge0$ and $L>0$, then multiplying the second-moment\n  scale $C L^2$ by the square of $(\\operatorname{ofReal} L)^{-1"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $a$ is a nonzero proper divisor of $b$, then the total\n  number of prime factors of $a$, counted with multiplicity, i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $a$ is a nonzero proper divisor of $b$, then the total\n  number of prime factors of $a$, counted with multiplicity, i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $q\\geq 2$, then the von Mangoldt tail\n  summand is the integral of the Laplace kernel\n  $(\\Lambda(q)/q)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $q\\geq 2$, then the von Mangoldt tail\n  summand is the integral of the Laplace kernel\n  $(\\Lambda(q)/q)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $r\\geq 2$, then the weighted logarithmic\n  increment from $r$ to $r+1$ is bounded by the corresponding "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $r\\geq 2$, then the weighted logarithmic\n  increment from $r$ to $r+1$ is bounded by the corresponding "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $q\\ge2$ and $m\\ge1$, then\n  $\\nu_0(qm)$ is bounded by $q^{-1}\\nu_0(m)$ for $m\\ge2$, while for\n  $m=1$ it is bounded b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "If $q\\ge2$ and $m\\ge1$, then\n  $\\nu_0(qm)$ is bounded by $q^{-1}\\nu_0(m)$ for $m\\ge2$, while for\n  $m=1$ it is bounded b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $x>1$ is real, then\n  $1\\leq \\operatorname{Re}\\zeta(x)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "If $x>1$ is real, then\n  $1\\leq \\operatorname{Re}\\zeta(x)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 2,
+  "gold": "If a set $A\\subseteq\\mathbb N$ has positive upper doubly\n  logarithmic density with respect to the invariant von Mangold"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "If a set $A\\subseteq\\mathbb N$ has positive upper doubly\n  logarithmic density with respect to the invariant von Mangold"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 5,
+  "gold": "If every coordinate map of the sampled path is measurable,\n  then each extended nonnegative normalized hit-count random "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "If every coordinate map of the sampled path is measurable,\n  then each extended nonnegative normalized hit-count random "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If the modified-chain sub-invariance package\n  \\cref{def:eps-modified-chain-subinvariant-package} holds, then the adjoin"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "If the modified-chain sub-invariance package\n  \\cref{def:eps-modified-chain-subinvariant-package} holds, then the adjoin"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1.5,
+  "gold": "If the positive part of $\\nu_\\Lambda$ is bounded by\n  $M\\nu_0$ for all $n\\ge2$, then every subset terminal Mangoldt-posi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "If the positive part of $\\nu_\\Lambda$ is bounded by\n  $M\\nu_0$ for all $n\\ge2$, then every subset terminal Mangoldt-posi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If the reciprocal von Mangoldt Mertens error is bounded by\n  $D$, then the logarithmically weighted finite sums of the c"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "If the reciprocal von Mangoldt Mertens error is bounded by\n  $D$, then the logarithmically weighted finite sums of the c"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "If there exists a nonnegative real constant $C_0$ such that,\n  for every pair of real numbers $x,X$ with $2\\leq x\\leq X$"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "If there exists a nonnegative real constant $C_0$ such that,\n  for every pair of real numbers $x,X$ with $2\\leq x\\leq X$"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 1,
+  "gold": "Let\n  $u(s)=(\\operatorname{Re}\\zeta(s))^{-1}$ for real $s>1$.  For every real\n  $s>1$, the function $u$ has derivative $"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let\n  $u(s)=(\\operatorname{Re}\\zeta(s))^{-1}$ for real $s>1$.  For every real\n  $s>1$, the function $u$ has derivative $"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $A\\subseteq\\mathbb N$ have positive upper doubly\n  logarithmic density $\\Delta$.  Then $A$ contains a strictly incre"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Let $A\\subseteq\\mathbb N$ have positive upper doubly\n  logarithmic density $\\Delta$.  Then $A$ contains a strictly incre"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $F$ be a finite set of indices, let $p$ be a decidable\n  predicate on indices, and let $L>0$.  The extended nonnegat"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Let $F$ be a finite set of indices, let $p$ be a decidable\n  predicate on indices, and let $L>0$.  The extended nonnegat"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 6,
+  "gold": "Let $P : \\mathbb N \\times \\mathbb N \\to \\mathbb R$ be a\n  function with the following three properties.  If $n\\geq2$ is "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1.5,
+  "gold": "Let $P : \\mathbb N \\times \\mathbb N \\to \\mathbb R$ be a\n  function with the following three properties.  If $n\\geq2$ is "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $f,g:\\mathbb R\\to\\mathbb R$.  If\n  $|f(x)-g(x)|\\to0$ as $x\\to\\infty$, then $f$ and $g$ have the same limit\n  superio"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $f,g:\\mathbb R\\to\\mathbb R$.  If\n  $|f(x)-g(x)|\\to0$ as $x\\to\\infty$, then $f$ and $g$ have the same limit\n  superio"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Let $m$ be a natural number with $m\\geq 1$, let $y$ be a\n  real number with $y\\geq 2$, and let $S$ be a finite set of na"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $m$ be a natural number with $m\\geq 1$, let $y$ be a\n  real number with $y\\geq 2$, and let $S$ be a finite set of na"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $m\\geq 1$, $y\\geq 2$, and $N$ be natural.  With\n  $n=\\lceil y\\rceil$, the weighted logarithmic-increment sum over\n  "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $m\\geq 1$, $y\\geq 2$, and $N$ be natural.  With\n  $n=\\lceil y\\rceil$, the weighted logarithmic-increment sum over\n  "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $n\\geq 2$, let $N$ be a natural cutoff, and let $t$ be\n  real.  The finite integral-side von Mangoldt tail integrand"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $n\\geq 2$, let $N$ be a natural cutoff, and let $t$ be\n  real.  The finite integral-side von Mangoldt tail integrand"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Let $w,v:\\mathbb N\\to\\mathbb R$ have absolutely summable\n  difference.  For every set $A\\subseteq\\mathbb N$ and every re"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Let $w,v:\\mathbb N\\to\\mathbb R$ have absolutely summable\n  difference.  For every set $A\\subseteq\\mathbb N$ and every re"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $w,v:\\mathbb N\\to\\mathbb R$ satisfy\n  $\\sum_{n\\in\\mathbb N}|w(n)-v(n)|<\\infty$.  For every set\n  $A\\subseteq\\mathbb "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Let $w,v:\\mathbb N\\to\\mathbb R$ satisfy\n  $\\sum_{n\\in\\mathbb N}|w(n)-v(n)|<\\infty$.  For every set\n  $A\\subseteq\\mathbb "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $x,X\\in\\mathbb{R}$ with $2\\leq x$, and let\n  $A\\subseteq\\mathbb{N}$ be a primitive set supported in $[x,X]$. Then $f"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Let $x,X\\in\\mathbb{R}$ with $2\\leq x$, and let\n  $A\\subseteq\\mathbb{N}$ be a primitive set supported in $[x,X]$. Then $f"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $x\\geq2$, let $X$ be real, and let $A\\subseteq\\mathbb N$\n  be primitive and supported in $[x,X]$. Then the Erd\\H{o}s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $x\\geq2$, let $X$ be real, and let $A\\subseteq\\mathbb N$\n  be primitive and supported in $[x,X]$. Then the Erd\\H{o}s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The Erd\\H{o}s series of the prime layer $\\mathbb N_1$ is\n  summable.  For every primitive set $A\\subseteq\\mathbb N$, the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "The Erd\\H{o}s series of the prime layer $\\mathbb N_1$ is\n  summable.  For every primitive set $A\\subseteq\\mathbb N$, the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9,
+  "gold": "The Lebesgue integral over $(1,\\infty)$ of the derivative of\n  the real function $s\\mapsto (\\operatorname{Re}\\zeta(s))^{"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "The Lebesgue integral over $(1,\\infty)$ of the derivative of\n  the real function $s\\mapsto (\\operatorname{Re}\\zeta(s))^{"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The comparison series\n  $\\sum_{n\\geq2}1/(n(\\log n)^2)$ is summable over the natural numbers, with the\n  finitely many te"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The comparison series\n  $\\sum_{n\\geq2}1/(n(\\log n)^2)$ is summable over the natural numbers, with the\n  finitely many te"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The elementary logarithmic main term obtained by replacing\n  $\\Lambda(q)/q$ with $\\log q-\\log(q-1)$ differs from $\\log\\l"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The elementary logarithmic main term obtained by replacing\n  $\\Lambda(q)/q$ with $\\log q-\\log(q-1)$ differs from $\\log\\l"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 8,
+  "gold": "The pointwise discrepancy between the invariant von\n  Mangoldt weight and the Erd\\H{o}s weight is absolutely summable ov"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The pointwise discrepancy between the invariant von\n  Mangoldt weight and the Erd\\H{o}s weight is absolutely summable ov"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "The positive part of the invariant von Mangoldt weight is\n  bounded, for all $n\\ge2$, by a fixed non-negative multiple o"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The positive part of the invariant von Mangoldt weight is\n  bounded, for all $n\\ge2$, by a fixed non-negative multiple o"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The prime-layer Erd\\H{o}s series is summable.  Moreover,\n  for every set $A\\subseteq\\mathbb N$, if $A$ is primitive, the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The prime-layer Erd\\H{o}s series is summable.  Moreover,\n  for every set $A\\subseteq\\mathbb N$, if $A$ is primitive, the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The real Dirichlet eta function of\n  \\cref{def:dirichlet-eta-real} is non-decreasing on the open half-line\n  $(1,\\infty)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The real Dirichlet eta function of\n  \\cref{def:dirichlet-eta-real} is non-decreasing on the open half-line\n  $(1,\\infty)"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The reciprocal of the real part of the Riemann zeta\n  function tends to $0$ as the real variable tends to $1$ from the r"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "The reciprocal of the real part of the Riemann zeta\n  function tends to $0$ as the real variable tends to $1$ from the r"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The reciprocal of the real part of the Riemann zeta\n  function tends to $1$ as the real variable tends to $+\\infty$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "The reciprocal of the real part of the Riemann zeta\n  function tends to $1$ as the real variable tends to $+\\infty$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The terminal sum over a real initial segment with weight\n  $(\\Omega(n)+1)\\nu_0(n)$ is eventually bounded by a non-negati"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The terminal sum over a real initial segment with weight\n  $(\\Omega(n)+1)\\nu_0(n)$ is eventually bounded by a non-negati"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "There are a measurable sample space, a probability measure,\n  and a natural-valued path process satisfying the explicit "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 8.5,
+  "gold": "There are a measurable sample space, a probability measure,\n  and a natural-valued path process satisfying the explicit "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There are real constants $\\delta>0$ and $C\\geq0$ such that,\n  for every real $u$ with $0<u\\leq\\delta$,\n  $|1/\\operatorna"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "There are real constants $\\delta>0$ and $C\\geq0$ such that,\n  for every real $u$ with $0<u\\leq\\delta$,\n  $|1/\\operatorna"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There exist a type $\\Omega$ equipped with a measurable-space\n  structure, a measure $\\mu$ on $\\Omega$, and a path proces"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "There exist a type $\\Omega$ equipped with a measurable-space\n  structure, a measure $\\mu$ on $\\Omega$, and a path proces"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There exist a von Mangoldt downward kernel and its adjoint\n  upward kernel satisfying the adjoint kernel package\n  \\cref"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There exist a von Mangoldt downward kernel and its adjoint\n  upward kernel satisfying the adjoint kernel package\n  \\cref"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There exist kernels $P,U:\\mathbb N\\times\\mathbb N\\to\\mathbb R$\n  satisfying the adjoint von Mangoldt kernel package\n  \\c"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There exist kernels $P,U:\\mathbb N\\times\\mathbb N\\to\\mathbb R$\n  satisfying the adjoint von Mangoldt kernel package\n  \\c"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There exists a kernel $P:\\mathbb N\\times\\mathbb N\\to\\mathbb R$\n  satisfying the invariant von Mangoldt downward-kernel i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "There exists a kernel $P:\\mathbb N\\times\\mathbb N\\to\\mathbb R$\n  satisfying the invariant von Mangoldt downward-kernel i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "There exists a nonnegative real constant $C$ such that, for\n  every real number $x$ with $2\\leq x$ and every primitive s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There exists a nonnegative real constant $C$ such that, for\n  every real number $x$ with $2\\leq x$ and every primitive s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 3.5,
+  "gold": "There exists a real constant $C\\geq 0$ such that, for all\n  real numbers $x$ and $X$ with $2\\leq x\\leq X$, every primiti"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There exists a real constant $C\\geq 0$ such that, for all\n  real numbers $x$ and $X$ with $2\\leq x\\leq X$, every primiti"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There exists a transition kernel\n  $P:\\mathbb{N}\\times\\mathbb{N}\\to\\mathbb{R}$ satisfying the fixed\n  modified-chain int"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There exists a transition kernel\n  $P:\\mathbb{N}\\times\\mathbb{N}\\to\\mathbb{R}$ satisfying the fixed\n  modified-chain int"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  natural number $n\\ge2$, the logarithmically weighted recipro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  natural number $n\\ge2$, the logarithmically weighted recipro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\ge2$, the logarithmically weighted reciprocal von Ma"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\ge2$, the logarithmically weighted reciprocal von Ma"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 4,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\ge2$, the reciprocal sum over primes up to $t$ diffe"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\ge2$, the reciprocal sum over primes up to $t$ diffe"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\geq2$, the reciprocal sum of primes up to $t$, writt"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\geq2$, the reciprocal sum of primes up to $t$, writt"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a non-negative constant $K$ such that, for every\n  natural cutoff $N\\ge2$, the sum of the Erd\\H{o}s weights ove"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There is a non-negative constant $K$ such that, for every\n  natural cutoff $N\\ge2$, the sum of the Erd\\H{o}s weights ove"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  natural $m\\geq 1$, every real $y\\geq 2$, and every natural cut"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  natural $m\\geq 1$, every real $y\\geq 2$, and every natural cut"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $t\\geq 1$, the reciprocal von Mangoldt partial sum"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $t\\geq 1$, the reciprocal von Mangoldt partial sum"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $x\\geq 2$, the reindexed tail majorant is at most\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  real number $x\\geq 2$, the reindexed tail majorant is at most\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$, independent of $m$ and\n  $y$, such that, for every natural $m\\geq 1$ and every real "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There is a real constant $C\\geq 0$, independent of $m$ and\n  $y$, such that, for every natural $m\\geq 1$ and every real "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq0$ such that, for every\n  natural number $n\\geq2$,\n  \\[\n    \\left|{1\\over n}\\int_0^\\infty"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There is a real constant $C\\geq0$ such that, for every\n  natural number $n\\geq2$,\n  \\[\n    \\left|{1\\over n}\\int_0^\\infty"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "There is an absolute constant $C\\geq0$ such that, for every\n  natural number $n\\geq2$, the invariant von Mangoldt weight"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "There is an absolute constant $C\\geq0$ such that, for every\n  natural number $n\\geq2$, the invariant von Mangoldt weight"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Under the chain and coordinate-measurability hypotheses,\n  the first moment of the normalized hit-count random variable "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Under the chain and coordinate-measurability hypotheses,\n  the first moment of the normalized hit-count random variable "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 6.5,
+  "gold": "Under the chain and coordinate-measurability hypotheses, a\n  two-point second-moment bound at height $x$ implies the cor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Under the chain and coordinate-measurability hypotheses, a\n  two-point second-moment bound at height $x$ implies the cor"
+ }
+]

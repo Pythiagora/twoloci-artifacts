@@ -1,0 +1,22 @@
+[
+ {
+  "method": "Euclid",
+  "informal": ""
+ },
+ {
+  "method": "Euler",
+  "informal": "La preuve utilise la méthode d'Euler basée sur la divergence de la série harmonique.  \nL'idée centrale est de comparer une somme harmonique partielle \\( \\sum_{n=1}^N \\frac{1}{n} \\) à un produit fini étendu à tous les nombres premiers \\( p \\le M \\), de termes \\( \\sum_{k=0}^{e_p} \\frac{1}{p^k} \\) (somme partielle de série géométrique). Grâce à la décomposition unique en facteurs premiers, chaque entier \\( n \\le N \\) s'écrit comme produit de premiers avec des exposants bornés ; ceci permet de majorer la somme harmonique partielle par le produit eulérien partiel correspondant.\n\nOn raisonne ensuite par l'absurde : s'il n'existait qu'un nombre fini de nombres premiers, le produit eulérien (étendu à tous les premiers) serait une constante finie. Or la série harmonique diverge, donc pour un assez grand \\( N \\), la somme harmonique partielle dépasse cette constante. Le lemme technique montre au contraire qu'elle reste toujours inférieure au produit eulérien partiel, d'où une contradiction."
+ },
+ {
+  "method": "Goldbach",
+  "informal": "La preuve repose sur la suite des **nombres de Fermat** \\(F_n = 2^{2^n} + 1\\).  \nL’idée centrale consiste à établir qu’ils sont **deux à deux premiers entre eux** grâce à l’identité  \n\n\\[\n\\prod_{k=0}^{n-1} F_k = F_n - 2 .\n\\]\n\nSi un nombre premier \\(p\\) divisait deux nombres de Fermat distincts \\(F_m\\) et \\(F_n\\) avec \\(n < m\\), il diviserait alors \\(F_m\\) et le produit des précédents, donc leur différence \\(2\\). On aurait ainsi \\(p = 2\\), ce qui est impossible car tous les nombres de Fermat sont impairs.  \nChaque \\(F_n > 1\\) possède au moins un facteur premier (par exemple son plus petit facteur premier). Ces facteurs sont nécessairement tous distincts, ce qui donne **une infinité de nombres premiers**."
+ },
+ {
+  "method": "Saidak",
+  "informal": "La preuve s’appuie sur une construction explicite d’une suite infinie d’entiers \\(u_n\\) définie par  \n\\(u_{n+1} = u_n(u_n + 1)\\) (avec une valeur initiale appropriée, vraisemblablement \\(u_0 = 2\\)).  \nL’idée centrale est que **chaque nouveau terme \\(u_{n+1}\\) est premier avec le précédent \\(u_n\\)** (car \\(\\mathrm{pgcd}(u_n, u_n+1)=1\\)), et donc possède au moins un facteur premier ne divisant pas \\(u_n\\). Par récurrence, \\(u_n\\) contient au moins \\(n\\) facteurs premiers distincts (lemme F9).\n\nLa preuve du théorème procède par l’absurde : on suppose qu’il n’existe qu’un nombre fini \\(N\\) de nombres premiers. On examine alors \\(u_N\\) : ses facteurs premiers appartiennent nécessairement à l’ensemble fini des \\(N\\) premiers disponibles, donc **le nombre de ses facteurs premiers distincts est borné par \\(N\\)**. Mais la propriété énoncée ci-dessus garantit que \\(u_N\\) possède strictement plus de \\(N\\) facteurs premiers distincts (ou au moins \\(N+1\\)), d’où une contradiction.\n\nAinsi, la technique mathématique employée est une **preuve par construction d’une suite d’entiers deux-à-deux premiers entre eux**, variante moderne (due par exemple à Saidak) de la preuve classique d’Euclide, qui évite le recours aux factorielles ou au produit de tous les premiers."
+ },
+ {
+  "method": "Wunderlich",
+  "informal": ""
+ }
+]

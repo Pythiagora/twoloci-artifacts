@@ -1,0 +1,12 @@
+=== informalisations (sauvées full) ===
+[Martingale] La preuve utilise la **méthode classique par martingale inverse et fonctions symétriques** pour démontrer le théorème de de Finetti (une sui...
+[L2] La preuve repose sur une approche par **moyennes mobiles (ou par blocs) et contrôle des corrélations** pour les suites échangeables bornées....
+[Koopman] La preuve s'appuie sur la **méthode ergodique dans L²** appliquée au shift sur l'espace des suites. Pour une fonction \(f\) de carré intégra...
+
+=== MATRICE moyenne sur K=5 (ligne=script lu, col=gold) ===
+            Martingale         L2    Koopman
+Martingale        10.0        0.4        0.2
+        L2         6.8       10.0        8.2
+   Koopman         0.8        8.2       10.0
+
+diag mean=10.00  |  hors-diag mean=4.10 (sd des 6 cellules=3.67; sd brut K·6=4.37; min..max cellules=0.2..8.2)

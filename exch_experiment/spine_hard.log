@@ -1,0 +1,13 @@
+Installed 7 packages in 9ms
+=== informalisations (sauvées full) ===
+[Martingale] La preuve de l’implication « Contractable ⇒ Conditionnellement i.i.d. » est triviale du point de vue mathématique : elle repose uniquement s...
+[L2] Cette preuve s’appuie sur la construction d’une **mesure aléatoire limite** ν, obtenue à partir de la suite contractable (par exemple via la...
+[Koopman] La preuve repose sur une **réduction au cas canonique** via la loi image. Plutôt que de travailler directement avec la suite `X` sur l’espac...
+
+=== MATRICE moyenne sur K=5 (ligne=script lu, col=gold) ===
+            Martingale         L2    Koopman
+Martingale         1.2        0.0        5.2
+        L2        10.0       10.0        7.2
+   Koopman         0.0        0.6        2.8
+
+diag mean=4.67  |  hors-diag mean=3.83 (sd des 6 cellules=3.90; sd brut K·6=4.40; min..max cellules=0.0..10.0)

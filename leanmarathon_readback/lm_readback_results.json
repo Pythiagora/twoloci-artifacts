@@ -1,0 +1,716 @@
+[
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "informal": "Si la somme partielle \\(\\sum_{q \\le t} \\Lambda(q)/q\\) (où \\(\\Lambda\\) est la fonction de von Mangoldt) s'écarte de \\(\\log t\\) d'au plus une constante \\(D \\ge 0\\) pour tout \\(t \\ge 1\\), alors pour tous entiers \\(2 \\le n \\le k\\), la somme sur l'intervalle \\([n, k-1]\\) des différences \\(\\Lambda(q)/q - (\\log q - \\log(q-1))\\) est majorée en valeur absolue par \\(2D\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then for every interval $n\\leq q<k$ with $n\\geq 2"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "informal": "Soit \\(D\\) un réel positif ou nul, et \\(F_3:\\mathbb{R}\\to\\mathbb{R}\\), \\(F_4:\\mathbb{N}\\to\\mathbb{R}\\) des fonctions telles que pour tout réel \\(t \\ge 1\\), \\(|F_3(t) - \\log t| \\le D\\). Alors pour tout entier \\(n \\ge 2\\) et tout entier \\(k\\), la valeur absolue de la somme sur les entiers \\(q\\) de \\(n\\) à \\(k-1\\) de \\(\\frac{F_4(q)}{q} - \\bigl(\\log q - \\log(q-1)\\bigr)\\) est majorée par \\(2D\\).",
+  "scores": [
+   0,
+   2,
+   0
+  ],
+  "mean": 0.6666666666666666,
+  "gold": "Assume the reciprocal von Mangoldt Mertens error is bounded\n  by $D$.  Then for every interval $n\\leq q<k$ with $n\\geq 2"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "informal": "Ce lemme énonce que, pour tout entier naturel `N`, tout réel `y` et tout paramètre `m`, la somme sur tous les entiers `q < N` des termes `mangoldt_tail_term m q` restreinte à ceux vérifiant `q ≥ y` est égale à la somme sur les entiers `q` compris entre l'arrondi supérieur de `y` et `N-1` (inclus). Autrement dit, le filtrage par la condition `y ≤ q` revient à démarrer la somme à l'entier `⌈y⌉`.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "informal": "Le lemme affirme que, pour tous entiers naturels \\(m,N\\) et tout réel \\(y\\), la somme sur \\(q\\) allant de \\(0\\) à \\(N-1\\) d’une certaine expression dépendant de \\(m\\) et \\(q\\) (et qui est nulle lorsque \\(q < y\\)) est égale à la somme des valeurs \\(F_3(m,q)\\) pour \\(q\\) allant de l’entier immédiatement supérieur ou égal à \\(y\\) (c’est-à-dire \\(\\lceil y \\rceil\\)) jusqu’à \\(N-1\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "informal": "Pour tout nombre réel strictement positif \\(u\\), la valeur de la série de Dirichlet de la fonction de von Mangoldt en \\(u\\) est égale à l'opposé de la dérivée logarithmique de la fonction zêta de Riemann évaluée en \\(1+u\\).",
+  "scores": [
+   2,
+   0,
+   0
+  ],
+  "mean": 0.6666666666666666,
+  "gold": "For every real number $u$ with $u>0$, the complex number\n  obtained from the real von Mangoldt Dirichlet series equals t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "informal": "Le lemme affirme que pour tout réel strictement positif \\( u \\), la valeur complexe \\( F_2(u) \\) est égale à l'opposé de l'image de \\( 1+u \\) (vu comme complexe) par la composition \\( F_3 \\circ F_4 \\), divisée par \\( F_4(1+u) \\).",
+  "scores": [
+   2,
+   0,
+   2
+  ],
+  "mean": 1.3333333333333333,
+  "gold": "For every real number $u$ with $u>0$, the complex number\n  obtained from the real von Mangoldt Dirichlet series equals t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "informal": "Pour tous entiers \\(m \\ge 1\\) et \\(r \\ge 2\\), on a l'inégalité\n\\[\n\\frac{\\log(r+1) - \\log r}{(\\log(m(r+1)))^2} \\;\\le\\; \\frac{1}{\\log(m r)} - \\frac{1}{\\log(m(r+1))}.\n\\]",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $r\\geq 2$, then the weighted logarithmic\n  increment from $r$ to $r+1$ is bounded by the corresponding "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "informal": "Soit \\(m\\) et \\(r\\) des entiers naturels vérifiant \\(m \\ge 1\\) et \\(r \\ge 2\\). Alors l’inégalité suivante est satisfaite :\n\\[\n\\frac{\\ln(r+1) - \\ln r}{\\bigl(\\ln(m(r+1))\\bigr)^2}\n\\;\\le\\;\n\\frac{1}{\\ln(mr)} - \\frac{1}{\\ln(m(r+1))}\\;,\n\\]\noù \\(\\ln\\) désigne le logarithme népérien et les entiers sont considérés comme réels.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If $m\\geq 1$ and $r\\geq 2$, then the weighted logarithmic\n  increment from $r$ to $r+1$ is bounded by the corresponding "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "informal": "Il existe une constante \\(C \\ge 0\\) telle que, pour tout entier \\(m \\ge 1\\), tout réel \\(y \\ge 2\\) et tout entier \\(N\\), la somme partielle sur \\(q = 0,\\dots,N-1\\) des termes de queue de von Mangoldt \\( \\operatorname{mangoldt\\_tail\\_term}(m,q) \\) pour lesquels \\(q \\ge y\\) est majorée par \\(\\frac{1}{\\ln(m\\,y)} + \\frac{C}{(\\ln(m\\,y))^2}\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  natural $m\\geq 1$, every real $y\\geq 2$, and every natural cut"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "informal": "Il existe une constante réelle positive ou nulle \\(C\\) telle que, pour tout entier \\(m \\ge 1\\), tout réel \\(y \\ge 2\\) et tout entier naturel \\(N\\), la somme partielle (sur \\(q\\) de \\(0\\) à \\(N-1\\)) d'une quantité valant soit \\(0\\) (lorsque \\(y\\) dépasse une certaine expression dépendant de \\(q\\) et \\(m\\)), soit une autre valeur associée, est toujours majorée par \\(\\frac{1}{\\log(m y)} + \\frac{C}{(\\log(m y))^2}\\).",
+  "scores": [
+   2,
+   2,
+   2
+  ],
+  "mean": 2,
+  "gold": "There is a real constant $C\\geq 0$ such that, for every\n  natural $m\\geq 1$, every real $y\\geq 2$, and every natural cut"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Sous les hypothèses d’irrationalité pondérées et la condition de suite mixte, pour tout entier strictement positif \\( M \\) tel que \\( 1/M \\) ne dépasse pas la moitié de l’exposant polynomial de queue, le produit de fenêtre pondéré au rang \\( N+1 \\) finit par être strictement inférieur à la puissance \\( M \\)-ième du facteur de compensation du dénominateur au rang \\( N \\) (lorsque \\( N \\) est suffisamment grand).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Assume \\cref{def:weighted-irrationality-hypotheses} for the data $d,\\mathbf w,W,c,a,b,\\eta,\\tau$, and assume the mixed c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Le lemme affirme que, sous les hypothèses F2 et F4 sur les paramètres, pour tout entier naturel strictement positif M vérifiant \\(1/M \\le F_5(\\eta,\\tau)/2\\), l'inégalité \\(F_6(d,w,a,N+1) < (F_7(d,W,a,N))^M\\) est satisfaite pour tous les entiers N assez grands.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Assume \\cref{def:weighted-irrationality-hypotheses} for the data $d,\\mathbf w,W,c,a,b,\\eta,\\tau$, and assume the mixed c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Étant donnés des réels \\(\\eta \\ge 0\\), \\(C > 0\\) et \\(c > 1\\), la fonction \\(L \\mapsto C\\, L^{1+\\eta} \\exp\\!\\bigl(-L/((Q+1)^2+1)\\bigr)\\) devient uniformément arbitrairement petite sur tout intervalle de la forme \\([c^{Q+1}, +\\infty[\\) lorsque l’entier \\(Q\\) tend vers l’infini.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Fix $\\eta\\ge0$ and $C>0$. Along indices for which $D_Q^2\\le c^{Q+1}\\le L$, with $D_Q=((Q+1)^2+1)$, the quantity $C L^{1+"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Soit η ≥ 0, C > 0 et c > 1. Alors, pour tout ε > 0, pour tout entier Q suffisamment grand et pour tout réel L ≥ 0 vérifiant simultanément \\(((Q+1)^2+1)^2 \\le c^{Q+1} \\le L\\), on a l'inégalité \\(C L^{1+\\eta} \\exp\\!\\bigl(-L/((Q+1)^2+1)^2\\bigr) < \\varepsilon\\).",
+  "scores": [
+   1,
+   2,
+   6
+  ],
+  "mean": 3,
+  "gold": "Fix $\\eta\\ge0$ and $C>0$. Along indices for which $D_Q^2\\le c^{Q+1}\\le L$, with $D_Q=((Q+1)^2+1)$, the quantity $C L^{1+"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Pour tout réel β > 0, il existe une constante C > 0 telle que, pour tous entiers Q et R vérifiant 1 ≤ Q ≤ R, la somme des termes (k+1)^{-(1+β)} pour k allant de Q à R est majorée par C / Q^β : autrement dit, la queue de cette série décroît au moins aussi vite que Q^{-β} à une constante près.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every $\\beta>0$ there is a constant $C>0$ such that, for all natural numbers $1\\le Q\\le R$, one has $\\sum_{k=Q}^R (k"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Pour tout réel strictement positif \\(\\beta\\), il existe une constante strictement positive \\(C\\) telle que, pour tous entiers naturels \\(Q\\) et \\(R\\) vérifiant \\(1 \\le Q \\le R\\), la somme des \\((k+1)^{-(1+\\beta)}\\) pour \\(k\\) allant de \\(Q\\) à \\(R\\) est majorée par \\(C / Q^{\\beta}\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every $\\beta>0$ there is a constant $C>0$ such that, for all natural numbers $1\\le Q\\le R$, one has $\\sum_{k=Q}^R (k"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Ce lemme affirme que pour tout réel \\(t \\ge 1\\) et tout réel \\(\\eta\\), la puissance réelle \\(t^\\eta\\) est majorée par la puissance entière \\(t^{\\lceil \\eta \\rceil}\\), où \\(\\lceil \\eta \\rceil\\) désigne le plus petit entier supérieur ou égal à \\(\\eta\\).",
+  "scores": [
+   9,
+   10,
+   10
+  ],
+  "mean": 9.666666666666666,
+  "gold": "If $1\\le t$, then $t^\\eta\\le t^{\\lceil\\eta\\rceil}$, where the exponent on the right is a natural-number power."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Ce lemme affirme que pour tout réel \\(t \\ge 1\\) et tout réel \\(\\eta\\), la puissance \\(t^\\eta\\) est majorée par \\(t^{\\lceil \\eta \\rceil}\\), où \\(\\lceil \\eta \\rceil\\) désigne le plus petit entier supérieur ou égal à \\(\\eta\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If $1\\le t$, then $t^\\eta\\le t^{\\lceil\\eta\\rceil}$, where the exponent on the right is a natural-number power."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Si un réel \\(c\\) annule le polynôme de construction associé à un entier naturel \\(d > 0\\) et à une suite d’entiers naturels \\(w\\), alors pour tout entier naturel \\(n\\), on a l’identité \\((c-1)\\sum_{j=0}^{d-1} w_j\\, c^{\\,n+j+1} = c^{\\,n+d}\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If $c$ satisfies the construction root equation, then multiplying the weighted root sum by $c^{n+1}$ gives $(c-1)\\sum_{j"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Soit \\(d\\) un entier naturel strictement positif, \\(w : \\mathbb{N} \\to \\mathbb{N}\\) une suite d'entiers naturels, \\(c\\) un nombre réel et \\(n\\) un entier naturel. Si la condition \\(F_3(d, w, c) = 0\\) est satisfaite, alors on a l'égalité  \n\\[\n(c - 1) \\sum_{j=0}^{d-1} w_j \\, c^{\\,n+j+1} = c^{\\,n+d}.\n\\]",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If $c$ satisfies the construction root equation, then multiplying the weighted root sum by $c^{n+1}$ gives $(c-1)\\sum_{j"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Si une suite réelle μ prend une infinité de valeurs arbitrairement grandes, alors il existe une infinité d’indices m qui sont des pics pour μ vis-à-vis d’une certaine suite de référence δ, et pour lesquels le terme suivant μ(m+1) vaut au moins 1.",
+  "scores": [
+   5,
+   6
+  ],
+  "mean": 5.5,
+  "gold": "If the scaled logarithmic heights $\\mu_n=\\log(a_n)/c^n$ exceed every real bound arbitrarily far out, then there are arbi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Soit μ une suite de réels qui dépasse tout réel M une infinité de fois. Alors il existe une infinité d'entiers m pour lesquels la propriété F2(μ, F3, m) est vérifiée et, simultanément, μ(m+1) ≥ 1.",
+  "scores": [
+   3,
+   6,
+   3
+  ],
+  "mean": 4,
+  "gold": "If the scaled logarithmic heights $\\mu_n=\\log(a_n)/c^n$ exceed every real bound arbitrarily far out, then there are arbi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Étant donnés un entier naturel \\(d>0\\), un réel \\(\\psi>1\\), et une suite d'entiers naturels strictement positive, croissante et vérifiant une condition de croissance suffisamment rapide (tendant vers l'infini au sens de « tends_to_infinity_at_root » relativement à \\(\\psi\\)), il existe un exposant \\(\\tau>0\\) tel que, pour tout \\(n\\) assez grand, le produit fenêtré de taille \\(d\\) (à poids unitaires) associé à la suite est minoré par \\((n+1)^{1+\\tau}\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$, and let $a:\\mathbb N\\to\\mathbb N$ satisfy $a_n>0$ for every $n$ and "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Soit \\(d\\) un entier strictement positif, \\(\\psi>1\\) un réel, et \\(a : \\mathbb{N}\\to\\mathbb{N}\\) une suite d’entiers vérifiant des hypothèses données (notées \\(F_3\\), \\(F_5\\) et \\(F_7(a,\\psi)\\)). Alors il existe un réel \\(\\tau > 0\\) tel que, pour tout entier naturel \\(n\\) assez grand, la quantité \\(F_8(d, F_9(a), n)\\) (vue dans \\(\\mathbb{R}\\)) dépasse \\((n+1)^{1+\\tau}\\). Autrement dit, la suite \\(F_8(d, F_9(a), n)\\) a une croissance asymptotique au moins polynomiale d’exposant strictement supérieur à 1.",
+  "scores": [
+   10,
+   2,
+   10
+  ],
+  "mean": 7.333333333333333,
+  "gold": "Let $d$ be a positive natural number, let $\\psi>1$, and let $a:\\mathbb N\\to\\mathbb N$ satisfy $a_n>0$ for every $n$ and "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Si les paramètres satisfont les hypothèses d’irrationalité pondérée spécifiées, alors la limite inférieure, lorsque l’indice tend vers l’infini, du produit du facteur d’élimination du dénominateur par le reste pondéré est nulle.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. If \\cref{def:weighted-irrat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Sous les hypothèses exprimées par `F2` (portant sur les entiers `d`, `W`, les suites entières `w`, `a`, `b`, le réel `c` et les paramètres réels `η`, `τ`), le produit terme à terme `u_N = F4(d, W, a, N) · F5(d, w, a, b, N)` (pour tout entier naturel `N`) vérifie la propriété `F3`.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Let $d,W\\in\\mathbb N$, let $w,a,b:\\mathbb N\\to\\mathbb N$, and let $c,\\eta,\\tau\\in\\mathbb R$. If \\cref{def:weighted-irrat"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Sous l’hypothèse `construction_bounds d w β γ`, l’ensemble `rational_value_set d w β γ` est exactement une union finie non vide d’intervalles réels fermés et bornés propres (chaque intervalle étant de la forme \\([a,b]\\) avec \\(a < b\\)).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy the construction bounds. Then there exists a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Sous l'hypothèse \\(F_2(d,w,\\beta,\\gamma)\\), il existe une famille finie d’intervalles fermés non vides \\([a,b]\\) (avec \\(a<b\\)) qui satisfait la propriété \\(F_3\\) et dont la réunion coïncide exactement avec \\(F_4(d,w,\\beta,\\gamma)\\).",
+  "scores": [
+   10,
+   8,
+   9
+  ],
+  "mean": 9,
+  "gold": "Let $d\\in\\mathbb N$ and let $w,\\beta,\\gamma:\\mathbb N\\to\\mathbb N$ satisfy the construction bounds. Then there exists a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Il existe une constante réelle \\(C \\geq 1\\) qui majore tous les produits partiels \\(\\prod_{i=0}^{n-1} (1+\\delta_i)\\) lorsque \\(n\\) parcourt les entiers naturels.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "The partial products $\\prod_{i<n}(1+\\delta_i)$ are bounded above by a constant at least $1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Il existe une constante réelle \\(C \\ge 1\\) qui majore le produit \\(\\prod_{i=0}^{n-1} \\bigl(1 + F2(i)\\bigr)\\) pour tout entier naturel \\(n\\). Autrement dit, la suite de ces produits partiels est bornée.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "The partial products $\\prod_{i<n}(1+\\delta_i)$ are bounded above by a constant at least $1$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "informal": "Étant donnés un entier naturel non nul `d`, une suite `w : ℕ → ℕ` vérifiant `w(d-1) ≥ 1` et deux réels `c, C > 1`, les deux suites `L := lower_construction_bound C c` et `U := upper_construction_bound C c` sont des suites d’entiers strictement positifs, monotones, avec `L_n ≤ U_n` pour tout `n`, la série `∑ 1 / weighted_window_product(d, w, L_n)` est convergente et le rapport `L_n / U_n` tend vers 0.",
+  "scores": [
+   0
+  ],
+  "mean": 0,
+  "gold": "Under the hypotheses $d>0$, $w_{d-1}\\ge 1$, $C>1$, and $c>1$, the floor-defined lower and upper construction endpoints s"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "informal": "Sous les hypothèses que \\(d\\) est un entier strictement positif, que la suite d’entiers \\(w\\) vérifie \\(1 \\le w(d-1)\\), et que les réels \\(c\\) et \\(C\\) sont strictement supérieurs à \\(1\\), les deux suites (dépendant de \\(C\\) et \\(c\\)) satisfont les propriétés notées \\(F_3\\) et \\(F_6\\), sont ordonnées terme à terme (\\(F_4 \\le F_5\\)), leur quotient tend vers \\(0\\), et l’inverse d’une certaine expression construite à l’aide de \\(d\\), \\(w\\) et \\(F_4\\) possède la propriété \\(F_7\\).",
+  "scores": [
+   0,
+   3
+  ],
+  "mean": 1.5,
+  "gold": "Under the hypotheses $d>0$, $w_{d-1}\\ge 1$, $C>1$, and $c>1$, the floor-defined lower and upper construction endpoints s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Pour tout entier naturel \\(N\\), la somme sur \\(n\\) de \\(2\\) à \\(N\\) du poids d’Erdős \\(w(n)\\) multiplié par le nombre de facteurs de \\(n\\) augmenté de un (vraisemblablement \\(\\Omega(n)+1\\), le nombre total de facteurs premiers avec multiplicité plus un) est majorée par \\(4\\Bigl(\\frac{1}{\\log 2} + \\sum_{m=2}^{N} w(m)\\Bigr)\\) fois la somme des inverses des nombres premiers inférieurs ou égaux à \\(N\\).",
+  "scores": [
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "At every natural cutoff $N$, the terminal Erd\\H{o}s sum\n  weighted by $\\Omega(n)+1$ is bounded by four times the product"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Pour tout entier naturel \\( N \\), la somme sur \\( n \\) de \\( 2 \\) à \\( N \\) de \\((F_2(n) + 1) \\cdot F_3(n)\\) est majorée par \\( 4 \\bigl(\\frac{1}{\\log 2} + \\sum_{m=2}^{N} F_3(m)\\bigr) \\bigl(\\sum_{p \\in F_4 \\cap F_5(N)} \\frac{1}{p}\\bigr) \\), où \\(F_2 \\colon \\mathbb{N} \\to \\mathbb{N}\\) et \\(F_3 \\colon \\mathbb{N} \\to \\mathbb{R}\\) sont des fonctions données, et \\(F_4\\), \\(F_5(N)\\) sont des ensembles de nombres premiers ou d'entiers.",
+  "scores": [
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "At every natural cutoff $N$, the terminal Erd\\H{o}s sum\n  weighted by $\\Omega(n)+1$ is bounded by four times the product"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Pour tout entier naturel \\(n\\), la somme des valeurs de la fonction de von Mangoldt sur les diviseurs de \\(n\\) est égale au logarithme népérien de \\(n\\). Il s'agit de l'identité classique \\(\\sum_{d\\mid n} \\Lambda(d) = \\log n\\).",
+  "scores": [
+   9,
+   10,
+   9
+  ],
+  "mean": 9.333333333333334,
+  "gold": "For every $n\\in\\mathbb{N}$, the sum of the von Mangoldt\n  function over the finite divisor set $\\operatorname{divisors}("
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Pour tout entier naturel \\(n\\), la somme des valeurs prises par la fonction \\(F_3\\) sur l'ensemble fini \\(F_2\\) est égale au logarithme naturel de \\(n\\).",
+  "scores": [
+   2,
+   0,
+   10
+  ],
+  "mean": 4,
+  "gold": "For every $n\\in\\mathbb{N}$, the sum of the von Mangoldt\n  function over the finite divisor set $\\operatorname{divisors}("
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Le lemme énonce que, pour une mesure μ sur un espace mesurable Ω et une fonction `path : Ω → ℕ → ℕ`, si cette fonction vérifie les trois propriétés d’être une donnée de chemin construite, de satisfaire une borne de second moment et de se plier à un principe d’extraction de Fatou inverse, alors elle constitue un modèle aléatoire de l’adjoint de la fonction de von Mangoldt.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "D'après la signature, ce lemme affirme que pour tout espace Ω muni d'une structure (probablement mesurable) via la classe `F2`, toute mesure `μ` de type `F3 Ω` et toute fonction `F4 : Ω → (ℕ → ℕ)` (considérée comme une famille de suites d'entiers indexée par Ω), si les trois hypothèses `F5 μ F4`, `F6 μ F4` et `F7 μ F4` sont satisfaites, alors la propriété `F8 μ F4` est nécessairement vraie. Le sens mathématique concret dépend des définitions associées aux noms `F5`, `F6`, `F7` et `F8`.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every measurable space $\\Omega$, measure $\\mu$ on\n  $\\Omega$, and path process $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$,"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Le lemme affirme que, pour un seuil réel \\(y\\), sommer les termes de la suite \\(\\text{mangoldt\\_tail\\_term}_m(q)\\) sur tous les entiers \\(0 \\le q < N\\) qui sont au moins égaux à \\(y\\) revient exactement à sommer ces mêmes termes pour les entiers \\(q\\) allant du plus petit entier \\(\\lceil y \\rceil\\) à \\(N-1\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "L'égalité affirme que, pour des entiers naturels \\(m, N\\) et un réel \\(y\\), la somme filtrée \\(\\sum_{q=0}^{N-1} \\big(F_3(m,q) \\text{ si } q \\geq y \\text{ sinon } 0\\big)\\) coïncide avec la somme restreinte \\(\\sum_{q = \\lceil y \\rceil_{\\mathbb{N}}}^{N-1} F_3(m,q)\\), où \\(\\lceil y \\rceil_{\\mathbb{N}}\\) désigne le plus petit entier naturel supérieur ou égal à \\(y\\) (valant \\(0\\) si \\(y < 0\\)).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every natural cutoff $N$, natural parameter $m$, and\n  real threshold $y$, the thresholded range sum of the von Mang"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Pour tout entier \\(n \\ge 2\\), le poids d'Erdős de \\(n\\) (noté ici `erdos_weight n`) est inférieur ou égal à \\(\\dfrac{\\ln n - \\ln(n-1)}{\\ln n}\\), où \\(\\ln\\) désigne le logarithme népérien.",
+  "scores": [
+   10,
+   3,
+   9
+  ],
+  "mean": 7.333333333333333,
+  "gold": "For every natural number $n\\ge2$, the Erd\\H{o}s weight\n  $1/(n\\log n)$ is bounded by the adjacent logarithmic increment\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Pour tout entier \\(n \\ge 2\\), la quantité \\(F_2(n)\\) est majorée par \\(\\frac{\\ln n - \\ln(n-1)}{\\ln n}\\).",
+  "scores": [
+   4,
+   2,
+   10
+  ],
+  "mean": 5.333333333333333,
+  "gold": "For every natural number $n\\ge2$, the Erd\\H{o}s weight\n  $1/(n\\log n)$ is bounded by the adjacent logarithmic increment\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Pour tout entier naturel n supérieur ou égal à 1, son poids de Mangoldt est strictement positif.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every positive natural number $n$, the invariant weight\n  $\\nu_\\Lambda(n)=\\texttt{mangoldt\\_weight}\\,n$ is strictly "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Pour tout entier naturel \\(n\\) supérieur ou égal à 1, la valeur \\(F_2(n)\\) est strictement positive.",
+  "scores": [
+   10,
+   0,
+   0
+  ],
+  "mean": 3.3333333333333335,
+  "gold": "For every positive natural number $n$, the invariant weight\n  $\\nu_\\Lambda(n)=\\texttt{mangoldt\\_weight}\\,n$ is strictly "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Pour tout réel \\( r > 0 \\), la fonction \\( t \\mapsto t\\, e^{-r t} \\) est intégrable sur l'intervalle \\( ]0, +\\infty[ \\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every real number $r>0$, the function\n  $t\\mapsto t e^{-rt}$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Pour tout réel \\(r > 0\\), la fonction \\(t \\mapsto t \\, e^{-r t}\\) est intégrable sur l'intervalle ouvert \\(]0, +\\infty[\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every real number $r>0$, the function\n  $t\\mapsto t e^{-rt}$ is integrable on $(0,\\infty)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Le lemme énonce que pour tout nombre réel \\(u > 0\\), la série de terme général \\(\\frac{\\Lambda(n)}{n^{1+u}}\\) est sommable, ce qui exprime la convergence absolue de la série de Dirichlet de la fonction de von Mangoldt dans le demi-plan \\(\\operatorname{Re}(s) > 1\\).",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "For every real number $u>0$, the real von Mangoldt\n  Dirichlet series defining $\\sum_q\\Lambda(q)q^{-1-u}$ is summable."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Le lemme F1 énonce que, pour tout réel strictement positif u, la suite dont le q-ième terme est donné par F3(q) divisé par q élevé à la puissance 1+u vérifie la propriété F2.",
+  "scores": [
+   2,
+   10,
+   10
+  ],
+  "mean": 7.333333333333333,
+  "gold": "For every real number $u>0$, the real von Mangoldt\n  Dirichlet series defining $\\sum_q\\Lambda(q)q^{-1-u}$ is summable."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Si la condition de sous-invariance modifiée par epsilon est satisfaite, alors la couche première possède une masse d’Erdős finie et tout ensemble primitif a une masse d’Erdős finie, majorée par celle de cette couche première.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If\n  \\cref{def:eps-modified-chain-subinvariant-package} holds, then the\n  prime-layer Erd\\H{o}s series is summable.  Mor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "L'énoncé affirme que, sous l'hypothèse F2, la suite \\(n \\mapsto F_4(F_5, n)\\) possède la propriété \\(F_3\\), et que pour tout ensemble \\(A\\) d'entiers naturels satisfaisant \\(F_6\\), la suite \\(n \\mapsto F_7(F_5, n)\\) possède également \\(F_3\\) tandis que la valeur \\(F_8(A)\\) est inférieure ou égale à \\(F_8(F_9)\\).",
+  "scores": [
+   4,
+   10,
+   3
+  ],
+  "mean": 5.666666666666667,
+  "gold": "If\n  \\cref{def:eps-modified-chain-subinvariant-package} holds, then the\n  prime-layer Erd\\H{o}s series is summable.  Mor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "L'énoncé affirme que pour tout nombre réel \\(x > 1\\), la partie réelle de la valeur de la fonction zêta de Riemann en \\(x\\) est supérieure ou égale à 1.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "If $x>1$ is real, then\n  $1\\leq \\operatorname{Re}\\zeta(x)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Pour tout réel \\( x > 1 \\), la partie réelle de \\( F_2(x) \\) (où \\( x \\) est vu comme un nombre complexe) est supérieure ou égale à 1.",
+  "scores": [
+   3,
+   9,
+   1
+  ],
+  "mean": 4.333333333333333,
+  "gold": "If $x>1$ is real, then\n  $1\\leq \\operatorname{Re}\\zeta(x)$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Ce lemme énonce que, sous trois hypothèses reliant une fonction \\(P : \\mathbb{N}\\times\\mathbb{N} \\to \\mathbb{R}\\) à la fonction de von Mangoldt, aux logarithmes et à des restrictions sur son support, pour tout \\(p\\) appartenant à un ensemble « prime_layer », une série pondérée par un poids d’Erdős et par \\(P\\) est majorée par une combinaison linéaire explicite impliquant \\(\\log p\\), une somme de queue de von Mangoldt et une somme modifiée redirigée ; de plus, pour tout sous-ensemble fini d’indices \\(s\\), il existe une partie finie \\(t\\) telle qu’une somme partielle analogue soit bornée par une expression finie faisant intervenir les termes de queue correspondants et une quantité modifiée redirigée dépendant de \\(t\\).",
+  "scores": [
+   9,
+   3,
+   3
+  ],
+  "mean": 5,
+  "gold": "Let $P : \\mathbb N \\times \\mathbb N \\to \\mathbb R$ be a\n  function with the following three properties.  If $n\\geq2$ is "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Le lemme affirme que, sous trois hypothèses imposant des relations à une fonction \\(P : \\mathbb{N}\\times\\mathbb{N} \\to \\mathbb{R}\\) sur les entiers hors d’un certain ensemble \\(F_2\\) et sur les puissances d’éléments de \\(F_2\\), on obtient, pour tout \\(p \\in F_2\\), une majoration d’une série infinie (dépendant de \\(P(pq,p)\\)) par une expression faisant intervenir \\(\\log p\\) et diverses fonctions auxiliaires, ainsi que l’existence, pour toute partie finie \\(s\\), d’une partie finie \\(t\\) réalisant une inégalité analogue pour la somme partielle correspondante.",
+  "scores": [
+   3,
+   2,
+   10
+  ],
+  "mean": 5,
+  "gold": "Let $P : \\mathbb N \\times \\mathbb N \\to \\mathbb R$ be a\n  function with the following three properties.  If $n\\geq2$ is "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "L'intégrale sur l'intervalle \\(]1, +\\infty[\\) de la dérivée de la fonction \\(t \\mapsto 1/\\operatorname{Re}(\\zeta(t))\\) vaut 1.",
+  "scores": [
+   10,
+   9,
+   10
+  ],
+  "mean": 9.666666666666666,
+  "gold": "The Lebesgue integral over $(1,\\infty)$ of the derivative of\n  the real function $s\\mapsto (\\operatorname{Re}\\zeta(s))^{"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "L'intégrale sur l'intervalle $(1, +\\infty)$ de la fonction $s \\mapsto \\big(F_2(t \\mapsto 1/\\operatorname{Re}(F_3(t)))\\big)(s)$ est égale à $1$.",
+  "scores": [
+   2,
+   2,
+   10
+  ],
+  "mean": 4.666666666666667,
+  "gold": "The Lebesgue integral over $(1,\\infty)$ of the derivative of\n  the real function $s\\mapsto (\\operatorname{Re}\\zeta(s))^{"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Il existe un espace mesuré \\((Ω, mΩ, μ)\\) et une application \\(\\mathrm{path} : Ω → ℕ^ℕ\\) qui vérifient la propriété de « données de chemin adjoint construit » liée à la fonction de von Mangoldt.",
+  "scores": [
+   9,
+   10,
+   8
+  ],
+  "mean": 9,
+  "gold": "There are a measurable sample space, a probability measure,\n  and a natural-valued path process satisfying the explicit "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Il existe un ensemble Ω muni d’une structure mΩ, d’une mesure μ, et d’une fonction F4 : Ω × ℕ → ℕ satisfaisant la propriété F5.",
+  "scores": [
+   2,
+   2,
+   2
+  ],
+  "mean": 2,
+  "gold": "There are a measurable sample space, a probability measure,\n  and a natural-valued path process satisfying the explicit "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "informal": "Ce lemme affirme qu'il existe une constante réelle positive \\( C \\) telle que, pour tout réel \\( t \\ge 2 \\), la somme partielle \\(\\sum_{n \\le t} \\frac{\\Lambda(n)}{n \\log n}\\) (où \\(\\Lambda\\) est la fonction de von Mangoldt) s'écarte du logarithme double \\(\\log(\\log t)\\) d'au plus \\( C \\) en valeur absolue. Autrement dit, la différence entre cette somme partielle et \\(\\log \\log t\\) reste uniformément bornée.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\ge2$, the logarithmically weighted reciprocal von Ma"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "informal": "Le lemme affirme que la fonction \\(F_2(t) - \\ln(\\ln t)\\) est bornée en valeur absolue pour tout réel \\(t \\ge 2\\) : il existe une constante réelle positive \\(C\\) telle que l’écart entre \\(F_2(t)\\) et \\(\\ln(\\ln t)\\) ne dépasse jamais \\(C\\) sur cet intervalle.",
+  "scores": [
+   10,
+   10,
+   10
+  ],
+  "mean": 10,
+  "gold": "There is a non-negative constant $C$ such that, for every\n  real $t\\ge2$, the logarithmically weighted reciprocal von Ma"
+ }
+]

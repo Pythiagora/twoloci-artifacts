@@ -1,0 +1,4 @@
+### OSELEDETS cross-corpus statement-readback  n=60  K=2
+ named: n=60 mean=8.93 (sd 2.52)
+  anon: n=59 mean=6.60 (sd 4.18)
+Δ(named-anon) mean=+2.33 | struct(Δ≤0)=35 name-dep(Δ>2)=23 of 59

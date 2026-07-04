@@ -1,0 +1,114 @@
+{
+ "Alkauskas__Alkauskas": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Alkauskas__Binomial": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Alkauskas__Dynamical": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Alkauskas__Lagrange": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Binomial__Alkauskas": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Binomial__Binomial": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Binomial__Dynamical": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Binomial__Lagrange": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Dynamical__Alkauskas": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Dynamical__Binomial": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Dynamical__Dynamical": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ],
+ "Dynamical__Lagrange": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Lagrange__Alkauskas": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Lagrange__Binomial": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Lagrange__Dynamical": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "Lagrange__Lagrange": [
+  10,
+  10,
+  10,
+  10,
+  10
+ ]
+}

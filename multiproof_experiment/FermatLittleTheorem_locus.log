@@ -1,0 +1,14 @@
+=== informalisations (sauvées full) ===
+[Alkauskas] La preuve utilise la dérivée logarithmique des séries formelles sur ℤ. On définit l’opérateur \(D(F) = -X \cdot F'/F\) pour une sé...
+[Binomial] La preuve se place dans l'anneau ℤ/pℤ et exploite la caractéristique p. Elle montre d'abord que l'énoncé a^p ≡ a mod p équivaut à...
+[Dynamical] La preuve repose sur une construction dynamique et géométrique dans le cercle unité $\mathbb{R}/\mathbb{Z}$. L’idée centrale est d...
+[Lagrange] La preuve repose sur le théorème de Lagrange appliqué au groupe multiplicatif \((\mathbb{Z}/p\mathbb{Z})^\times\). On distingue de...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — FermatLittleTheorem_locus ===
+             Alkauskas   Binomial  Dynamical   Lagrange
+ Alkauskas        10.0        0.0        0.0        0.0
+  Binomial         0.4       10.0        0.0        0.0
+ Dynamical         0.0        0.0       10.0        0.0
+  Lagrange         0.0        0.0        0.0       10.0
+
+diag mean=10.00 | hors-diag mean=0.03 | MARGE=9.97  (off sd cellules=0.11)

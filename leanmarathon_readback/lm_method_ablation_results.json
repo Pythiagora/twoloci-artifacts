@@ -1,0 +1,1282 @@
+[
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 9.5
+ },
+ {
+  "cond": "aggr",
+  "mean": 7.5
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0
+ },
+ {
+  "cond": "skel",
+  "mean": 9.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 8
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 5.5
+ },
+ {
+  "cond": "skel",
+  "mean": 2.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 6.5
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 5
+ },
+ {
+  "cond": "aggr",
+  "mean": 0
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0.5
+ },
+ {
+  "cond": "skel",
+  "mean": 0.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 5
+ },
+ {
+  "cond": "aggr",
+  "mean": 0.5
+ },
+ {
+  "cond": "skel",
+  "mean": 6
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 1
+ },
+ {
+  "cond": "skel",
+  "mean": 4
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 1
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 2
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 9.5
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 9.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 9.5
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 5.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 9.5
+ },
+ {
+  "cond": "skel",
+  "mean": 1
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 1
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 9.5
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 8
+ },
+ {
+  "cond": "named",
+  "mean": 9
+ },
+ {
+  "cond": "anon",
+  "mean": 4.5
+ },
+ {
+  "cond": "aggr",
+  "mean": 8
+ },
+ {
+  "cond": "skel",
+  "mean": 7.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 9.5
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 9.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 5
+ },
+ {
+  "cond": "skel",
+  "mean": 2.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0.5
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 9.5
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 6
+ },
+ {
+  "cond": "skel",
+  "mean": 5
+ },
+ {
+  "cond": "named",
+  "mean": 9.5
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 8
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0.5
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 1.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 5
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 4.5
+ },
+ {
+  "cond": "aggr",
+  "mean": 6
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 1
+ },
+ {
+  "cond": "aggr",
+  "mean": 0
+ },
+ {
+  "cond": "skel",
+  "mean": 4.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 8
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 6
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 1
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 5
+ },
+ {
+  "cond": "aggr",
+  "mean": 5.5
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0.5
+ },
+ {
+  "cond": "skel",
+  "mean": 2
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 5
+ },
+ {
+  "cond": "skel",
+  "mean": 4.5
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 1.5
+ },
+ {
+  "cond": "skel",
+  "mean": 0
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 0.5
+ },
+ {
+  "cond": "skel",
+  "mean": 1
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ },
+ {
+  "cond": "named",
+  "mean": 10
+ },
+ {
+  "cond": "anon",
+  "mean": 10
+ },
+ {
+  "cond": "aggr",
+  "mean": 10
+ },
+ {
+  "cond": "skel",
+  "mean": 10
+ }
+]

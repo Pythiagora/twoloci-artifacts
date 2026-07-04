@@ -1,0 +1,6 @@
+Installed 7 packages in 7ms
+### DRIFT DETECTOR (statement)  n_corrupted=56 / 60 sampled  K=2
+clean readback      mean = 8.79
+corrupted readback  mean = 1.56
+detection drop (clean-corrupt) mean = +7.22
+% drift DETECTED (drop ≥3) = 77%

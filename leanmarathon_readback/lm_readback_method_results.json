@@ -1,0 +1,3626 @@
+[
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The interval sum is the difference of the two endpoint errors\n  $\\sum_{q\\leq r}\\Lambda(q)/q-\\log r$ at $r=k-1$ and $r=n-"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "The interval sum is the difference of the two endpoint errors\n  $\\sum_{q\\leq r}\\Lambda(q)/q-\\log r$ at $r=k-1$ and $r=n-"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply summation by parts to the error sequence with weight\n  $\\log^{-2}(mq)$.  The partial sums are bounded by\n  \\cref{l"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply summation by parts to the error sequence with weight\n  $\\log^{-2}(mq)$.  The partial sums are bounded by\n  \\cref{l"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand \\cref{def:mangoldt-reciprocal-partial-sum}. The\n  unconditional sum has support contained in the finite interval\n"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand \\cref{def:mangoldt-reciprocal-partial-sum}. The\n  unconditional sum has support contained in the finite interval\n"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $a$ and $b$ be two elements of $(0,\\infty)$ with $a\\leq b$.\n  The hypotheses give $0<a$, so\n  \\cref{lem:gamma-logist"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $a$ and $b$ be two elements of $(0,\\infty)$ with $a\\leq b$.\n  The hypotheses give $0<a$, so\n  \\cref{lem:gamma-logist"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix real numbers $a$ and $b$ with $0<a\\leq b$, and put\n  $c=b-a$ and $K=\\Gamma(a)/\\Gamma(b)$.  If $b=a$, the two measure"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix real numbers $a$ and $b$ with $0<a\\leq b$, and put\n  $c=b-a$ and $K=\\Gamma(a)/\\Gamma(b)$.  If $b=a$, the two measure"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the standard divisor-sum identity for the von Mangoldt\n  function in Mathlib, which states exactly that the finite"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Apply the standard divisor-sum identity for the von Mangoldt\n  function in Mathlib, which states exactly that the finite"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "It suffices to bound each finite partial sum in\n  \\cref{def:cut-capacity}.  For every contributing divisor $q\\mid r$, pu"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "It suffices to bound each finite partial sum in\n  \\cref{def:cut-capacity}.  For every contributing divisor $q\\mid r$, pu"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand \\cref{def:finite-chain-initial-mass}.  The first part of\n  the total mass is\n  $\\sum_{x\\leq r\\leq X}\\nu_0(r)$; by"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand \\cref{def:finite-chain-initial-mass}.  The first part of\n  the total mass is\n  $\\sum_{x\\leq r\\leq X}\\nu_0(r)$; by"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Reindex by $q=i+1$ and apply the standard telescoping identity\n  for $\\sum_{1\\leq i<r}(\\log(i+1)-\\log i)$, using $\\log 1"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Reindex by $q=i+1$ and apply the standard telescoping identity\n  for $\\sum_{1\\leq i<r}(\\log(i+1)-\\log i)$, using $\\log 1"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use \\cref{lem:mangoldt-reciprocal-partial-sum-nat}.  The\n  interval $2\\leq q<r+1$ is $1<q\\leq r$, and the omitted $q=1$ "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Use \\cref{lem:mangoldt-reciprocal-partial-sum-nat}.  The\n  interval $2\\leq q<r+1$ is $1<q\\leq r$, and the omitted $q=1$ "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum as a filtered range sum and\n  use the defining universal property of the natural ceili"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum as a filtered range sum and\n  use the defining universal property of the natural ceili"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a natural number $n\\geq 2$.  By\n  \\cref{lem:mangoldt-tail-range-subinvariant-local}, every finite partial sum\n  of t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a natural number $n\\geq 2$.  By\n  \\cref{lem:mangoldt-tail-range-subinvariant-local}, every finite partial sum\n  of t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite each selected summand by\n  \\cref{lem:mangoldt-tail-term-integral-local}; the integrability needed to\n  exchange "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite each selected summand by\n  \\cref{lem:mangoldt-tail-term-integral-local}; the integrability needed to\n  exchange "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  By\n  \\cref{lem:gamma-logistic-expectation-eq-mellin-integral}, the gamma\n  expectation is\n  $$\\Gamma(s)^{-1}"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Fix $s>1$.  By\n  \\cref{lem:gamma-logistic-expectation-eq-mellin-integral}, the gamma\n  expectation is\n  $$\\Gamma(s)^{-1}"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  Unfold `ProbabilityTheory.gammaMeasure` and apply\n  the Bochner-integral formula for a measure defined by `w"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Fix $s>1$.  Unfold `ProbabilityTheory.gammaMeasure` and apply\n  the Bochner-integral formula for a measure defined by `w"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  By \\cref{lem:dirichlet-eta-monotone}, the function\n  $\\eta$ is non-decreasing on the open half-line $(1,\\inf"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $s>1$.  By \\cref{lem:dirichlet-eta-monotone}, the function\n  $\\eta$ is non-decreasing on the open half-line $(1,\\inf"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a real number $s$ with $1<s$.  By\n  \\cref{def:dirichlet-eta-real} and the real-base complex-power identity, the\n  fa"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Fix a real number $s$ with $1<s$.  By\n  \\cref{def:dirichlet-eta-real} and the real-base complex-power identity, the\n  fa"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  For every $x>0$, the geometric expansion\n  $(e^x+1)^{-1}=\\sum_{n=0}^\\infty (-1)^n e^{-(n+1)x}$ is summable, "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Fix $s>1$.  For every $x>0$, the geometric expansion\n  $(e^x+1)^{-1}=\\sum_{n=0}^\\infty (-1)^n e^{-(n+1)x}$ is summable, "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the specialization of the Gamma-integral identity to\n  exponent $2$, together with the value $\\Gamma(2)=1$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the specialization of the Gamma-integral identity to\n  exponent $2$, together with the value $\\Gamma(2)=1$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the standard exponential-polynomial integrability\n  criterion with exponent $v=-r$ and perturbation $r/2$.  The tw"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "Apply the standard exponential-polynomial integrability\n  criterion with exponent $v=-r$ and perturbation $r/2$.  The tw"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so that $\\operatorname{Re}s>1$.\n  The Mathlib von Mangoldt L-series identity identifies the c"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 2,
+  "gold": "Fix $u>0$ and put $s=1+u$, so that $\\operatorname{Re}s>1$.\n  The Mathlib von Mangoldt L-series identity identifies the c"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$.  The denominator $2^u-1$ is positive.  Applying\n  the inequality $x+1\\leq e^x$ to $x=(\\log 2)u$ and rewriting"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$.  The denominator $2^u-1$ is positive.  Applying\n  the inequality $x+1\\leq e^x$ to $x=(\\log 2)u$ and rewriting"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:dirichlet-eta-real},\n  $\\eta(s)$ is the real part of $(1-2^{1-s})\\zeta(s)$ on the real axis.  Fix\n  $u>0$ a"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:dirichlet-eta-real},\n  $\\eta(s)$ is the real part of $(1-2^{1-s})\\zeta(s)$ on the real axis.  Fix\n  $u>0$ a"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a real number $u>0$.  By\n  \\cref{lem:mangoldt-dirichlet-series-eq-zeta-log-derivative}, the real\n  Dirichlet series "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a real number $u>0$.  By\n  \\cref{lem:mangoldt-dirichlet-series-eq-zeta-log-derivative}, the real\n  Dirichlet series "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-dirichlet-series-summable-local}, the full real\n  von Mangoldt Dirichlet series is summable.  It"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": null,
+  "gold": "By\n  \\cref{lem:mangoldt-dirichlet-series-summable-local}, the full real\n  von Mangoldt Dirichlet series is summable.  It"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$.  By\n  \\cref{lem:eta-log-derivative-nonnegative},\n  $$0\\leq \\operatorname{Re}\\frac{\\zeta'(1+u)}{\\zeta(1+u)}+\n "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$.  By\n  \\cref{lem:eta-log-derivative-nonnegative},\n  $$0\\leq \\operatorname{Re}\\frac{\\zeta'(1+u)}{\\zeta(1+u)}+\n "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the real form of the Mathlib absolute convergence of\n  the von Mangoldt $L$-series in the half-plane $\\operatorn"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the real form of the Mathlib absolute convergence of\n  the von Mangoldt $L$-series in the half-plane $\\operatorn"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so $s>1$.  By\n  \\cref{lem:dirichlet-eta-log-derivative-nonnegative},\n  $0\\leq \\eta'(s)/\\eta(s"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so $s>1$.  By\n  \\cref{lem:dirichlet-eta-log-derivative-nonnegative},\n  $0\\leq \\eta'(s)/\\eta(s"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Clear the positive denominators $a$ and $b$; the resulting\n  polynomial inequality is immediate from $a\\leq b$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Clear the positive denominators $a$ and $b$; the resulting\n  polynomial inequality is immediate from $a\\leq b$."
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $mq\\geq 2$, the logarithm of $mq$ is positive.  Apply\n  \\cref{lem:log-square-integral-kernel-local} with\n  $r=\\log"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $mq\\geq 2$, the logarithm of $mq$ is positive.  Apply\n  \\cref{lem:log-square-integral-kernel-local} with\n  $r=\\log"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use \\cref{lem:real-sub-div-square-le-inv-sub-inv} with\n  $a=\\log(mr)$ and $b=\\log(m(r+1))$.  Positivity and monotonicity"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Use \\cref{lem:real-sub-div-square-le-inv-sub-inv} with\n  $a=\\log(mr)$ and $b=\\log(m(r+1))$.  Positivity and monotonicity"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:erdos1196-finite-bound}.  Fix $x\\geq 2$ and\n  a primitive set $A$ supported above $x$.  For each natura"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:erdos1196-finite-bound}.  Fix $x\\geq 2$ and\n  a primitive set $A$ supported above $x$.  For each natura"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:mangoldt-tail-upper-bound}, the series defining\n  \\cref{def:mangoldt-tail-sum} is summable for the stated v"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "By \\cref{lem:mangoldt-tail-upper-bound}, the series defining\n  \\cref{def:mangoldt-tail-sum} is summable for the stated v"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The first increment is at most $\\log 2$ times the initial\n  weight.  For later increments, apply\n  \\cref{lem:mangoldt-lo"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The first increment is at most $\\log 2$ times the initial\n  weight.  For later increments, apply\n  \\cref{lem:mangoldt-lo"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Distribute the common factor $t n^{-t}$ across the finite sum.\n  For each selected $q\\geq 2$, use $(nq)^{-t}=n^{-t}q^{-t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Distribute the common factor $t n^{-t}$ across the finite sum.\n  For each selected $q\\geq 2$, use $(nq)^{-t}=n^{-t}q^{-t"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:finite-chain-erdos-le-initial-mass} to the\n  primitive set $A$ and the support interval $[x,X]$.  This b"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 7,
+  "gold": "Apply \\cref{lem:finite-chain-erdos-le-initial-mass} to the\n  primitive set $A$ and the support interval $[x,X]$.  This b"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $b(n)=b_{x,X}(n)$ as in\n  \\cref{def:finite-chain-initial-mass}. First prove $b(n)\\geq0$ for every\n  $n$. If $x\\leq n"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Put $b(n)=b_{x,X}(n)$ as in\n  \\cref{def:finite-chain-initial-mass}. First prove $b(n)\\geq0$ for every\n  $n$. If $x\\leq n"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $1<s\\leq t$.  By\n  \\cref{lem:dirichlet-eta-gamma-expectation}, both $\\eta(s)$ and $\\eta(t)$\n  are the expectations o"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $1<s\\leq t$.  By\n  \\cref{lem:dirichlet-eta-gamma-expectation}, both $\\eta(s)$ and $\\eta(t)$\n  are the expectations o"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The finite theorem \\cref{lem:finite-large-primitive-bound}\n  supplies an absolute constant for all primitive sets suppor"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "The finite theorem \\cref{lem:finite-large-primitive-bound}\n  supplies an absolute constant for all primitive sets suppor"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the nonnegative constant supplied by\n  \\cref{lem:tail-majorant-bound}.  To prove \\cref{def:erdos1196-finite-bound"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose the nonnegative constant supplied by\n  \\cref{lem:tail-majorant-bound}.  To prove \\cref{def:erdos1196-finite-bound"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum using\n  \\cref{lem:mangoldt-tail-range-eq-ico}.  Decompose $\\Lambda(q)/q$ into the\n  lo"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum using\n  \\cref{lem:mangoldt-tail-range-eq-ico}.  Decompose $\\Lambda(q)/q$ into the\n  lo"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:mangoldt-reciprocal-partial-sum}, the\n  unconditional sum is first reduced to the finite sum over\n  $1\\leq "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:mangoldt-reciprocal-partial-sum}, the\n  unconditional sum is first reduced to the finite sum over\n  $1\\leq "
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $D\\geq 0$ be the constant supplied by\n  \\cref{lem:mangoldt-tail-upper-bound}, set $K=1+\\log 2$, and fix a real\n  num"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $D\\geq 0$ be the constant supplied by\n  \\cref{lem:mangoldt-tail-upper-bound}, set $K=1+\\log 2$, and fix a real\n  num"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the constant supplied by\n  \\cref{lem:mangoldt-tail-range-sum-bound}.  For fixed $m\\geq 1$ and\n  $y\\geq 2$, the ta"
+ },
+ {
+  "repo": "Erdos1196",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose the constant supplied by\n  \\cref{lem:mangoldt-tail-range-sum-bound}.  For fixed $m\\geq 1$ and\n  $y\\geq 2$, the ta"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "For each finite partial sum, rewrite the range in $m$ as the original-index interval $[n+d-1,n+d-1+r)$. This interval is"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For each finite partial sum, rewrite the range in $m$ as the original-index interval $[n+d-1,n+d-1+r)$. This interval is"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-mul-rpow-nat} to each factor, split the product of products, combine the powers of $A"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-mul-rpow-nat} to each factor, split the product of products, combine the powers of $A"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Split the clearing factor from \\cref{def:denominator-clearing-factor} into the prefix before $P$ and the block $P\\le k\\l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Split the clearing factor from \\cref{def:denominator-clearing-factor} into the prefix before $P$ and the block $P\\le k\\l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The shifted split root identity \\cref{lem:floor-construction-scaled-root-split-last} cancels the exponential terms in $c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The shifted split root identity \\cref{lem:floor-construction-scaled-root-split-last} cancels the exponential terms in $c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:construction-bounds}, \\cref{def:admissible-adjacent-two-window-threshold-denominator}, \\cref{def:admiss"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:construction-bounds}, \\cref{def:admissible-adjacent-two-window-threshold-denominator}, \\cref{def:admiss"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use \\cref{lem:dyadic-tail-exponential-bound} to choose the exponential dyadic constant. The root-scale limsup gives arbi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Use \\cref{lem:dyadic-tail-exponential-bound} to choose the exponential dyadic constant. The root-scale limsup gives arbi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unfold \\cref{def:mixed-sequence-case} and \\cref{def:large-denominator-case}. The mixed-case hypothesis contains the nega"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Unfold \\cref{def:mixed-sequence-case} and \\cref{def:large-denominator-case}. The mixed-case hypothesis contains the nega"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $\\varepsilon>0$. Unpacking \\cref{def:weighted-irrationality-hypotheses} gives positivity of the sequence $a$, monoto"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Let $\\varepsilon>0$. Unpacking \\cref{def:weighted-irrationality-hypotheses} gives positivity of the sequence $a$, monoto"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose an integer $M>0$ with $1/M\\le\\frac12\\,\\cref{def:polynomial-tail-exponent}$ and apply \\cref{lem:weighted-tail-case"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose an integer $M>0$ with $1/M\\le\\frac12\\,\\cref{def:polynomial-tail-exponent}$ and apply \\cref{lem:weighted-tail-case"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-mixed-last-exponential-failure} and keep only the frequently occurring full peak indi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "Apply \\cref{lem:weighted-tail-case-mixed-last-exponential-failure} and keep only the frequently occurring full peak indi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "Fix real numbers $C_{\\exp}$, $C_{\\mathrm{poly}}$, and $\\varepsilon$ with $0<C_{\\exp}$, $0<C_{\\mathrm{poly}}$, and $0<\\va"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix real numbers $C_{\\exp}$, $C_{\\mathrm{poly}}$, and $\\varepsilon$ with $0<C_{\\exp}$, $0<C_{\\mathrm{poly}}$, and $0<\\va"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose $M$ by the exponent condition in \\cref{lem:weighted-tail-case-mixed-eventual-window-growth}, then apply \\cref{lem"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Choose $M$ by the exponent condition in \\cref{lem:weighted-tail-case-mixed-eventual-window-growth}, then apply \\cref{lem"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the constant in the dyadic estimate from \\cref{lem:dyadic-tail-exponential-bound}. The root-scale limsup hypothes"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose the constant in the dyadic estimate from \\cref{lem:dyadic-tail-exponential-bound}. The root-scale limsup hypothes"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is \\cref{lem:weighted-local-peak-bound} with $P=0$ and $N=Q+2-d$. The identity $(Q+1-d)+d=Q+1$ rewrites the clearin"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "This is \\cref{lem:weighted-local-peak-bound} with $P=0$ and $N=Q+2-d$. The identity $(Q+1-d)+d=Q+1$ rewrites the clearin"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "The peak inequality gives the first-window ratio bound by \\cref{lem:weighted-tail-case-exponential-sequence-first-window"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "The peak inequality gives the first-window ratio bound by \\cref{lem:weighted-tail-case-exponential-sequence-first-window"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The shifted polynomial-exponential sequence is summable by \\cref{lem:dyadic-tail-exponential-shifted-poly-exp-summable},"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The shifted polynomial-exponential sequence is summable by \\cref{lem:dyadic-tail-exponential-shifted-poly-exp-summable},"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $x=L/D_Q$. The hypotheses give $D_Q\\le x$, hence $L=D_Qx\\le x^2$. Therefore $L^{1+\\eta}e^{-L/D_Q}\\le x^{2(1+\\eta)}e^"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $x=L/D_Q$. The hypotheses give $D_Q\\le x$, hence $L=D_Qx\\le x^2$. Therefore $L^{1+\\eta}e^{-L/D_Q}\\le x^{2(1+\\eta)}e^"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The hypothesis that $c$ is the largest positive construction root gives $1<c$ by \\cref{lem:largest-positive-construction"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The hypothesis that $c$ is the largest positive construction root gives $1<c$ by \\cref{lem:largest-positive-construction"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:unit-weights-construction-root-equation}, the hypotheses $0<d$ and $\\psi^d=\\psi^{d-1}+1$ give that $\\psi$ i"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "By \\cref{lem:unit-weights-construction-root-equation}, the hypotheses $0<d$ and $\\psi^d=\\psi^{d-1}+1$ give that $\\psi$ i"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $B=\\beta_{N+1}$ and $G=\\gamma_{N+1}$. For $B\\le k\\le G$, write $L_k$ and $U_k$ for the lower and upper endpoints of "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $B=\\beta_{N+1}$ and $G=\\gamma_{N+1}$. For $B\\le k\\le G$, write $L_k$ and $U_k$ for the lower and upper endpoints of "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose $B=\\max\\{1,MW\\}$. The failure inequality gives $\\log a_P<P$, so $\\mu_P\\le P/c^P$, which is eventually at most $1$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Choose $B=\\max\\{1,MW\\}$. The failure inequality gives $\\log a_P<P$, so $\\mu_P\\le P/c^P$, which is eventually at most $1$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Combine powers of the positive number $T$, substitute $T=A^{1/(1+\\tau)}$, use the real-power multiplication and subtract"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Combine powers of the positive number $T$, substitute $T=A^{1/(1+\\tau)}$, use the real-power multiplication and subtract"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the real-power multiplication law applied to the positive base $A$, followed by the definition of the polynomial"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the real-power multiplication law applied to the positive base $A$, followed by the definition of the polynomial"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use the natural-power rule for a product and the real-power rule $(C^p)^m=C^{mp}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Use the natural-power rule for a product and the real-power rule $(C^p)^m=C^{mp}$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Start from \\cref{lem:floor-construction-beta-beta-ratio-lower}. Since $d>0$, the lower numerator exponent is indexed by "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Start from \\cref{lem:floor-construction-beta-beta-ratio-lower}. Since $d>0$, the lower numerator exponent is indexed by "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 0,
+  "gold": "Each summand is the reciprocal of a positive natural number by \\cref{def:length-product-term, def:positive-nat-seq}, hen"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Each summand is the reciprocal of a positive natural number by \\cref{def:length-product-term, def:positive-nat-seq}, hen"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Compare the decreasing function $t\\mapsto t^{-1-\\beta}$ with its upper integral on $[Q,R+1]$. The integral is $(Q^{-\\bet"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Compare the decreasing function $t\\mapsto t^{-1-\\beta}$ with its upper integral on $[Q,R+1]$. The integral is $(Q^{-\\bet"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unfold \\cref{def:weighted-series-sum}, \\cref{def:weighted-reciprocal-term}, \\cref{def:weighted-window-product}, \\cref{de"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Unfold \\cref{def:weighted-series-sum}, \\cref{def:weighted-reciprocal-term}, \\cref{def:weighted-window-product}, \\cref{de"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the standard summability of $n^m e^{-n}$ and shift the index by one; multiplying by the fixed factor $e$ gives the"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply the standard summability of $n^m e^{-n}$ and shift the index by one; multiplying by the fixed factor $e$ gives the"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "By \\cref{def:unit-weights, def:construction-root-polynomial-value}, the construction polynomial with all weights equal t"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:unit-weights, def:construction-root-polynomial-value}, the construction polynomial with all weights equal t"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:unit-weights,def:weighted-root-polynomial-value}, the required value is $(\\psi-1)\\sum_{j=0}^{d-1}\\psi^j-\\ps"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "By \\cref{def:unit-weights,def:weighted-root-polynomial-value}, the required value is $(\\psi-1)\\sum_{j=0}^{d-1}\\psi^j-\\ps"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:unit-weights}, every one of the first $d$ weights is equal to $1$, so each such weight is bounded above by "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:unit-weights}, every one of the first $d$ weights is equal to $1$, so each such weight is bounded above by "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $m=\\lceil\\eta\\rceil$ and $B=\\sum_{n\\ge0}(n+1)^m e^{-n}$, and choose $C=2\\,2^\\eta+e3^m(B+1)$. For fixed admissible $x"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $m=\\lceil\\eta\\rceil$ and $B=\\sum_{n\\ge0}(n+1)^m e^{-n}$, and choose $C=2\\,2^\\eta+e3^m(B+1)$. For fixed admissible $x"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:liminf-base-two-implies-phi-growth}, the base-$2$ lower-bound hypothesis gives $a_n^{1/\\varphi^n}\\to+\\infty"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:liminf-base-two-implies-phi-growth}, the base-$2$ lower-bound hypothesis gives $a_n^{1/\\varphi^n}\\to+\\infty"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $A=x_Q$ and $T=A^{1/(1+\\tau)}$, and split the interval at $M=\\lfloor T\\rfloor$. On the part $k<M$, monotonicity give"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $A=x_Q$ and $T=A^{1/(1+\\tau)}$, and split the interval at $M=\\lfloor T\\rfloor$. On the part $k<M$, monotonicity give"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Monotonicity gives $(M+1)^\\eta\\le (2L)^\\eta$. The identity $(2L)^\\eta=2^\\eta L^\\eta$ and the rule $L^{1+\\eta}=L L^\\eta$ "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Monotonicity gives $(M+1)^\\eta\\le (2L)^\\eta$. The identity $(2L)^\\eta=2^\\eta L^\\eta$ and the rule $L^{1+\\eta}=L L^\\eta$ "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is monotonicity of real powers in the exponent, together with the defining inequality $\\eta\\le\\lceil\\eta\\rceil$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is monotonicity of real powers in the exponent, together with the defining inequality $\\eta\\le\\lceil\\eta\\rceil$."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is \\cref{lem:floor-construction-floor-rpow-lower-shift} applied to the defining lower endpoint exponent $c^{k+1}+(k"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is \\cref{lem:floor-construction-floor-rpow-lower-shift} applied to the defining lower endpoint exponent $c^{k+1}+(k"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "The exponents in both floor definitions are non-negative, and $C>1$ makes the corresponding real powers strictly larger "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "The exponents in both floor definitions are non-negative, and $C>1$ makes the corresponding real powers strictly larger "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "Apply \\cref{lem:floor-construction-floor-rpow-lower-shift} to the exponent $c^{k+1}+(k+1)^2+1$. Since this exponent minu"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-floor-rpow-lower-shift} to the exponent $c^{k+1}+(k+1)^2+1$. Since this exponent minu"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The numerator is bounded above by the real power defining the lower endpoint, while \\cref{lem:floor-construction-upper-g"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The numerator is bounded above by the real power defining the lower endpoint, while \\cref{lem:floor-construction-upper-g"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-floor-rpow-lower-shift} to the upper endpoint exponent $c^{k+1}+(k+1)^2+(k+1)$. Subtr"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-floor-rpow-lower-shift} to the upper endpoint exponent $c^{k+1}+(k+1)^2+(k+1)$. Subtr"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For such a start $k$, the last index of the window is $k+d-1$, which lies strictly after $P$ and at most $R+1$. Thus the"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "For such a start $k$, the last index of the window is $k+d-1$, which lies strictly after $P$ and at most $R+1$. Thus the"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $T<\\lfloor T\\rfloor+1$ and $T/2\\le T-1$ for $T\\ge2$, the claim follows by transitivity."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $T<\\lfloor T\\rfloor+1$ and $T/2\\le T-1$ for $T\\ge2$, the claim follows by transitivity."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:dyadic-tail-floor-half-bound}, $T/2\\le\\lfloor T\\rfloor$. Raising to the non-negative exponent $\\beta$ and i"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:dyadic-tail-floor-half-bound}, $T/2\\le\\lfloor T\\rfloor$. Raising to the non-negative exponent $\\beta$ and i"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Split both weighted products from \\cref{def:weighted-window-product} into the first $d-1$ factors and the last factor. M"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Split both weighted products from \\cref{def:weighted-window-product} into the first $d-1$ factors and the last factor. M"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expanding \\cref{def:construction-root-polynomial-value} gives $(c-1)\\sum_{j<d}w_jc^j=c^{d-1}$. Multiplying by $c^{n+1}$ "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expanding \\cref{def:construction-root-polynomial-value} gives $(c-1)\\sum_{j<d}w_jc^j=c^{d-1}$. Multiplying by $c^{n+1}$ "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 4.5,
+  "gold": "Apply the root-scale limsup hypothesis from \\cref{def:limsup-infinite-at-root} with the bound $e^M$. Taking logarithms a"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply the root-scale limsup hypothesis from \\cref{def:limsup-infinite-at-root} with the bound $e^M$. Taking logarithms a"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the standard polynomial-versus-exponential estimate from $((Q+1)^4/c^{Q+1})\\to0$; for large $Q$, the additional "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the standard polynomial-versus-exponential estimate from $((Q+1)^4/c^{Q+1})\\to0$; for large $Q$, the additional "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The index $d-1$ belongs to the range defining the window and satisfies $(P+2-d)+(d-1)=P+1$. All factors in the weighted "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The index $d-1$ belongs to the range defining the window and satisfies $(P+2-d)+(d-1)=P+1$. All factors in the weighted "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The index $d-1$ lies in the range $\\{0,\\ldots,d-1\\}$. Every weighted factor is at least $1$ because the sequence is posi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The index $d-1$ lies in the range $\\{0,\\ldots,d-1\\}$. Every weighted factor is at least $1$ because the sequence is posi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $(P+1-d)+d=P+1$, the clearing factor is the product over $0\\le k<P+1$. Each such $k$ satisfies $k\\le P$, so monoto"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $(P+1-d)+d=P+1$, the clearing factor is the product over $0\\le k<P+1$. Each such $k$ satisfies $k\\le P$, so monoto"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9,
+  "gold": "Rewrite the scaled summand using \\cref{def:weighted-reciprocal-term} as the product of $K$ over the first window, the qu"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite the scaled summand using \\cref{def:weighted-reciprocal-term} as the product of $K$ over the first window, the qu"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $\\varphi<2$, an eventual lower bound $a_n^{1/2^n}\\ge\\theta>1$ implies $a_n^{1/\\varphi^n}\\ge\\theta^{(2/\\varphi)^n}$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $\\varphi<2$, an eventual lower bound $a_n^{1/2^n}\\ge\\theta>1$ implies $a_n^{1/\\varphi^n}\\ge\\theta^{(2/\\varphi)^n}$"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Each summand is at most $(M+1)^\\eta$ by monotonicity of $t\\mapsto t^\\eta$ on non-negative bases, and the set has at most"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Each summand is at most $(M+1)^\\eta$ by monotonicity of $t\\mapsto t^\\eta$ on non-negative bases, and the set has at most"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Reindex each $k>M$ as $k=M+1+n$. Then $k+1\\le (M+2)(n+1)$ and $e^{-k}\\le e^{-M}e^{-n}$. Summing these pointwise inequali"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Reindex each $k>M$ as $k=M+1+n$. Then $k+1\\le (M+2)(n+1)$ and $e^{-k}\\le e^{-M}e^{-n}$. Summing these pointwise inequali"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:borel-peak-indices-infinite} using positivity of \\cref{def:delta-sequence} and its summability from \\cre"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:borel-peak-indices-infinite} using positivity of \\cref{def:delta-sequence} and its summability from \\cre"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Divide the scalar inequality by the positive factor $x$ and then multiply by the positive scalar denominator. After clea"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Divide the scalar inequality by the positive factor $x$ and then multiply by the positive scalar denominator. After clea"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "By \\cref{lem:weighted-rational-construction-floor-endpoints-separate}, eventually $\\gamma_n<\\beta_{n+1}$. The box inequa"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "By \\cref{lem:weighted-rational-construction-floor-endpoints-separate}, eventually $\\gamma_n<\\beta_{n+1}$. The box inequa"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $A=1-B^{-1}$. Since $A>0$ and $B>1$, the sequence $AB^n$ tends to $+\\infty$, so eventually $1<AB^n$. For each such $"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $A=1-B^{-1}$. Since $A>0$ and $B>1$, the sequence $AB^n$ tends to $+\\infty$, so eventually $1<AB^n$. For each such $"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $c>1$, the polynomial--exponential comparison gives\n  $((n+1)^2)/c^n\\to0$ and $(n+1)/c^n\\to0$. Hence the lower exp"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $c>1$, the polynomial--exponential comparison gives\n  $((n+1)^2)/c^n\\to0$ and $(n+1)/c^n\\to0$. Hence the lower exp"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $i=\\lfloor x\\rfloor$. Since $x-1<i$ and $i\\le x$, monotonicity of $C^t$ gives $(1-C^{-1})C^{x-1}\\le (1-C^{-1})C^i$. "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $i=\\lfloor x\\rfloor$. Since $x-1<i$ and $i\\le x$, monotonicity of $C^t$ gives $(1-C^{-1})C^{x-1}\\le (1-C^{-1})C^i$. "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Suppose that the peak property fails eventually. By \\cref{def:is-peak-for}, there is an index $N$ such that for every $m"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Suppose that the peak property fails eventually. By \\cref{def:is-peak-for}, there is an index $N$ such that for every $m"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Take the least $Q$ in $[P+1,R]$ which is a local peak relative to $[P,Q]$ and satisfies $\\mu_{Q+1}\\ge1$; the endpoint $R"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Take the least $Q$ in $[P+1,R]$ which is a local peak relative to $[P,Q]$ and satisfies $\\mu_{Q+1}\\ge1$; the endpoint $R"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is exactly the specialized reduction proved in \\cref{lem:sharp-irrationality-reduction}."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is exactly the specialized reduction proved in \\cref{lem:sharp-irrationality-reduction}."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:eventual-polynomial-lower-bound-from-sharp-growth}, choose $\\tau>0$ and an index $N$ such that the all-ones"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:eventual-polynomial-lower-bound-from-sharp-growth}, choose $\\tau>0$ and an index $N$ such that the all-ones"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Take $\\tau=1$. By \\cref{def:tends-to-infinity-at-root}, eventually $\\psi\\le a_n^{1/\\psi^n}$. Since $\\psi>1$, the standar"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Take $\\tau=1$. By \\cref{def:tends-to-infinity-at-root}, eventually $\\psi\\le a_n^{1/\\psi^n}$. Since $\\psi>1$, the standar"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:floor-construction-bounds-without-limit}, the positivity, monotonicity, pointwise containment, reciprocal s"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "By \\cref{lem:floor-construction-bounds-without-limit}, the positivity, monotonicity, pointwise containment, reciprocal s"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose a real number $\\theta$ with $1<\\theta<C$. By the limit in \\cref{def:tends-to-finite-at-root}, the inequalities $\\"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose a real number $\\theta$ with $1<\\theta<C$. By the limit in \\cref{def:tends-to-finite-at-root}, the inequalities $\\"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The simplified ratio lower bounds \\cref{lem:floor-construction-beta-gamma-ratio-simplified-lower, lem:floor-construction"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The simplified ratio lower bounds \\cref{lem:floor-construction-beta-gamma-ratio-simplified-lower, lem:floor-construction"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The positivity, unit-weight maximum, and unit-weight root equation are supplied by \\cref{def:positive-nat-seq}, \\cref{le"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "The positivity, unit-weight maximum, and unit-weight root equation are supplied by \\cref{def:positive-nat-seq}, \\cref{le"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:sharp-length-product-prefix-rational}, the first $N$ summands form a rational real number. The summability "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:sharp-length-product-prefix-rational}, the first $N$ summands form a rational real number. The summability "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:construction-bounds} and use \\cref{def:admissible-box} to obtain positivity of every admissible coordin"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Unpack \\cref{def:construction-bounds} and use \\cref{def:admissible-box} to obtain positivity of every admissible coordin"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:weighted-tail-liminf-zero}, the scaled tails attached to the clearing factors have limit inferior zero. The"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:weighted-tail-liminf-zero}, the scaled tails attached to the clearing factors have limit inferior zero. The"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $\\varepsilon>0$. By \\cref{lem:weighted-tail-case-mixed-peak-tail-split}, there are arbitrarily large indices $Q$ for"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $\\varepsilon>0$. By \\cref{lem:weighted-tail-case-mixed-peak-tail-split}, there are arbitrarily large indices $Q$ for"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Write $z_n$ for the weighted reciprocal summand of \\cref{def:weighted-reciprocal-term} and $D_N$ for the clearing factor"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Write $z_n$ for the weighted reciprocal summand of \\cref{def:weighted-reciprocal-term} and $D_N$ for the clearing factor"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": null,
+  "gold": "Split first on the large-denominator alternative. In that branch apply \\cref{lem:weighted-tail-case-large-denominator}. "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 7.5,
+  "gold": "Split first on the large-denominator alternative. In that branch apply \\cref{lem:weighted-tail-case-large-denominator}. "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:weighted-irrationality-hypotheses} and \\cref{def:large-denominator-case}, and put $\\alpha=(\\tau-\\eta)/("
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:weighted-irrationality-hypotheses} and \\cref{def:large-denominator-case}, and put $\\alpha=(\\tau-\\eta)/("
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:is-largest-positive-construction-root}, the number $c$ is a positive zero of the construction polynomial. I"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:is-largest-positive-construction-root}, the number $c$ is a positive zero of the construction polynomial. I"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:positive-nat-seq}, all factors in the quotient are positive, so it is enough to prove the corresponding log"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:positive-nat-seq}, all factors in the quotient are positive, so it is enough to prove the corresponding log"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite each finite partial sum over $m$ as an interval sum over the original index $k\\ge n+d-1$. The interval is enlarg"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite each finite partial sum over $m$ as an interval sum over the original index $k\\ge n+d-1$. The interval is enlarg"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For each fixed summand index, the corresponding weighted window is eventually contained in the prefix, so the summand fo"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For each fixed summand index, the corresponding weighted window is eventually contained in the prefix, so the summand fo"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose $M$ from \\cref{lem:admissible-prefix-tail-interval-realization}. Let $s=\\{0,\\ldots,M\\}$ and let $P$ be the finite"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose $M$ from \\cref{lem:admissible-prefix-tail-interval-realization}. Let $s=\\{0,\\ldots,M\\}$ and let $P$ be the finite"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $M$ be an index from \\cref{lem:admissible-adjacent-intervals-overlap}. Starting from an admissible prefix $a$ and a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "Let $M$ be an index from \\cref{lem:admissible-adjacent-intervals-overlap}. Starting from an admissible prefix $a$ and a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the threshold supplied by \\cref{lem:admissible-adjacent-two-window-denominator-comparison} and enlarge it, if nec"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Choose the threshold supplied by \\cref{lem:admissible-adjacent-two-window-denominator-comparison} and enlarge it, if nec"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $M$ be the maximum of the threshold from \\cref{lem:admissible-adjacent-two-window-comparison}, the index $d$, and a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $M$ be the maximum of the threshold from \\cref{lem:admissible-adjacent-two-window-comparison}, the index $d$, and a "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The finite-prefix theorem in \\cref{lem:admissible-finite-prefix-union} supplies a natural number $M$ and a finite family"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "The finite-prefix theorem in \\cref{lem:admissible-finite-prefix-union} supplies a natural number $M$ and a finite family"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:admissible-sums-finite-union-intervals}, the admissible value set is a non-empty finite union of non-degene"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "By \\cref{lem:admissible-sums-finite-union-intervals}, the admissible value set is a non-empty finite union of non-degene"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $B=C^{1/c}$. Since $C>1$ and $c>1$, one has $B>1$ and $B^c=C$. Apply \\cref{lem:floor-construction-bounds} with base "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "Put $B=C^{1/c}$. Since $C>1$ and $c>1$, one has $B>1$ and $B^c=C$. Apply \\cref{lem:floor-construction-bounds} with base "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For each finite partial sum of $f$, split the range into the terms outside $\\{e_0,e_1\\}$ and the terms inside $\\{e_0,e_1"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For each finite partial sum of $f$, split the range into the terms outside $\\{e_0,e_1\\}$ and the terms inside $\\{e_0,e_1"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 8.5,
+  "gold": "The inequalities $(M+2)^m\\le (3L)^m=3^mL^m$, $B\\le B+1$, and $m\\le 1+\\eta$ reduce the claim to monotonicity of multiplic"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "The inequalities $(M+2)^m\\le (3L)^m=3^mL^m$, $B\\le B+1$, and $m\\le 1+\\eta$ reduce the claim to monotonicity of multiplic"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Suppose, for contradiction, that $S$ is rational, say $S=p$ for some $p\\in\\mathbb Q$. Choose $q\\in\\mathbb Q$ with $S-T=q"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Suppose, for contradiction, that $S$ is rational, say $S=p$ for some $p\\in\\mathbb Q$. Choose $q\\in\\mathbb Q$ with $S-T=q"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Suppose $S$ is the real value of a rational number $q$. For every $N$, non-negativity of the terms, the existence of pos"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Suppose $S$ is the real value of a rational number $q$. For every $N$, non-negativity of the terms, the existence of pos"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand the clearing factor using \\cref{def:denominator-clearing-factor}. For indices at most $P$, monotonicity and the f"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand the clearing factor using \\cref{def:denominator-clearing-factor}. For indices at most $P$, monotonicity and the f"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the shifted real $p$-series with exponent $2>1$, using the definition \\cref{def:delta-sequence}."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the shifted real $p$-series with exponent $2>1$, using the definition \\cref{def:delta-sequence}."
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the elementary inequality $\n\\lfloor x\\rfloor\\le x$ applied to the non-negative real power defining the lower end"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the elementary inequality $\n\\lfloor x\\rfloor\\le x$ applied to the non-negative real power defining the lower end"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $\\sum_i\\delta_i$ is summable by \\cref{lem:weighted-tail-case-exponential-sequence-delta-summable}, the infinite pr"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $\\sum_i\\delta_i$ is summable by \\cref{lem:weighted-tail-case-exponential-sequence-delta-summable}, the infinite pr"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 8.5,
+  "gold": "The numerator lower bound is \\cref{lem:floor-construction-lower-exact-bound}, and the denominator upper bound is \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": null,
+  "gold": "The numerator lower bound is \\cref{lem:floor-construction-lower-exact-bound}, and the denominator upper bound is \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Start from \\cref{lem:floor-construction-beta-gamma-ratio-lower}. Combining the quotient of real powers gives a single ex"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Start from \\cref{lem:floor-construction-beta-gamma-ratio-lower}. Combining the quotient of real powers gives a single ex"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The numerator lower bound is \\cref{lem:floor-construction-lower-exact-bound}, and the denominator upper bound is \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": null,
+  "gold": "The numerator lower bound is \\cref{lem:floor-construction-lower-exact-bound}, and the denominator upper bound is \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-scaled-root-identity} and rewrite the sum over $\\{0,\\ldots,d-1\\}$ as the sum over $\\{"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:floor-construction-scaled-root-identity} and rewrite the sum over $\\{0,\\ldots,d-1\\}$ as the sum over $\\{"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the elementary inequality $\n\\lfloor x\\rfloor\\le x$ applied to the non-negative real power defining the upper end"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the elementary inequality $\n\\lfloor x\\rfloor\\le x$ applied to the non-negative real power defining the upper end"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The geometric endpoint lower bound \\cref{lem:floor-construction-lower-geometric-bound} and the window comparison \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The geometric endpoint lower bound \\cref{lem:floor-construction-lower-geometric-bound} and the window comparison \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Bound each scaled summand by \\cref{lem:weighted-tail-case-exponential-sequence-scaled-term-bound}. The majorant is summa"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Bound each scaled summand by \\cref{lem:weighted-tail-case-exponential-sequence-scaled-term-bound}. The majorant is summa"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:weighted-tail-case-mixed-window-controls-next}, the factor $a_{P+1}$ is bounded by the weighted window endi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "By \\cref{lem:weighted-tail-case-mixed-window-controls-next}, the factor $a_{P+1}$ is bounded by the weighted window endi"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-exponential-sequence-scaled-term-bound} term by term. The majorant is summable by \\cr"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-exponential-sequence-scaled-term-bound} term by term. The majorant is summable by \\cr"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The positivity, monotonicity, and pointwise containment properties of the two endpoint sequences are supplied by \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "The positivity, monotonicity, and pointwise containment properties of the two endpoint sequences are supplied by \\cref{l"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-mixed-clearing-factor-exp-bound} to bound $D_{Q+1-d}$ by $\\exp(Kc^{Q+1})$, where $K=W"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-mixed-clearing-factor-exp-bound} to bound $D_{Q+1-d}$ by $\\exp(Kc^{Q+1})$, where $K=W"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The root-scale limsup clause in \\cref{def:weighted-irrationality-hypotheses} gives arbitrarily large lower bounds for \\c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The root-scale limsup clause in \\cref{def:weighted-irrationality-hypotheses} gives arbitrarily large lower bounds for \\c"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-exponential-sequence-root-scaled-log-frequently} to the rescaled sequence $\\mu_n/T$, "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:weighted-tail-case-exponential-sequence-root-scaled-log-frequently} to the rescaled sequence $\\mu_n/T$, "
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unpack the polynomial bounds in \\cref{def:weighted-irrationality-hypotheses}. With $p=1+\\tau-\\eta$, the inequality $\\eta"
+ },
+ {
+  "repo": "ErdosGraham",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Unpack the polynomial bounds in \\cref{def:weighted-irrationality-hypotheses}. With $p=1+\\tau-\\eta$, the inequality $\\eta"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Induct on $k$.  The initial case is immediate.  For the\n  successor step, \\cref{def:strictly-increasing-divisibility-cha"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Induct on $k$.  The initial case is immediate.  For the\n  successor step, \\cref{def:strictly-increasing-divisibility-cha"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The interval sum is the difference of the two endpoint errors\n  $\\sum_{q\\leq r}\\Lambda(q)/q-\\log r$ at $r=k-1$ and $r=n-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The interval sum is the difference of the two endpoint errors\n  $\\sum_{q\\leq r}\\Lambda(q)/q-\\log r$ at $r=k-1$ and $r=n-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply summation by parts to the error sequence with weight\n  $\\log^{-2}(mq)$.  The partial sums are bounded by\n  \\cref{l"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply summation by parts to the error sequence with weight\n  $\\log^{-2}(mq)$.  The partial sums are bounded by\n  \\cref{l"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand\n  \\cref{def:mangoldt-log-reciprocal-partial-sum}.  The selected summand has\n  finite support contained in $2\\le q"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand\n  \\cref{def:mangoldt-log-reciprocal-partial-sum}.  The selected summand has\n  finite support contained in $2\\le q"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand \\cref{def:mangoldt-reciprocal-partial-sum}. The\n  unconditional sum has support contained in the finite interval\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand \\cref{def:mangoldt-reciprocal-partial-sum}. The\n  unconditional sum has support contained in the finite interval\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $n\\ge2$, the inequality $1\\le\\Omega(n)$ gives\n  $\\Omega(n)+1\\le2\\Omega(n)$.  The local prime-power divisor count\n  \\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For $n\\ge2$, the inequality $1\\le\\Omega(n)$ gives\n  $\\Omega(n)+1\\le2\\Omega(n)$.  The local prime-power divisor count\n  \\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9,
+  "gold": "If the zeroth term were zero, then the divisibility relation\n  in \\cref{def:strictly-increasing-divisibility-chain} woul"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If the zeroth term were zero, then the divisibility relation\n  in \\cref{def:strictly-increasing-divisibility-chain} woul"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Filter the finite interval to multiples of $q$ and reindex it\n  by the quotient $m=n/q$.  The maps $n\\mapsto n/q$ and $m"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Filter the finite interval to multiples of $q$ and reindex it\n  by the quotient $m=n/q$.  The maps $n\\mapsto n/q$ and $m"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand the square as a product of the sum with itself, distribute\n  multiplication over the two finite sums, and check t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand the square as a product of the sum with itself, distribute\n  multiplication over the two finite sums, and check t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand\n  \\cref{def:mangoldt-log-reciprocal-partial-sum}.  The support condition\n  $q\\le t$ is equivalent, for natural $q"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand\n  \\cref{def:mangoldt-log-reciprocal-partial-sum}.  The support condition\n  $q\\le t$ is equivalent, for natural $q"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $S=A\\cap[1,x]$.  Positivity of strict divisibility chains,\n  \\cref{lem:mangoldt-adjoint-positive-of-strict-chain}, i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $S=A\\cap[1,x]$.  Positivity of strict divisibility chains,\n  \\cref{lem:mangoldt-adjoint-positive-of-strict-chain}, i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $a$ and $b$ be two elements of $(0,\\infty)$ with $a\\leq b$.\n  The hypotheses give $0<a$, so\n  \\cref{lem:gamma-logist"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $a$ and $b$ be two elements of $(0,\\infty)$ with $a\\leq b$.\n  The hypotheses give $0<a$, so\n  \\cref{lem:gamma-logist"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix real numbers $a$ and $b$ with $0<a\\leq b$, and put\n  $c=b-a$ and $K=\\Gamma(a)/\\Gamma(b)$.  If $b=a$, the two measure"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix real numbers $a$ and $b$ with $0<a\\leq b$, and put\n  $c=b-a$ and $K=\\Gamma(a)/\\Gamma(b)$.  If $b=a$, the two measure"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The summand is supported on the finite set\n  $\\{0,\\ldots,k\\}$.  Replacing the infinite sum by this finite sum gives\n  $k"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The summand is supported on the finite set\n  $\\{0,\\ldots,k\\}$.  Replacing the infinite sum by this finite sum gives\n  $k"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Split each ordered pair according as $i\\leq j$ or $j\\leq i$.\n  In the first case $E_i\\cap E_j\\subseteq E_j$, and in the "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Split each ordered pair according as $i\\leq j$ or $j\\leq i$.\n  In the first case $E_i\\cap E_j\\subseteq E_j$, and in the "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the standard divisor-sum identity for the von Mangoldt\n  function in Mathlib, which states exactly that the finite"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Apply the standard divisor-sum identity for the von Mangoldt\n  function in Mathlib, which states exactly that the finite"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "It suffices to bound each finite partial sum in\n  \\cref{def:cut-capacity}.  For every contributing divisor $q\\mid r$, pu"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "It suffices to bound each finite partial sum in\n  \\cref{def:cut-capacity}.  For every contributing divisor $q\\mid r$, pu"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand \\cref{def:finite-chain-initial-mass}.  The first part of\n  the total mass is\n  $\\sum_{x\\leq r\\leq X}\\nu_0(r)$; by"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand \\cref{def:finite-chain-initial-mass}.  The first part of\n  the total mass is\n  $\\sum_{x\\leq r\\leq X}\\nu_0(r)$; by"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-modified-chain-kernel-subinvariant} for the\n  downward kernel $P$ and \\cref{def:eps-adjoint-kernel-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "Assume \\cref{def:eps-modified-chain-kernel-subinvariant} for the\n  downward kernel $P$ and \\cref{def:eps-adjoint-kernel-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-adjoint-kernel-package} for $U$ and\n  \\cref{def:eps-adjoint-hitting-mass-facts} for the hitting-mas"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-adjoint-kernel-package} for $U$ and\n  \\cref{def:eps-adjoint-hitting-mass-facts} for the hitting-mas"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-modified-chain-kernel-subinvariant} for a\n  fixed kernel $P$.  Define $U(n,m)=\\nu_0(m)\\nu_0(n)^{-1}"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-modified-chain-kernel-subinvariant} for a\n  fixed kernel $P$.  Define $U(n,m)=\\nu_0(m)\\nu_0(n)^{-1}"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the kernel package\n  \\cref{def:mangoldt-adjoint-kernel-package} and the Markov path-data predicate\n  \\cref{def:ma"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume the kernel package\n  \\cref{def:mangoldt-adjoint-kernel-package} and the Markov path-data predicate\n  \\cref{def:ma"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $\\Omega$ be a measurable space, let $\\mu$ be a measure on\n  $\\Omega$, and let $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$ b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $\\Omega$ be a measurable space, let $\\mu$ be a measure on\n  $\\Omega$, and let $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$ b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-random-model}.  By\n  \\cref{lem:mangoldt-adjoint-reverse-fatou-extraction-principle-fro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-random-model}.  By\n  \\cref{lem:mangoldt-adjoint-reverse-fatou-extraction-principle-fro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-constructed-path-data} and\n  \\cref{def:mangoldt-adjoint-second-moment-bound}.  The pro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-constructed-path-data} and\n  \\cref{def:mangoldt-adjoint-second-moment-bound}.  The pro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $\\Omega$ be a measurable space, let $\\mu$ be a measure on\n  $\\Omega$, and let $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$ b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 4,
+  "gold": "Let $\\Omega$ be a measurable space, let $\\mu$ be a measure on\n  $\\Omega$, and let $p:\\Omega\\to(\\mathbb N\\to\\mathbb N)$ b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume the construction-stage data predicate\n  \\cref{def:mangoldt-adjoint-constructed-path-data}.  By\n  \\cref{lem:mangol"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "Assume the construction-stage data predicate\n  \\cref{def:mangoldt-adjoint-constructed-path-data}.  By\n  \\cref{lem:mangol"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-constructed-path-data} and fix\n  $A\\subseteq\\mathbb N$.  Take the constant $C=2$.  For"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 8,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-constructed-path-data} and fix\n  $A\\subseteq\\mathbb N$.  Take the constant $C=2$.  For"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-constructed-path-data}.  The\n  strict divisibility-chain clause \\cref{def:strictly-inc"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-constructed-path-data}.  The\n  strict divisibility-chain clause \\cref{def:strictly-inc"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $A\\subseteq\\mathbb N$ with positive\n  \\cref{def:mangoldt-weight-upper-density}.  The first-moment hypothesis\n  \\cref"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $A\\subseteq\\mathbb N$ with positive\n  \\cref{def:mangoldt-weight-upper-density}.  The first-moment hypothesis\n  \\cref"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 5,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-two-point-divisor-bound}.  For\n  each $A\\subseteq\\mathbb N$, the hypothesis bounds the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-two-point-divisor-bound}.  For\n  each $A\\subseteq\\mathbb N$, the hypothesis bounds the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $A\\subseteq\\mathbb N$ with positive\n  \\cref{def:mangoldt-weight-upper-density}.  The count-variable bridge\n  \\cref{d"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $A\\subseteq\\mathbb N$ with positive\n  \\cref{def:mangoldt-weight-upper-density}.  The count-variable bridge\n  \\cref{d"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite each selected summand by\n  \\cref{lem:mangoldt-tail-term-integral-local} and exchange the finite sum with\n  the i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite each selected summand by\n  \\cref{lem:mangoldt-tail-term-integral-local} and exchange the finite sum with\n  the i"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Reindex by $q=i+1$ and apply the standard telescoping identity\n  for $\\sum_{1\\leq i<r}(\\log(i+1)-\\log i)$, using $\\log 1"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Reindex by $q=i+1$ and apply the standard telescoping identity\n  for $\\sum_{1\\leq i<r}(\\log(i+1)-\\log i)$, using $\\log 1"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "Use \\cref{lem:mangoldt-reciprocal-partial-sum-nat}.  The\n  interval $2\\leq q<r+1$ is $1<q\\leq r$, and the omitted $q=1$ "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Use \\cref{lem:mangoldt-reciprocal-partial-sum-nat}.  The\n  interval $2\\leq q<r+1$ is $1<q\\leq r$, and the omitted $q=1$ "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum as a filtered range sum and\n  use the defining universal property of the natural ceili"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum as a filtered range sum and\n  use the defining universal property of the natural ceili"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For each prime $p\\ge2$, the finite geometric sum\n  $\\sum_{j=1}^N p^{-j}$ is bounded by the infinite geometric majorant\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For each prime $p\\ge2$, the finite geometric sum\n  $\\sum_{j=1}^N p^{-j}$ is bounded by the infinite geometric majorant\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Split into the cases $n=1$ and $n\\geq2$.  In the first case,\n  the denominator $n^s$ is identically $1$, and\n  \\cref{lem"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Split into the cases $n=1$ and $n\\geq2$.  In the first case,\n  the denominator $n^s$ is identically $1$, and\n  \\cref{lem"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the improper integration-by-parts theorem on\n  $(1,\\infty)$ with\n  $u(s)=(\\operatorname{Re}\\zeta(s))^{-1}$ and $v("
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply the improper integration-by-parts theorem on\n  $(1,\\infty)$ with\n  $u(s)=(\\operatorname{Re}\\zeta(s))^{-1}$ and $v("
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a natural number $n\\geq 2$.  By\n  \\cref{lem:mangoldt-tail-range-subinvariant-local}, every finite partial sum\n  of t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a natural number $n\\geq 2$.  By\n  \\cref{lem:mangoldt-tail-range-subinvariant-local}, every finite partial sum\n  of t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a natural number $n$ with $n\\geq2$.  The identity\n  \\cref{lem:mangoldt-weight-integral-change-of-variables-mangoldt-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a natural number $n$ with $n\\geq2$.  The identity\n  \\cref{lem:mangoldt-weight-integral-change-of-variables-mangoldt-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:erdos-weight}, $\\nu_0(n)=1/(n\\log n)$.  Since\n  $n\\geq2$, $\\log n>0$, and \\cref{lem:log-square-integral-ker"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:erdos-weight}, $\\nu_0(n)=1/(n\\log n)$.  Since\n  $n\\geq2$, $\\log n>0$, and \\cref{lem:log-square-integral-ker"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $n\\geq2$, the nontrivial branch of\n  \\cref{def:mangoldt-weight} is the integral over $s>1$.  Apply\n  \\cref{lem:man"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 2.5,
+  "gold": "Since $n\\geq2$, the nontrivial branch of\n  \\cref{def:mangoldt-weight} is the integral over $s>1$.  Apply\n  \\cref{lem:man"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The function $u\\mapsto \\log n\\,n^{-u}$ is an integrable\n  exponential on $(0,\\infty)$ because $\\log n>0$.  For $u>0$,\n  "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The function $u\\mapsto \\log n\\,n^{-u}$ is an integrable\n  exponential on $(0,\\infty)$ because $\\log n>0$.  For $u>0$,\n  "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $n\\geq2$, $\\log n>0$.  Rewriting $n^{-u}$ as\n  $e^{-(\\log n)u}$ identifies the kernel,\n  up to the constant factor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $n\\geq2$, $\\log n>0$.  Rewriting $n^{-u}$ as\n  $e^{-(\\log n)u}$ identifies the kernel,\n  up to the constant factor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The inequality\n  $1/n\\le \\log(n/(n-1))$ follows from the elementary bound\n  $1-y^{-1}\\le\\log y$ applied to $y=n/(n-1)$. "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The inequality\n  $1/n\\le \\log(n/(n-1))$ follows from the elementary bound\n  $1-y^{-1}\\le\\log y$ applied to $y=n/(n-1)$. "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite each selected summand by\n  \\cref{lem:mangoldt-tail-term-integral-local}; the integrability needed to\n  exchange "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite each selected summand by\n  \\cref{lem:mangoldt-tail-term-integral-local}; the integrability needed to\n  exchange "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:prime-layer}, the hypothesis $p\\in\\mathbb N_1$\n  says that $p$ is prime, so $p\\geq2$ and $\\log p\\geq0$.  Th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:prime-layer}, the hypothesis $p\\in\\mathbb N_1$\n  says that $p$ is prime, so $p\\geq2$ and $\\log p\\geq0$.  Th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply\n  \\cref{lem:mangoldt-log-reciprocal-real-log-increment-error-bound} with\n  $a=\\log r$ and $b=\\log(r+1)$.  The rema"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply\n  \\cref{lem:mangoldt-log-reciprocal-real-log-increment-error-bound} with\n  $a=\\log r$ and $b=\\log(r+1)$.  The rema"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand \\cref{def:mangoldt-dirichlet-series}.  The terms with\n  $q=0$ and $q=1$ vanish, and all remaining terms have the "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand \\cref{def:mangoldt-dirichlet-series}.  The terms with\n  $q=0$ and $q=1$ vanish, and all remaining terms have the "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Compare $\\nu_\\Lambda$ with the Erd\\H{o}s weight.  The\n  Erd\\H{o}s part is, after expanding \\cref{def:erdos-weight} and\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Compare $\\nu_\\Lambda$ with the Erd\\H{o}s weight.  The\n  Erd\\H{o}s part is, after expanding \\cref{def:erdos-weight} and\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $n\\geq1$.  The local Laplace identity\n  \\cref{lem:mangoldt-weight-incoming-integral-bridge-lhs-laplace} rewrites the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $n\\geq1$.  The local Laplace identity\n  \\cref{lem:mangoldt-weight-incoming-integral-bridge-lhs-laplace} rewrites the"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "First apply\n  \\cref{lem:mangoldt-weight-incoming-integral-bridge-term-laplace} to rewrite\n  every selected incoming summ"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "First apply\n  \\cref{lem:mangoldt-weight-incoming-integral-bridge-term-laplace} to rewrite\n  every selected incoming summ"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Translate the integral by $s=u+1$ using\n  \\cref{lem:mangoldt-weight-integral-change-of-variables-ioi-translate-one}.\n  T"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0.5,
+  "gold": "Translate the integral by $s=u+1$ using\n  \\cref{lem:mangoldt-weight-integral-change-of-variables-ioi-translate-one}.\n  T"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $n\\geq1$.  By\n  \\cref{lem:mangoldt-weight-incoming-integral-bridge}, the incoming mass is the\n  improper integral of"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $n\\geq1$.  By\n  \\cref{lem:mangoldt-weight-incoming-integral-bridge}, the incoming mass is the\n  improper integral of"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $n=1$ this follows from the definition of\n  \\cref{def:mangoldt-weight}.  For $n\\geq2$, rewrite the weight by\n  \\cref"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For $n=1$ this follows from the definition of\n  \\cref{def:mangoldt-weight}.  For $n\\geq2$, rewrite the weight by\n  \\cref"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $x=\\log p/\\log 2$, so that $p=2^x$ and $x\\ge1$.  The\n  finite-range estimate \\cref{lem:mangoldt-tail-prime-range-sla"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $x=\\log p/\\log 2$, so that $p=2^x$ and $x\\ge1$.  The\n  finite-range estimate \\cref{lem:mangoldt-tail-prime-range-sla"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:prime-layer}, $p$ is a prime natural number, so\n  $p\\ge2$.  For every $k\\ge2$, the inequality $k^2\\ge4$ and"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:prime-layer}, $p$ is a prime natural number, so\n  $p\\ge2$.  For every $k\\ge2$, the inequality $k^2\\ge4$ and"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  By\n  \\cref{lem:gamma-logistic-expectation-eq-mellin-integral}, the gamma\n  expectation is\n  $$\\Gamma(s)^{-1}"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Fix $s>1$.  By\n  \\cref{lem:gamma-logistic-expectation-eq-mellin-integral}, the gamma\n  expectation is\n  $$\\Gamma(s)^{-1}"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  Unfold `ProbabilityTheory.gammaMeasure` and apply\n  the Bochner-integral formula for a measure defined by `w"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $s>1$.  Unfold `ProbabilityTheory.gammaMeasure` and apply\n  the Bochner-integral formula for a measure defined by `w"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  By \\cref{lem:dirichlet-eta-monotone}, the function\n  $\\eta$ is non-decreasing on the open half-line $(1,\\inf"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Fix $s>1$.  By \\cref{lem:dirichlet-eta-monotone}, the function\n  $\\eta$ is non-decreasing on the open half-line $(1,\\inf"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a real number $s$ with $1<s$.  By\n  \\cref{def:dirichlet-eta-real} and the real-base complex-power identity, the\n  fa"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a real number $s$ with $1<s$.  By\n  \\cref{def:dirichlet-eta-real} and the real-base complex-power identity, the\n  fa"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $s>1$.  For every $x>0$, the geometric expansion\n  $(e^x+1)^{-1}=\\sum_{n=0}^\\infty (-1)^n e^{-(n+1)x}$ is summable, "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $s>1$.  For every $x>0$, the geometric expansion\n  $(e^x+1)^{-1}=\\sum_{n=0}^\\infty (-1)^n e^{-(n+1)x}$ is summable, "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $n=\\lfloor t\\rfloor$.  Then $n\\le t<n+1\\le2n$ and\n  $n\\ge2$.  Hence $\\log n\\le\\log t\\le2\\log n$, so the ratio\n  $\\lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $n=\\lfloor t\\rfloor$.  Then $n\\le t<n+1\\le2n$ and\n  $n\\ge2$.  Hence $\\log n\\le\\log t\\le2\\log n$, so the ratio\n  $\\lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the specialization of the Gamma-integral identity to\n  exponent $2$, together with the value $\\Gamma(2)=1$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the specialization of the Gamma-integral identity to\n  exponent $2$, together with the value $\\Gamma(2)=1$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the standard exponential-polynomial integrability\n  criterion with exponent $v=-r$ and perturbation $r/2$.  The tw"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply the standard exponential-polynomial integrability\n  criterion with exponent $v=-r$ and perturbation $r/2$.  The tw"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the logarithmic-derivative identity\n  \\cref{lem:mangoldt-dirichlet-series-eq-zeta-log-derivative} with\n  $u=s-1$. "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply the logarithmic-derivative identity\n  \\cref{lem:mangoldt-dirichlet-series-eq-zeta-log-derivative} with\n  $u=s-1$. "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $s=t\\log 2>0$.  The inequality is equivalent, after\n  multiplying by the positive denominator, to\n  $s\\leq e^{s/2}-e"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $s=t\\log 2>0$.  The inequality is equivalent, after\n  multiplying by the positive denominator, to\n  $s\\leq e^{s/2}-e"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so that $\\operatorname{Re}s>1$.\n  The Mathlib von Mangoldt L-series identity identifies the c"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so that $\\operatorname{Re}s>1$.\n  The Mathlib von Mangoldt L-series identity identifies the c"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$.  The denominator $2^u-1$ is positive.  Applying\n  the inequality $x+1\\leq e^x$ to $x=(\\log 2)u$ and rewriting"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$.  The denominator $2^u-1$ is positive.  Applying\n  the inequality $x+1\\leq e^x$ to $x=(\\log 2)u$ and rewriting"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:dirichlet-eta-real},\n  $\\eta(s)$ is the real part of $(1-2^{1-s})\\zeta(s)$ on the real axis.  Fix\n  $u>0$ a"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:dirichlet-eta-real},\n  $\\eta(s)$ is the real part of $(1-2^{1-s})\\zeta(s)$ on the real axis.  Fix\n  $u>0$ a"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a real number $u>0$.  By\n  \\cref{lem:mangoldt-dirichlet-series-eq-zeta-log-derivative}, the real\n  Dirichlet series "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a real number $u>0$.  By\n  \\cref{lem:mangoldt-dirichlet-series-eq-zeta-log-derivative}, the real\n  Dirichlet series "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-dirichlet-series-summable-local}, the full real\n  von Mangoldt Dirichlet series is summable.  It"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-dirichlet-series-summable-local}, the full real\n  von Mangoldt Dirichlet series is summable.  It"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-dirichlet-series-summable-local}, the full real von\n  Mangoldt Dirichlet series is summable.  Th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-dirichlet-series-summable-local}, the full real von\n  Mangoldt Dirichlet series is summable.  Th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$.  By\n  \\cref{lem:eta-log-derivative-nonnegative},\n  $$0\\leq \\operatorname{Re}\\frac{\\zeta'(1+u)}{\\zeta(1+u)}+\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$.  By\n  \\cref{lem:eta-log-derivative-nonnegative},\n  $$0\\leq \\operatorname{Re}\\frac{\\zeta'(1+u)}{\\zeta(1+u)}+\n "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is the real form of the Mathlib absolute convergence of\n  the von Mangoldt $L$-series in the half-plane $\\operatorn"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is the real form of the Mathlib absolute convergence of\n  the von Mangoldt $L$-series in the half-plane $\\operatorn"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so $s>1$.  By\n  \\cref{lem:dirichlet-eta-log-derivative-nonnegative},\n  $0\\leq \\eta'(s)/\\eta(s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $u>0$ and put $s=1+u$, so $s>1$.  By\n  \\cref{lem:dirichlet-eta-log-derivative-nonnegative},\n  $0\\leq \\eta'(s)/\\eta(s"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite both set integrals as whole-line integrals of indicator\n  functions.  Translation-invariance of Lebesgue measure"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "Rewrite both set integrals as whole-line integrals of indicator\n  functions.  Translation-invariance of Lebesgue measure"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "If $p(\\omega)_i\\le x$, strict monotonicity of the sampled chain\n  implies $i\\le p(\\omega)_i\\le x$, hence $i\\le\\lfloor x\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "If $p(\\omega)_i\\le x$, strict monotonicity of the sampled chain\n  implies $i\\le p(\\omega)_i\\le x$, hence $i\\le\\lfloor x\\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 0,
+  "gold": "The chain bound shows that every hit index satisfies\n  $i\\le\\lfloor x\\rfloor_{+}$.  Thus the hit-index set is contained "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The chain bound shows that every hit index satisfies\n  $i\\le\\lfloor x\\rfloor_{+}$.  Thus the hit-index set is contained "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $p(i)$ be the assertion that the ambient chain value\n  $m_i$ belongs to $A$.  If the set of indices satisfying $p$ w"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $p(i)$ be the assertion that the ambient chain value\n  $m_i$ belongs to $A$.  If the set of indices satisfying $p$ w"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The absolute discrepancy between the two pointwise weights is\n  summable by \\cref{lem:mangoldt-weight-erdos-summable-err"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "The absolute discrepancy between the two pointwise weights is\n  summable by \\cref{lem:mangoldt-weight-erdos-summable-err"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-adjoint-mangoldt-positive-part-le-erdos-local}, the\n  positive part of $\\nu_\\Lambda(n)$ is bound"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-adjoint-mangoldt-positive-part-le-erdos-local}, the\n  positive part of $\\nu_\\Lambda(n)$ is bound"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-kernel-package} for $P$ and\n  $U$, and assume the path-data predicate\n  \\cref{def:mang"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Assume \\cref{def:mangoldt-adjoint-kernel-package} for $P$ and\n  $U$, and assume the path-data predicate\n  \\cref{def:mang"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $nq\\geq2$,\n  \\cref{lem:mangoldt-weight-integral-change-of-variables-mangoldt-laplace}\n  expands \\cref{def:mangoldt"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $nq\\geq2$,\n  \\cref{lem:mangoldt-weight-integral-change-of-variables-mangoldt-laplace}\n  expands \\cref{def:mangoldt"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-modified-chain-subinvariant-package}.  By\n  \\cref{lem:eps-adjoint-hitting-mass-package-from-subinva"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Assume \\cref{def:eps-modified-chain-subinvariant-package}.  By\n  \\cref{lem:eps-adjoint-hitting-mass-package-from-subinva"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite $\\log b-\\log a$ as $\\log(b/a)$.  The lower bound is\n  the standard inequality $1-x^{-1}\\le\\log x$ applied to $x="
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite $\\log b-\\log a$ as $\\log(b/a)$.  The lower bound is\n  the standard inequality $1-x^{-1}\\le\\log x$ applied to $x="
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Clear the positive denominators $a$ and $b$; the resulting\n  polynomial inequality is immediate from $a\\leq b$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Clear the positive denominators $a$ and $b$; the resulting\n  polynomial inequality is immediate from $a\\leq b$."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand $\\Omega(n)$ as the sum of the exponents in the prime\n  factorization using the Mathlib identity for `ArithmeticFu"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand $\\Omega(n)$ as the sum of the exponents in the prime\n  factorization using the Mathlib identity for `ArithmeticFu"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 6,
+  "gold": "Fix $A\\subseteq\\mathbb N$ and assume that its upper doubly\n  logarithmic density, defined in \\cref{def:upper-doubly-log-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 7,
+  "gold": "Fix $A\\subseteq\\mathbb N$ and assume that its upper doubly\n  logarithmic density, defined in \\cref{def:upper-doubly-log-"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $a=\\operatorname{ofReal} L$.  Since $L>0$, $a$ is neither\n  zero nor infinity, so $a^{-1}a=1$.  Moving `ofReal' thro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $a=\\operatorname{ofReal} L$.  Since $L>0$, $a$ is neither\n  zero nor infinity, so $a^{-1}a=1$.  Moving `ofReal' thro"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Write $b=ac$.  Since $0<a<b$, cancellation in\n  $\\mathbb N$ gives $1<c$.  The positivity criterion for the prime-factor\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Write $b=ac$.  Since $0<a<b$, cancellation in\n  $\\mathbb N$ gives $1<c$.  The positivity criterion for the prime-factor\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Since $mq\\geq 2$, the logarithm of $mq$ is positive.  Apply\n  \\cref{lem:log-square-integral-kernel-local} with\n  $r=\\log"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Since $mq\\geq 2$, the logarithm of $mq$ is positive.  Apply\n  \\cref{lem:log-square-integral-kernel-local} with\n  $r=\\log"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use \\cref{lem:real-sub-div-square-le-inv-sub-inv} with\n  $a=\\log(mr)$ and $b=\\log(m(r+1))$.  Positivity and monotonicity"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "Use \\cref{lem:real-sub-div-square-le-inv-sub-inv} with\n  $a=\\log(mr)$ and $b=\\log(m(r+1))$.  Positivity and monotonicity"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Expand \\cref{def:erdos-weight}.  For $m=1$, monotonicity of\n  the logarithm gives $\\log2\\le\\log q$.  For $m\\ge2$, one ha"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Expand \\cref{def:erdos-weight}.  For $m=1$, monotonicity of\n  the logarithm gives $\\log2\\le\\log q$.  For $m\\ge2$, one ha"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use the absolutely convergent Dirichlet-series expansion of the\n  Riemann zeta function on the half-plane $\\operatorname"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Use the absolutely convergent Dirichlet-series expansion of the\n  Riemann zeta function on the half-plane $\\operatorname"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose a measurable space, measure, and path process satisfying\n  the adjoint von Mangoldt random-model predicate by\n  \\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose a measurable space, measure, and path process satisfying\n  the adjoint von Mangoldt random-model predicate by\n  \\"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "After unfolding\n  \\cref{def:mangoldt-adjoint-normalized-hit-count} and\n  \\cref{def:chain-hits-count-up-to}, the function"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "After unfolding\n  \\cref{def:mangoldt-adjoint-normalized-hit-count} and\n  \\cref{def:chain-hits-count-up-to}, the function"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-modified-chain-subinvariant-package} and\n  choose a fixed downward kernel $P$ satisfying\n  \\cref{de"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Assume \\cref{def:eps-modified-chain-subinvariant-package} and\n  choose a fixed downward kernel $P$ satisfying\n  \\cref{de"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The summands are non-negative, so removing the subset $A$ can\n  only increase the sum.  For $n\\ge2$, the assumed pointwi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The summands are non-negative, so removing the subset $A$ can\n  only increase the sum.  For $n\\ge2$, the assumed pointwi"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply summation by parts to the Mertens error sequence with the\n  decreasing weight $1/\\log q$, extended constantly belo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply summation by parts to the Mertens error sequence with the\n  decreasing weight $1/\\log q$, extended constantly belo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Unpack \\cref{def:erdos1196-finite-bound}.  Fix $x\\geq 2$ and\n  a primitive set $A$ supported above $x$.  For each natura"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9.5,
+  "gold": "Unpack \\cref{def:erdos1196-finite-bound}.  Fix $x\\geq 2$ and\n  a primitive set $A$ supported above $x$.  For each natura"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $s>1$, differentiability of the reciprocal real zeta\n  factor follows from differentiability of $\\zeta$ on the real "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "For $s>1$, differentiability of the reciprocal real zeta\n  factor follows from differentiability of $\\zeta$ on the real "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:probabilistic-dense-ambient-chain} to obtain a\n  strictly increasing divisibility chain in $\\mathbb N$ w"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5.5,
+  "gold": "Apply \\cref{lem:probabilistic-dense-ambient-chain} to obtain a\n  strictly increasing divisibility chain in $\\mathbb N$ w"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The real normalized count is the cardinality of the filtered\n  finset multiplied by $1/L$.  Rewriting this cardinality a"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The real normalized count is the cardinality of the filtered\n  finset multiplied by $1/L$.  Rewriting this cardinality a"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix a prime $p$ using \\cref{def:prime-layer}.  First prove the\n  finite multiplier statement.  For a finite set $s$, tak"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix a prime $p$ using \\cref{def:prime-layer}.  First prove the\n  finite multiplier statement.  For a finite set $s$, tak"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The proof compares the bounded-above and cobounded-below cases\n  in the order definition of the real limit superior.  Th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The proof compares the bounded-above and cobounded-below cases\n  in the order definition of the real limit superior.  Th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:mangoldt-tail-upper-bound}, the series defining\n  \\cref{def:mangoldt-tail-sum} is summable for the stated v"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 1,
+  "gold": "By \\cref{lem:mangoldt-tail-upper-bound}, the series defining\n  \\cref{def:mangoldt-tail-sum} is summable for the stated v"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 9.5,
+  "gold": "The first increment is at most $\\log 2$ times the initial\n  weight.  For later increments, apply\n  \\cref{lem:mangoldt-lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The first increment is at most $\\log 2$ times the initial\n  weight.  For later increments, apply\n  \\cref{lem:mangoldt-lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Distribute the common factor $t n^{-t}$ across the finite sum.\n  For each selected $q\\geq 2$, use $(nq)^{-t}=n^{-t}q^{-t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Distribute the common factor $t n^{-t}$ across the finite sum.\n  For each selected $q\\geq 2$, use $(nq)^{-t}=n^{-t}q^{-t"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:real-initial-segment}, the truncated set is\n  contained in $\\{n\\in\\mathbb N:n\\leq\\lfloor x\\rfloor\\}$ and is"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:real-initial-segment}, the truncated set is\n  contained in $\\{n\\in\\mathbb N:n\\leq\\lfloor x\\rfloor\\}$ and is"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Fix $A\\subseteq\\mathbb N$, and write $F$ and $G$ for the two\n  normalized truncated-sum functions.  By\n  \\cref{lem:summa"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Fix $A\\subseteq\\mathbb N$, and write $F$ and $G$ for the two\n  normalized truncated-sum functions.  By\n  \\cref{lem:summa"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply \\cref{lem:finite-chain-erdos-le-initial-mass} to the\n  primitive set $A$ and the support interval $[x,X]$.  This b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 9,
+  "gold": "Apply \\cref{lem:finite-chain-erdos-le-initial-mass} to the\n  primitive set $A$ and the support interval $[x,X]$.  This b"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $b(n)=b_{x,X}(n)$ as in\n  \\cref{def:finite-chain-initial-mass}. First prove $b(n)\\geq0$ for every\n  $n$. If $x\\leq n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $b(n)=b_{x,X}(n)$ as in\n  \\cref{def:finite-chain-initial-mass}. First prove $b(n)\\geq0$ for every\n  $n$. If $x\\leq n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "This is precisely the chain-antichain bound established in\n  \\cref{lem:eps-chain-antichain-bound}."
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "This is precisely the chain-antichain bound established in\n  \\cref{lem:eps-chain-antichain-bound}."
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the improper fundamental theorem of calculus on\n  $(1,\\infty)$ to the real reciprocal zeta factor.  The differenti"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "Apply the improper fundamental theorem of calculus on\n  $(1,\\infty)$ to the real reciprocal zeta factor.  The differenti"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The summand is eventually non-negative and decreasing: for\n  $n\\geq2$ the denominator is positive, and both $n$ and $\\lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The summand is eventually non-negative and decreasing: for\n  $n\\geq2$ the denominator is positive, and both $n$ and $\\lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Reindex the sum by writing $q=r+1$.  The term $q=2$ contributes\n  $1$, and the remaining difference from the telescoping"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Reindex the sum by writing $q=r+1$.  The term $q=2$ contributes\n  $1$, and the remaining difference from the telescoping"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The pointwise estimate\n  \\cref{lem:mangoldt-weight-erdos-pointwise-error-bound} gives a constant\n  $C\\geq0$ such that, f"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The pointwise estimate\n  \\cref{lem:mangoldt-weight-erdos-pointwise-error-bound} gives a constant\n  $C\\geq0$ such that, f"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The pointwise comparison\n  \\cref{lem:mangoldt-weight-erdos-pointwise-error-bound} gives\n  $|\\nu_\\Lambda(n)-\\nu_0(n)|\\le "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The pointwise comparison\n  \\cref{lem:mangoldt-weight-erdos-pointwise-error-bound} gives\n  $|\\nu_\\Lambda(n)-\\nu_0(n)|\\le "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The sub-invariance package is supplied by\n  \\cref{lem:eps-modified-chain-subinvariant}.  Applying the hitting-mass\n  ide"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The sub-invariance package is supplied by\n  \\cref{lem:eps-modified-chain-subinvariant}.  Applying the hitting-mass\n  ide"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $1<s\\leq t$.  By\n  \\cref{lem:dirichlet-eta-gamma-expectation}, both $\\eta(s)$ and $\\eta(t)$\n  are the expectations o"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $1<s\\leq t$.  By\n  \\cref{lem:dirichlet-eta-gamma-expectation}, both $\\eta(s)$ and $\\eta(t)$\n  are the expectations o"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose $\\delta>0$ and $C\\geq0$ from\n  \\cref{lem:reciprocal-zeta-second-order-bound}.  For all sufficiently small\n  posit"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose $\\delta>0$ and $C\\geq0$ from\n  \\cref{lem:reciprocal-zeta-second-order-bound}.  For all sufficiently small\n  posit"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "On the real half-line $s>1$, the Dirichlet series for\n  $\\zeta(s)$ is $\\sum_{n\\geq0}(n+1)^{-s}$.  On the real axis the r"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "On the real half-line $s>1$, the Dirichlet series for\n  $\\zeta(s)$ is $\\sum_{n\\geq0}(n+1)^{-s}$.  On the real axis the r"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Put $N=\\lfloor x\\rfloor$.  The real initial segment sum is the\n  natural finite sum over $2\\le n\\le N$, because the $n=1"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Put $N=\\lfloor x\\rfloor$.  The real initial segment sum is the\n  natural finite sum over $2\\le n\\le N$, because the $n=1"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:mangoldt-adjoint-kernel-path-data-exists}, choose\n  a von Mangoldt downward kernel $P$, its adjoint upward "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:mangoldt-adjoint-kernel-path-data-exists}, choose\n  a von Mangoldt downward kernel $P$, its adjoint upward "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Apply the right-hand Laurent expansion of the Riemann zeta\n  function at its simple pole at $1$ and take real parts afte"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Apply the right-hand Laurent expansion of the Riemann zeta\n  function at its simple pole at $1$ and take real parts afte"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-adjoint-constructed-path-data-exists}, there are a\n  measurable sample space, a probability meas"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By\n  \\cref{lem:mangoldt-adjoint-constructed-path-data-exists}, there are a\n  measurable sample space, a probability meas"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{lem:mangoldt-adjoint-kernel-package-exists}, choose a\n  von Mangoldt downward kernel $P$ and its adjoint upward"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{lem:mangoldt-adjoint-kernel-package-exists}, choose a\n  von Mangoldt downward kernel $P$ and its adjoint upward"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose $P$ satisfying the invariant downward-kernel interface by\n  \\cref{lem:mangoldt-von-mangoldt-downward-kernel-invar"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose $P$ satisfying the invariant downward-kernel interface by\n  \\cref{lem:mangoldt-von-mangoldt-downward-kernel-invar"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Define $P(1,1)=1$, set $P(1,m)=0$ for $m\\ne1$, and for\n  $n\\geq2$ set $P(n,m)=\\Lambda(n/m)/\\log n$ when $m\\mid n$ and $m"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Define $P(1,1)=1$, set $P(1,m)=0$ for $m\\ne1$, and for\n  $n\\geq2$ set $P(n,m)=\\Lambda(n/m)/\\log n$ when $m\\mid n$ and $m"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The finite theorem \\cref{lem:finite-large-primitive-bound}\n  supplies an absolute constant for all primitive sets suppor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 5,
+  "gold": "The finite theorem \\cref{lem:finite-large-primitive-bound}\n  supplies an absolute constant for all primitive sets suppor"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the nonnegative constant supplied by\n  \\cref{lem:tail-majorant-bound}.  To prove \\cref{def:erdos1196-finite-bound"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose the nonnegative constant supplied by\n  \\cref{lem:tail-majorant-bound}.  To prove \\cref{def:erdos1196-finite-bound"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Define the transition kernel exactly as in the source proof:\n  away from prime powers it is the von Mangoldt downward ch"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 6,
+  "gold": "Define the transition kernel exactly as in the source proof:\n  away from prime powers it is the von Mangoldt downward ch"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the reciprocal-Mertens constant from\n  \\cref{lem:mertens-von-mangoldt-reciprocal}.  At natural cutoffs,\n  \\cref{l"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose the reciprocal-Mertens constant from\n  \\cref{lem:mertens-von-mangoldt-reciprocal}.  At natural cutoffs,\n  \\cref{l"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "First prove the natural-cutoff estimate\n  \\cref{lem:mangoldt-log-reciprocal-partial-summation-nat}.  For a real\n  $t\\ge2"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "First prove the natural-cutoff estimate\n  \\cref{lem:mangoldt-log-reciprocal-partial-summation-nat}.  For a real\n  $t\\ge2"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Define weights $w(n)=1/n$ when $n$ is prime and $w(n)=0$\n  otherwise, and $v(n)=\\Lambda(n)/(n\\log n)$ when $n\\ge2$ and $"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Define weights $w(n)=1/n$ when $n$ is prime and $w(n)=0$\n  otherwise, and $v(n)=\\Lambda(n)/(n\\log n)$ when $n\\ge2$ and $"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "The partial-summation estimate\n  \\cref{lem:mangoldt-log-reciprocal-partial-summation} bounds the difference\n  between th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "The partial-summation estimate\n  \\cref{lem:mangoldt-log-reciprocal-partial-summation} bounds the difference\n  between th"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Each summand is bounded by the adjacent logarithmic increment\n  by \\cref{lem:mangoldt-adjoint-erdos-weight-le-log-increm"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Each summand is bounded by the adjacent logarithmic increment\n  by \\cref{lem:mangoldt-adjoint-erdos-weight-le-log-increm"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum using\n  \\cref{lem:mangoldt-tail-range-eq-ico}.  Decompose $\\Lambda(q)/q$ into the\n  lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite the thresholded range sum using\n  \\cref{lem:mangoldt-tail-range-eq-ico}.  Decompose $\\Lambda(q)/q$ into the\n  lo"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "By \\cref{def:mangoldt-reciprocal-partial-sum}, the\n  unconditional sum is first reduced to the finite sum over\n  $1\\leq "
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "By \\cref{def:mangoldt-reciprocal-partial-sum}, the\n  unconditional sum is first reduced to the finite sum over\n  $1\\leq "
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $D\\geq 0$ be the constant supplied by\n  \\cref{lem:mangoldt-tail-upper-bound}, set $K=1+\\log 2$, and fix a real\n  num"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $D\\geq 0$ be the constant supplied by\n  \\cref{lem:mangoldt-tail-upper-bound}, set $K=1+\\log 2$, and fix a real\n  num"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Choose the constant supplied by\n  \\cref{lem:mangoldt-tail-range-sum-bound}.  For fixed $m\\geq 1$ and\n  $y\\geq 2$, the ta"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Choose the constant supplied by\n  \\cref{lem:mangoldt-tail-range-sum-bound}.  For fixed $m\\geq 1$ and\n  $y\\geq 2$, the ta"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Let $\\delta>0$ and $C_0\\geq0$ be supplied by\n  \\cref{lem:reciprocal-zeta-second-order-bound}.  For $0<u\\leq\\delta$ this\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Let $\\delta>0$ and $C_0\\geq0$ be supplied by\n  \\cref{lem:reciprocal-zeta-second-order-bound}.  For $0<u\\leq\\delta$ this\n"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "For $n\\geq2$, \\cref{lem:mangoldt-weight-integral-change-of-variables}\n  rewrites the discrepancy between \\cref{def:mango"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 0,
+  "gold": "For $n\\geq2$, \\cref{lem:mangoldt-weight-integral-change-of-variables}\n  rewrites the discrepancy between \\cref{def:mango"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Use\n  \\cref{lem:mangoldt-adjoint-hit-index-count-finite-sum-from-chain} to rewrite\n  the hit count as a finite indicator"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Use\n  \\cref{lem:mangoldt-adjoint-hit-index-count-finite-sum-from-chain} to rewrite\n  the hit count as a finite indicator"
+ },
+ {
+  "repo": "Prim",
+  "cond": "named",
+  "mean": 10,
+  "gold": "Rewrite the normalized hit count as a finite weighted indicator\n  sum using \\cref{lem:mangoldt-adjoint-hit-index-count-f"
+ },
+ {
+  "repo": "Prim",
+  "cond": "anon",
+  "mean": 10,
+  "gold": "Rewrite the normalized hit count as a finite weighted indicator\n  sum using \\cref{lem:mangoldt-adjoint-hit-index-count-f"
+ }
+]

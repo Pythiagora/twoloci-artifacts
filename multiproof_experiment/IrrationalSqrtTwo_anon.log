@@ -1,0 +1,12 @@
+=== informalisations (sauvées full) ===
+[Descent] La preuve utilise la **méthode de descente infinie** (ou preuve par minimalité) sur les entiers naturels, via une induction forte...
+[FermatLastTheorem] ...
+[Valuation] La preuve utilise une **réduction à une équation diophantienne** puis un **argument de valuation 2‑adique fondé sur l’unicité de l...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — IrrationalSqrtTwo_anon ===
+               Descent  FermatLas  Valuation
+   Descent        10.0        0.0        1.8
+FermatLast         2.0        2.0        0.0
+ Valuation         0.4        0.0       10.0
+
+diag mean=7.33 | hors-diag mean=0.70 | MARGE=6.63  (off sd cellules=0.86)

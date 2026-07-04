@@ -1,0 +1,18 @@
+=== informalisations (sauvées full) ===
+[Euclid] La méthode mathématique employée dans cette preuve est la **preuve classique d’Euclide** (ou une de ses variantes directes).  
+
+**...
+[Euler] La preuve repose sur la divergence de la série harmonique et un argument de factorisation unique, suivant une idée attribuée à Eul...
+[Goldbach] La preuve repose sur les **nombres de Fermat** \(F_n = 2^{2^n} + 1\). L’idée centrale est leur propriété de récurrence : \(F_{n+1}...
+[Saidak] Cette preuve utilise une version **quantitative** du raisonnement d'Euclide. Plutôt que de supposer une liste finie de nombres pre...
+[Wunderlich] La preuve exploite une propriété combinatoire des nombres de Fibonacci. On suppose l’ensemble des nombres premiers fini. Pour deux...
+
+=== MATRICE moyenne K=5 (ligne=script lu, col=gold) — InfinitudeOfPrimes_anon ===
+                Euclid      Euler   Goldbach     Saidak  Wunderlic
+    Euclid        10.0        0.0        0.0        2.4        0.0
+     Euler         0.0       10.0        0.0        2.8        0.0
+  Goldbach         1.6        0.0       10.0       10.0        3.4
+    Saidak         2.4        0.0        3.0       10.0        2.8
+Wunderlich         0.0        0.0        6.8        8.4       10.0
+
+diag mean=10.00 | hors-diag mean=2.18 | MARGE=7.82  (off sd cellules=2.93)
